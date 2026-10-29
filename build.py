@@ -38,10 +38,13 @@ CITIES = [
         "spots": "Pech in een tunnel of op een brug is extra gevaarlijk. Op plekken als de Maastunnel, de Beneluxtunnel en de Van Brienenoordbrug volgt u altijd de aanwijzingen van de weginspecteur of de verkeerscentrale; daarna halen wij uw auto op en brengen hem naar een veilige plek of uw garage.",
         "areas": ["Centrum", "Kralingen", "Feijenoord", "Charlois", "IJsselmonde", "Hillegersberg", "Prins Alexander", "Overschie", "Delfshaven", "Hoogvliet", "Schiedam", "Capelle aan den IJssel", "Barendrecht", "Ridderkerk"],
         "faq": [
+            ("Slepen jullie ook vrachtwagens en bussen in Rotterdam?", "Ja. Voor zware voertuigen zetten we een partner met een zware berger in, ook in de Botlek, Europoort en op de Maasvlakte. U belt hetzelfde nummer en hoort vooraf de prijs."),
             ("Kunnen jullie ook in de Rotterdamse haven slepen?", "Ja. We halen voertuigen op in het hele havengebied, van de Waalhaven tot de Botlek. Op afgesloten terreinen hebben we wel toestemming van de terreinbeheerder nodig; geef bij uw melding door waar u precies staat."),
             ("Mijn auto staat in een parkeergarage in het centrum. Kan dat?", "Vaak wel, maar niet elke garage is hoog genoeg voor een plateauwagen. Noem bij het bellen de naam van de garage en de verdieping, dan bekijken we vooraf de beste aanpak."),
         ],
         "near": ["spijkenisse", "dordrecht", "gorinchem"],
+        "local_h": "Vrachtwagens, bussen en de haven",
+        "local": ["Rond de Botlek, Europoort en de Maasvlakte rijden dag en nacht vrachtwagens en opleggers. Valt een truck, bus of trekker met oplegger stil, dan zetten wij een partner met een zware berger in. U belt gewoon hetzelfde nummer en hoort vooraf wat het kost.", "Op de haventerreinen is een straatnaam vaak niet genoeg. Geef de naam van het bedrijf, de terminal of het poortnummer door, of deel uw locatie via WhatsApp. Meld bij de portier dat er een sleepwagen komt; dan staat de slagboom open als we aankomen.", "In de stad zelf gaat het vaker om personenauto&#x27;s en bestelbussen: een lege accu in Kralingen, een lekke band op de Maasboulevard of een auto die na een aanrijding in Delfshaven niet meer rijdt. Ook daar brengen we uw voertuig naar de garage of het adres dat u kiest."],
     },
     {
         "slug": "dordrecht", "name": "Dordrecht", "prov": "Zuid-Holland",
@@ -50,10 +53,13 @@ CITIES = [
         "spots": "Stilstaan in de Drechttunnel of op de A16 bij de Moerdijk? Zet uw alarmlichten aan, blijf in de auto met de gordel om als er geen vluchtstrook is en bel 112 bij gevaar. Zodra het veilig kan, zijn wij er om uw voertuig weg te slepen.",
         "areas": ["Binnenstad", "Stadspolders", "Sterrenburg", "Dubbeldam", "Zwijndrecht", "Papendrecht", "Sliedrecht", "Hendrik-Ido-Ambacht", "Alblasserdam"],
         "faq": [
+            ("Zijn jullie ook een bergingsbedrijf na een ongeval in Dordrecht?", "Ja. We halen uw auto na een ongeval op en brengen hem naar een schadeherstelbedrijf of een stalling. De prijs hoort u vooraf."),
             ("Helpen jullie ook in Sliedrecht en Papendrecht?", "Ja. De hele Drechtsteden-regio valt binnen ons werkgebied, inclusief Sliedrecht, Papendrecht, Zwijndrecht, Hendrik-Ido-Ambacht en Alblasserdam."),
             ("Kunnen jullie mijn auto naar een garage in Rotterdam brengen?", "Zeker. We brengen uw auto naar elk adres dat u kiest, ook buiten Dordrecht. U hoort vooraf wat het transport kost."),
         ],
         "near": ["rotterdam", "gorinchem", "breda"],
+        "local_h": "Bergingsbedrijf voor Dordrecht en de Drechtsteden",
+        "local": ["Zoekt u een bergingsbedrijf in Dordrecht na een ongeval? Wij halen uw auto op en brengen hem naar een schadeherstelbedrijf of een veilige stalling. U hoort vooraf wat het kost.", "In de historische binnenstad, rond de Voorstraat en de oude havens, zijn de straten smal en vaak druk. Geef bij het bellen door of de auto aan een kade of in een smalle straat staat; dan sturen we een wagen die er goed kan komen.", "Op de bedrijventerreinen langs de Dordtse Kil en in de Zeehavens gaat het vaker om bestelbussen en bedrijfsauto&#x27;s. Noem de bedrijfsnaam of het hal-nummer, dan vinden we u sneller."],
     },
     {
         "slug": "breda", "name": "Breda", "prov": "Noord-Brabant",
@@ -62,10 +68,13 @@ CITIES = [
         "spots": "Rijdt u vanuit België of Duitsland en krijgt u pech rond Breda? Geen probleem: we brengen uw auto naar een garage in de buurt of naar een adres naar keuze, ook als het een buitenlands kenteken heeft.",
         "areas": ["Centrum", "Princenhage", "Haagse Beemden", "Ginneken", "Bavel", "Prinsenbeek", "Teteringen", "Etten-Leur", "Oosterhout", "Zundert"],
         "faq": [
+            ("Komen jullie ook bij Hazeldonk aan de grens?", "Ja. We halen auto&#x27;s op langs de hele A16 bij Breda, tot aan de grens bij Hazeldonk."),
             ("Slepen jullie ook auto's met een buitenlands kenteken?", "Ja. We slepen elk voertuig, ongeacht het land van registratie. Heeft u een buitenlandse pechhulpverzekering? Houd dan uw polisgegevens bij de hand."),
             ("Kan mijn auto bij jullie gestald worden tot de garage open is?", "Neem contact met ons op. We zoeken samen naar een veilige oplossing, bijvoorbeeld transport naar een garage die de volgende ochtend direct aan de slag kan."),
         ],
         "near": ["tilburg", "dordrecht", "goes"],
+        "local_h": "Rond knooppunt Princeville en Galder",
+        "local": ["Bij Breda komen de A16 en de A58 samen, bij de knooppunten Princeville en Galder. Richting de grens bij Hazeldonk rijdt veel verkeer uit België en Frankrijk. Krijgt u daar pech, dan is het hectometerpaaltje of de laatste afrit het snelste om door te geven.", "In de binnenstad rond de Grote Markt en het Chassé zijn veel straten autoluw of smal. Staat uw auto in een parkeergarage, noem dan de naam van de garage en de verdieping.", "Naar huis in Belgi&euml; of verder? We brengen uw auto ook over de grens, met een prijs die u vooraf hoort."],
     },
     {
         "slug": "tilburg", "name": "Tilburg", "prov": "Noord-Brabant",
@@ -74,10 +83,13 @@ CITIES = [
         "spots": "Pech op een drukke ringbaan? Zet uw auto als het kan in een zijstraat of op een parkeerplaats, zet de alarmlichten aan en bel ons. Zo houdt u het voor uzelf en ander verkeer veilig.",
         "areas": ["Centrum", "Reeshof", "Noord", "Oud-Zuid", "Berkel-Enschot", "Udenhout", "Goirle", "Oisterwijk", "Dongen", "Hilvarenbeek"],
         "faq": [
+            ("Helpen jullie ook bij de Efteling?", "Ja. Ook in Kaatsheuvel en op de parkeerterreinen van de Efteling halen we auto&#x27;s op."),
             ("Ik ben student en heb geen pechhulpverzekering. Wat nu?", "Geen probleem: u kunt ons ook zonder verzekering bellen. We noemen vooraf een vaste prijs, zodat u niet voor verrassingen komt te staan."),
             ("Kunnen jullie een auto ophalen die al lang stilstaat?", "Ja. Ook voertuigen zonder APK of die al tijden niet meer rijden, brengen we naar de garage, het demontagebedrijf of een ander adres."),
         ],
         "near": ["breda", "den-bosch"],
+        "local_h": "De ringbanen en de bedrijventerreinen",
+        "local": ["Tilburg heeft vier ringbanen rond het centrum. Daar is het druk, maar er zijn ook veel zijstraten waar u veilig kunt stoppen. Zeg ons op welke ringbaan u staat en bij welke kruising.", "Op de bedrijventerreinen Vossenberg en Loven staan veel distributiecentra. Hier gaat het vaak om bestelbussen en bedrijfsauto&#x27;s. Geef de naam van het bedrijf of het dock-nummer door.", "Rond de Efteling in Kaatsheuvel en op de A58 en A65 richting Den Bosch is het in vakanties extra druk. Pech op de parkeerplaats van een attractiepark? Noem het parkeervak, dan vinden we u zo."],
     },
     {
         "slug": "den-bosch", "name": "'s-Hertogenbosch", "prov": "Noord-Brabant",
@@ -86,10 +98,13 @@ CITIES = [
         "spots": "Op de A2 rond Den Bosch rijdt veel vrachtverkeer. Staat u op de vluchtstrook? Ga achter de vangrail staan, trek een veiligheidshesje aan en bel ons. Wij komen met een plateauwagen en brengen uw auto naar uw garage.",
         "areas": ["Binnenstad", "Rosmalen", "Empel", "Engelen", "Maaspoort", "De Groote Wielen", "Vught", "Sint-Michielsgestel", "Den Dungen"],
         "faq": [
+            ("Komen jullie ook in Rosmalen en Vught?", "Ja. Rosmalen, Vught en de dorpen rond Den Bosch vallen binnen ons werkgebied."),
             ("Werken jullie ook in de Bommelerwaard?", "Ja. Vanuit Den Bosch helpen we ook in Zaltbommel, Rossum en de rest van de Bommelerwaard, en richting Gorinchem."),
             ("Mijn elektrische auto heeft een lege accu. Kunnen jullie die slepen?", "Ja. Elektrische auto's vervoeren we altijd op een plateauwagen, met alle vier de wielen van de grond, zodat de aandrijving niet beschadigt."),
         ],
         "near": ["tilburg", "gorinchem"],
+        "local_h": "Knooppunt Empel, Hintham en de binnenstad",
+        "local": ["Rond Den Bosch komen de A2 en de A59 samen bij de knooppunten Empel en Hintham. Daar wordt veel geweven en is het in de spits vol. Geef bij pech de rijrichting en het hectometerpaaltje door.", "De binnenstad binnen de vestingwallen heeft smalle straten en veel voetgangersgebied. Staat uw auto daar, zeg het ons, dan kijken we hoe we er het beste bij kunnen.", "Bij evenementen in de Brabanthallen en in Rosmalen kunnen de wegen vaststaan. Na afloop kan het even duren voordat een sleepwagen er is; we houden u op de hoogte."],
     },
     {
         "slug": "gorinchem", "name": "Gorinchem", "prov": "Zuid-Holland",
@@ -98,10 +113,13 @@ CITIES = [
         "spots": "Bruggen als de Merwedebrug hebben vaak geen vluchtstrook. Krijgt u daar pech? Zet uw alarmlichten aan, blijf met de gordel om in de auto zitten en bel 112 bij gevaar. Daarna slepen wij uw auto weg.",
         "areas": ["Binnenstad", "Lingewijk", "Laag-Dalem", "Arkel", "Hardinxveld-Giessendam", "Leerdam", "Sleeuwijk", "Woudrichem", "Werkendam", "Sliedrecht"],
         "faq": [
+            ("Kunnen jullie mijn auto van de Merwedebrug halen?", "Staat u op de brug, bel dan eerst 112 of Rijkswaterstaat; zij zetten de rijstrook af. Daarna halen wij uw auto op en brengen hem naar de garage."),
             ("Helpen jullie ook aan de Brabantse kant van de Merwede?", "Ja. Ook in Sleeuwijk, Werkendam, Woudrichem en de rest van Altena zijn we actief."),
             ("Kunnen jullie een aanhanger of caravan meenemen?", "Bel ons en vertel wat u vervoert. Vaak kunnen we auto én aanhanger in één keer meenemen of regelen we een tweede rit."),
         ],
         "near": ["dordrecht", "den-bosch", "rotterdam"],
+        "local_h": "Knooppunt Gorinchem en de Merwedebrug",
+        "local": ["Bij Gorinchem kruisen de A15 en de A27. Op de A27 ligt de Merwedebrug naar Brabant, met weinig ruimte om te stoppen. Rij als het kan door tot na de brug en zet de auto daar veilig neer.", "In de vestingstad zijn de straten smal en de bruggetjes laag. Op bedrijventerrein Avelingen staan veel bedrijven langs het water; noem daar de bedrijfsnaam.", "Ook richting Arkel, Hardinxveld-Giessendam en Leerdam halen we auto&#x27;s op en brengen we ze naar uw eigen garage."],
     },
     {
         "slug": "spijkenisse", "name": "Spijkenisse", "prov": "Zuid-Holland",
@@ -110,10 +128,13 @@ CITIES = [
         "spots": "Rijdt u naar de Maasvlakte of het strand bij Rockanje en krijgt u onderweg pech? We halen uw auto op en brengen hem terug naar huis of naar een garage in de buurt.",
         "areas": ["Centrum", "Maaswijk", "Groenewoud", "De Akkers", "Hoogvliet", "Geervliet", "Zuidland", "Hellevoetsluis", "Brielle", "Rozenburg"],
         "faq": [
+            ("Komen jullie ook naar de Maasvlakte?", "Ja. Geef de naam van het bedrijf of de terminal door; meld bij de portier dat er een sleepwagen komt."),
             ("Komen jullie ook naar Hellevoetsluis en Brielle?", "Ja. Heel Voorne aan Zee valt binnen ons werkgebied, ook de stranden en campings bij Rockanje en Oostvoorne."),
             ("Kan ik met de sleepwagen meerijden?", "In de meeste gevallen wel, als er plek is in de cabine. Geef bij het bellen door met hoeveel personen u bent."),
         ],
         "near": ["rotterdam", "dordrecht"],
+        "local_h": "Bruggen, tunnels en Voorne aan Zee",
+        "local": ["Rond Spijkenisse liggen de Spijkenissebrug, de Botlekbrug en de Botlektunnel op de A15. Bij een open brug of een afgesloten tunnel kan het even duren voordat we er zijn; we zeggen het u eerlijk.", "In de zomer rijden veel mensen naar de stranden van Rockanje en Oostvoorne. Pech op een parkeerterrein bij het strand? Geef de naam van de strandopgang of het parkeerterrein door.", "Werkt u op de Maasvlakte of in Europoort en start uw auto niet na de dienst? Noem het bedrijf en de poort, dan regelen we de rest."],
     },
     {
         "slug": "goes", "name": "Goes", "prov": "Zeeland",
@@ -122,10 +143,13 @@ CITIES = [
         "spots": "Bent u op vakantie en staat u met pech op een camping of bij het strand? Wij brengen uw auto naar een garage in de buurt, en denken mee over vervoer terug naar huis.",
         "areas": ["Centrum", "Goes-Oost", "Kloetinge", "'s-Heer Arendskerke", "Kapelle", "Wemeldinge", "Yerseke", "Kruiningen", "Middelburg", "Vlissingen"],
         "faq": [
+            ("Komen jullie ook op Schouwen-Duiveland?", "Ja. Via de Zeelandbrug helpen we ook in Zierikzee en de rest van het eiland."),
             ("Helpen jullie ook toeristen met een caravan of camper?", "Ja. Meld bij het bellen dat het om een caravan of camper gaat, dan sturen we het juiste materieel."),
             ("Werken jullie ook in Zeeuws-Vlaanderen?", "Ja, via de Westerscheldetunnel helpen we ook in Terneuzen en omgeving."),
         ],
         "near": ["breda", "rotterdam"],
+        "local_h": "A58, Zeelandbrug en Westerscheldetunnel",
+        "local": ["Goes ligt aan de A58 tussen Bergen op Zoom en Vlissingen. Naar Schouwen-Duiveland gaat u over de Zeelandbrug, naar Zeeuws-Vlaanderen door de Westerscheldetunnel. Op de brug en in de tunnel stopt u alleen in nood; bel dan eerst 112.", "In de zomer staan de campings rond het Veerse Meer en de Oosterschelde vol. Met een caravan of camper op de weg? Zeg het ons, dan sturen we een wagen die het gewicht aankan.", "Ook in Kapelle, Kruiningen, Yerseke en de dorpen op Zuid-Beveland halen we auto&#x27;s op en brengen we ze naar de garage die u kiest."],
     },
 ]
 BY_SLUG = {c["slug"]: c for c in CITIES}
@@ -463,6 +487,7 @@ def city_page(c):
       <h3>Pech op een lastige plek</h3>
       <p>{escape(c["spots"])}</p>
       <p>Wat u precies moet doen als u stilvalt, leest u in onze gids <a href="/pech-op-de-snelweg/">pech op de snelweg</a>.</p>
+      {("<h3>" + escape(c["local_h"]) + "</h3>" + "".join("<p>" + p + "</p>" for p in c.get("local", []))) if c.get("local") else ""}
       <h3>Wat wij doen in {n}</h3>
       <ul class="checks">
         <li>Auto slepen na pech of een ongeval</li>
