@@ -534,7 +534,7 @@ def city_page(c):
             {"@type": "ListItem", "position": 2, "name": f"Sleepdienst {c['name']}", "item": SITE + path}]},
     ]}
     return page(title=f"Sleepdienst {c['name']} 24/7 | {NAME}",
-                desc=f"Sleepdienst in {c['name']} nodig? {NAME} helpt 24/7 met pechhulp, slepen en autotransport in {c['name']} en omgeving. Vooraf een vaste prijs. Bel {PHONE_DISPLAY}.",
+                desc=f"Sleepdienst {c['name']} 24/7: pechhulp, slepen en autotransport in {c['name']} en omgeving. Vaste prijs vooraf. Bel {PHONE_DISPLAY}.",
                 path=path, body=body, schema=schema, crumbs=[f"Sleepdienst {c['name']}"])
 
 
