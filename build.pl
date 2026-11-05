@@ -142,6 +142,17 @@ sub map_for {
   $m;
 }
 
+# Plaatsnamen in "Wij helpen ook in" worden een link als die plaats een eigen pagina heeft.
+my %CHIP = (map({ esc($PLACE{$_}{name}) => $_ } keys %PLACE),
+  Botlek => 'botlek-maasvlakte', Maasvlakte => 'botlek-maasvlakte',
+  Charlois => 'rotterdam-zuid', Feijenoord => 'rotterdam-zuid', IJsselmonde => 'rotterdam-zuid');
+sub link_chips {
+  my ($html, $self) = @_;
+  $html =~ s{<span>([^<]+)</span>}{ my $n = $1; my $t = $CHIP{$n};
+    ($t && $t ne $self) ? qq(<a href="/sleepdienst-$t/">$n</a>) : "<span>$n</span>" }ge;
+  $html;
+}
+
 my $DOES = sub {
   my $n = shift;
   qq(<h3>Wat wij doen in $n</h3>\n      <ul class="checks">\n)
@@ -149,7 +160,9 @@ my $DOES = sub {
   .qq(        <li><span><a href="/pechhulp/">Pechhulp</a> ter plaatse: <a href="/starthulp/">starthulp</a>, lege accu, band wisselen</span></li>\n)
   .qq(        <li><span><a href="/autotransport/">Autotransport</a> naar garage, huis of demontagebedrijf</span></li>\n)
   .qq(        <li><span><a href="/bergingsbedrijf/">Berging</a> na een ongeval, ook van <a href="/vrachtwagen-berging/">vrachtwagens</a> via een partner</span></li>\n)
-  .qq(        <li><span><a href="/elektrische-auto-slepen/">Transport van elektrische auto&#x27;s</a> op een plateauwagen</span></li>\n      </ul>);
+  .qq(        <li><span><a href="/elektrische-auto-slepen/">Transport van elektrische auto&#x27;s</a> op een plateauwagen</span></li>\n)
+  .qq(        <li><span><a href="/autoambulance/">Autoambulance</a> voor auto&#x27;s die niet meer mogen of kunnen rijden, en <a href="/motor-vervoeren/">motoren vervoeren</a></span></li>\n)
+  .qq(        <li><span>Hulp bij <a href="/verkeerd-getankt/">verkeerd getankt</a>, en uitleg over <a href="/wat-kost-een-sleepdienst/">wat een sleepdienst kost</a></span></li>\n      </ul>);
 };
 
 # ===== Stadspagina =====
@@ -157,7 +170,7 @@ sub town_page {
   my $c = shift; my $s = $c->{slug}; my $raw = $c->{name}; my $n = esc($raw);
   my ($lon, $lat) = split ' ', $c->{geo};
   my $roads = join '', map { '<li>'.typo($_).'</li>' } @{ $c->{road} };
-  my $areas = join '', map { '<span>'.esc($_).'</span>' } split /, /, $c->{area};
+  my $areas = link_chips(join('', map { '<span>'.esc($_).'</span>' } split /, /, $c->{area}), $s);
   my $near  = join '', map { card($_) } split /, /, $c->{near};
   my $local = join "\n      ", map { '<p>'.typo($_).'</p>' } @{ $c->{local} };
   my @faqs = (split_faq(@{ $c->{faq} }),
@@ -367,17 +380,36 @@ for my $s (sort keys %OLD) {
   my $does = $DOES->($n);
   $h =~ s{<h3>Wat wij doen in .*?</ul>}{$does}s or die "$s: lijst";
   my $near = join '', map { card($_) } split /, /, $e->{near};
-  $h =~ s{<div class="cities-grid near">.*?</div>}{<div class="cities-grid near">$near</div>}s or die "$s: near";
+  $h =~ s{<div class="cities-grid near">.*?</div>(?:<!--hub-->.*?<!--/hub-->)?}{<div class="cities-grid near">$near</div><!--hub--><p style="margin-top:22px;text-align:center"><a href="/werkgebied/">Bekijk ons hele werkgebied</a></p><!--/hub-->}s or die "$s: near";
+  $h =~ s{(<div class="cities">)(.*?)(</div>)}{$1.link_chips($2, $s).$3}se or die "$s: chips";
   wr($f, patch_footer($h));
 }
-for my $f (qw(pech-op-de-snelweg/index.html elektrische-auto-slepen/index.html privacy/index.html)) {
-  wr($f, patch_footer(rd("$ROOT/$f")));
+sub town_links {
+  my $r = shift;
+  join ', ', map { qq(<a href="/sleepdienst-$_/">).esc($PLACE{$_}{name}).'</a>' }
+    sort { $PLACE{$a}{name} cmp $PLACE{$b}{name} } grep { $PLACE{$_}{region} eq $r } keys %PLACE;
 }
+my $ALL_TOWNS = join '', map { "<p><strong>$_->[1]:</strong> ".town_links($_->[0]).'.</p>' } @REGIONS;
+{
+  my $f = 'pech-op-de-snelweg/index.html'; my $h = rd("$ROOT/$f");
+  my $b = qq(<!--links--><h2>Hulp bij u in de buurt</h2>\n      $ALL_TOWNS\n      <p>Lees ook over <a href="/pechhulp/">pechhulp zonder abonnement</a>, <a href="/autoambulance/">de autoambulance</a>, <a href="/bergingsbedrijf/">berging na een ongeval</a>, <a href="/vrachtwagen-berging/">vrachtwagen berging</a> en <a href="/wat-kost-een-sleepdienst/">wat een sleepdienst kost</a>.</p><!--/links-->);
+  $h =~ s{<!--links-->.*?<!--/links-->\s*}{}s;
+  $h =~ s{(</article>)}{$b\n    $1} or die 'snelweg links';
+  wr($f, patch_footer($h));
+}
+{
+  my $f = 'elektrische-auto-slepen/index.html'; my $h = rd("$ROOT/$f");
+  my $b = qq(<!--links--><p>Staat uw auto stil door iets anders? Lees over <a href="/starthulp/">starthulp bij een lege accu</a>, <a href="/autoambulance/">de autoambulance</a>, <a href="/autotransport/">autotransport</a>, <a href="/verkeerd-getankt/">verkeerd getankt</a> en <a href="/wat-kost-een-sleepdienst/">wat een sleepdienst kost</a>. Bekijk ook <a href="/werkgebied/">alle plaatsen in ons werkgebied</a>.</p><!--/links-->);
+  $h =~ s{<!--links-->.*?<!--/links-->\s*}{}s;
+  $h =~ s{(</article>)}{$b\n    $1} or die 'ev links';
+  wr($f, patch_footer($h));
+}
+wr('privacy/index.html', patch_footer(rd("$ROOT/privacy/index.html")));
 {
   my $h = rd("$ROOT/index.html");
   my @home = qw(rotterdam eindhoven barendrecht breda dordrecht tilburg den-bosch schiedam rotterdam-zuid gorinchem spijkenisse goes);
   my $grid = join '', map { card($_) } @home;
-  $h =~ s{<div class="cities-grid">.*?</div>(?:<!--alle-->.*?<!--/alle-->)?}{<div class="cities-grid">$grid</div><!--alle--><p style="margin-top:18px"><a class="btn btn-navy" href="/werkgebied/">Alle plaatsen in ons werkgebied</a></p><!--/alle-->}s or die 'home grid';
+  $h =~ s{<div class="cities-grid">.*?</div>(?:<!--alle-->.*?<!--/alle-->)?}{<div class="cities-grid">$grid</div><!--alle--><div class="town-links" style="margin-top:18px">$ALL_TOWNS</div><p style="margin-top:18px"><a class="btn btn-navy" href="/werkgebied/">Alle plaatsen in ons werkgebied</a></p><!--/alle-->}s or die 'home grid';
   my $svc = join '', map { svc_card($_) } @SERVICES;
   my $sec = qq(<!--alle-diensten--><section class="section area"><div class="container"><h2 class="title center">Al onze <span class="hl">diensten</span></h2><div class="cities-grid near">$svc</div></div></section><!--/alle-diensten-->\n);
   $h =~ s{<!--alle-diensten-->.*?<!--/alle-diensten-->\s*}{}s;
