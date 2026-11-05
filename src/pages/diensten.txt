@@ -1,0 +1,288 @@
+# Dienstpagina's: keuze op basis van Keyword Planner NL (maandvolume in commentaar)
+
+# pechhulp 4.400, pechhulp zonder abonnement 260, pech onderweg 390
+@@service pechhulp
+crumb: Pechhulp
+cardsub: Zonder abonnement
+title: Pechhulp zonder abonnement, 24/7 | Sleepdienst Janssen
+desc: Pech onderweg en geen abonnement? Bel Sleepdienst Janssen: starthulp, band wisselen of slepen. De prijs spreken we vooraf af. 24/7: 0970 1022 9095.
+h1: <span>Pechhulp</span> zonder abonnement
+hero: Pech onderweg en geen ANWB-lidmaatschap of verzekering? Dat is geen probleem. U belt, u hoort wat het kost en u betaalt alleen deze ene keer. Wij helpen dag en nacht in Rotterdam, de Drechtsteden, Brabant en Zeeland.
+side: Pech onderweg?
+faqh: Vragen over pechhulp
+near: rotterdam, dordrecht, breda, tilburg, eindhoven, goes
+check: Geen abonnement nodig
+check: Prijs vooraf afgesproken
+check: Starthulp en bandenwissel
+check: Lukt het niet, dan slepen we
+html: <h2>Pech onderweg? Dit doen we voor u</h2>
+html: <p>De meeste pech is geen ramp, maar wel vervelend op het verkeerde moment. Bel ons, vertel wat de auto doet en waar u staat. We kijken samen wat de beste oplossing is. Vaak kan het ter plaatse, soms moet de auto mee.</p>
+html: <ul class="checks"><li><span><a href="/starthulp/">Starthulp</a> bij een lege accu</span></li><li><span>Band wisselen als u een reservewiel heeft</span></li><li><span>Advies bij <a href="/verkeerd-getankt/">verkeerd getankt</a> en vervoer naar een garage</span></li><li><span><a href="/takelwagen/">Slepen</a> naar de garage die u kiest als het ter plaatse niet lukt</span></li></ul>
+html: <h2>Geen ANWB of Wegenwacht? Geen probleem</h2>
+html: <p>U hoeft nergens lid van te worden. Er is geen jaarbedrag en geen wachttijd. U betaalt alleen deze ene keer, en u hoort de prijs voordat er iemand vertrekt. Vindt u het te duur, dan hoeft u niet akkoord te gaan.</p>
+html: <p>Bent u wel verzekerd? Kijk dan even in uw polis. Veel autoverzekeringen en creditcards dekken pech of slepen. Bewaar de factuur, dan kunt u die later indienen.</p>
+html: <h2>Wat u bij het bellen klaar kunt houden</h2>
+html: <ul class="checks"><li><span><b>Uw locatie.</b> Op de snelweg het wegnummer, de rijrichting en het hectometerpaaltje.</span></li><li><span><b>Uw kenteken</b> en het merk en model.</span></li><li><span><b>Wat de auto doet.</b> Geen reactie, wel starten maar niet lopen, een rare geur, rook of een waarschuwingslampje.</span></li><li><span><b>Waar de auto heen moet</b> als het ter plaatse niet lukt.</span></li></ul>
+html: <h2>Veilig wachten</h2>
+html: <p>Zet de alarmlichten aan en zet de auto zo ver mogelijk van de rijbaan. Op de snelweg gaat u achter de vangrail staan. Bij direct gevaar belt u 112. Lees er meer over in onze gids <a href="/pech-op-de-snelweg/">pech op de snelweg</a>.</p>
+faq: Wat kost pechhulp zonder abonnement? :: Dat hangt af van de plek, het tijdstip en wat er nodig is. U hoort de prijs aan de telefoon, en we spreken die af voordat er iemand vertrekt.
+faq: Moet ik lid worden om geholpen te worden? :: Nee. U betaalt alleen deze ene keer. U zit nergens aan vast.
+faq: Hoe snel kunnen jullie er zijn? :: Dat hangt af van waar u staat en van de drukte op de weg. U krijgt aan de telefoon een inschatting van de aankomsttijd.
+faq: Repareren jullie ook ter plaatse? :: Kleine pech zoals een lege accu of een band vaak wel. Bij grotere problemen brengen we de auto naar de garage.
+
+# autoambulance 2.900
+@@service autoambulance
+crumb: Autoambulance
+cardsub: Vervoer op een plateauwagen
+title: Autoambulance nodig? 24/7 op een plateauwagen | Janssen
+desc: Autoambulance voor uw kapotte auto: 24/7 vervoer op een plateauwagen naar garage of huis. De prijs spreken we vooraf af. Bel 0970 1022 9095.
+h1: Autoambulance <span>nodig?</span>
+hero: Is uw auto kapot, heeft hij een ongeluk gehad of mag hij de weg niet meer op? Een autoambulance brengt hem op een plateauwagen naar uw garage, naar huis of naar een schadebedrijf. Wij regelen dat dag en nacht.
+side: Autoambulance bellen
+faqh: Vragen over de autoambulance
+near: rotterdam, schiedam, dordrecht, breda, eindhoven, middelburg
+check: Plateauwagen met lier
+check: Alle vier de wielen van de grond
+check: Ook auto's zonder APK
+check: Naar elk adres
+html: <h2>Wat is een autoambulance?</h2>
+html: <p>Autoambulance is een andere naam voor een sleepwagen met een plateau. De auto wordt met een lier op het plateau getrokken en daar vastgezet, met alle wielen van de grond. Daarmee is hij veilig te vervoeren, ook als hij zelf niet meer kan rijden of sturen.</p>
+html: <h2>Wanneer belt u een autoambulance?</h2>
+html: <ul class="checks"><li><span>Na <a href="/bergingsbedrijf/">een ongeval</a>, als de auto niet meer veilig kan rijden.</span></li><li><span>Bij motorschade, koppelingsproblemen of een versnellingsbak die het begeeft.</span></li><li><span>Als u een auto zonder APK of verzekering wilt verplaatsen. Die mag de weg niet op rijden.</span></li><li><span>Bij een <a href="/elektrische-auto-slepen/">elektrische auto</a> die stilstaat. Die hoort op een plateau.</span></li><li><span>Als u een klassieker of sportauto heeft en niet wilt slepen aan een kabel.</span></li></ul>
+html: <h2>Waarheen?</h2>
+html: <p>U bepaalt zelf waar de auto naartoe gaat: uw vaste garage, uw huis, een dealer, een schadebedrijf of een demontagebedrijf. Is het 's nachts en uw garage dicht? Dan kijken we samen naar de beste oplossing, zoals een veilige plek tot de volgende ochtend.</p>
+html: <h2>Hoe gaat het in zijn werk?</h2>
+html: <p>U belt en noemt de plek, het kenteken en de bestemming. U hoort de prijs en hoe laat we er ongeveer zijn. De chauffeur laadt uw auto, zet hem vast en rijdt naar het adres dat u noemt. Als er plek is in de cabine, kunt u meerijden. Noem bij het bellen met hoeveel personen u bent.</p>
+html: <p>Is er weinig ruimte, bijvoorbeeld in een parkeergarage of een smalle straat, zeg dat dan vooraf. Dan kijken we of we er met een plateauwagen kunnen komen, of dat de auto eerst even verplaatst moet worden.</p>
+faq: Wat kost een autoambulance? :: De prijs hangt af van de afstand, de plek en het tijdstip. U hoort de prijs aan de telefoon en we spreken die af voordat de wagen vertrekt.
+faq: Mag een auto zonder APK op een autoambulance? :: Ja. Op een plateauwagen rijdt uw auto niet zelf op de weg, dus dan kan hij zonder APK vervoerd worden.
+faq: Mag ik meerijden met de autoambulance? :: Meestal wel, als er plek is in de cabine. Noem bij het bellen met hoeveel personen u bent.
+faq: Kunnen jullie een auto met blokkerende wielen laden? :: Vaak wel, maar noem het vooraf. Met hulpmiddelen kan de chauffeur de auto dan toch op het plateau krijgen.
+
+# autotransport 2.400, auto laten ophalen 90
+@@service autotransport
+crumb: Autotransport
+cardsub: Auto laten ophalen
+title: Autotransport: auto laten ophalen en wegbrengen | Janssen
+desc: Auto laten ophalen en wegbrengen? Autotransport op een plateauwagen, ook zonder APK, voor een prijs die we vooraf afspreken. Bel 0970 1022 9095.
+h1: <span>Autotransport</span>: auto laten ophalen
+hero: Heeft u een auto gekocht die ergens anders staat, moet er een auto naar de garage of naar een nieuw adres? Wij halen hem op en brengen hem weg op een plateauwagen. U hoort vooraf de prijs. Ook voor een auto die niet meer rijdt.
+side: Auto laten vervoeren
+faqh: Vragen over autotransport
+near: rotterdam, dordrecht, tilburg, breda, roosendaal, goes
+check: Particulier en zakelijk
+check: Ook zonder APK of kenteken
+check: Ook over de grens
+check: Prijs per rit afgesproken
+html: <h2>Wanneer laat u uw auto vervoeren?</h2>
+html: <ul class="checks"><li><span><b>Een aankoop ophalen.</b> U koopt een auto via Marktplaats of bij een dealer ver weg. Wij halen hem op en zetten hem bij u voor de deur.</span></li><li><span><b>Naar de garage.</b> De auto mag of kan niet meer rijden en moet naar uw vaste garage.</span></li><li><span><b>Verhuizing.</b> Een tweede auto moet mee, of de auto moet naar een ander adres.</span></li><li><span><b>Naar de sloop.</b> De auto gaat naar een erkend demontagebedrijf.</span></li><li><span><b>Klassieker of sportauto.</b> Niet zelf rijden, geen kilometers erbij en geen risico onderweg.</span></li></ul>
+html: <h2>Wat we graag vooraf weten</h2>
+html: <p>Noem het ophaaladres en het afleveradres, het merk en model, en of de auto zelf kan rijden. Noem ook of er een sleutel is, en of de wielen vrij draaien. Hoe meer we weten, hoe scherper we de prijs kunnen afspreken en hoe minder er onderweg misgaat.</p>
+html: <h2>Haast of juist een afspraak?</h2>
+html: <p>Bij pech gaat het snel en rijden we zo gauw er een wagen vrij is. Plant u het vervoer vooruit, dan kunnen we vaak een rit afspreken die uitkomt op een vast moment. Dat is bij een aankoop of een verhuizing vaak handiger.</p>
+html: <h2>Naar het buitenland?</h2>
+html: <p>Ook een rit over de grens kan, zoals naar België of Duitsland. Noem het adres. U hoort vooraf de prijs voor de hele rit, inclusief wat er onderweg bij komt, zoals tol.</p>
+faq: Wat kost autotransport? :: Dat hangt af van de afstand, het voertuig en of de auto zelf kan rijden. Noem de twee adressen, dan hoort u de prijs voor de rit.
+faq: Kan een auto zonder kenteken of APK vervoerd worden? :: Ja. Op een plateauwagen rijdt de auto niet zelf op de weg. Noem het wel vooraf, en zorg dat u kunt aantonen dat u de auto mag ophalen.
+faq: Moet ik erbij zijn bij het ophalen en afleveren? :: Dat is het handigst, maar het hoeft niet altijd. Spreek af wie de sleutels geeft en wie er tekent.
+faq: Vervoeren jullie ook bestelbussen en motoren? :: Ja. Noem het voertuig, want voor een <a href="/motor-vervoeren/">motor</a> zijn andere spanbanden nodig dan voor een bestelbus.
+
+# bergingsbedrijf 1.000, autoberging 110
+@@service bergingsbedrijf
+crumb: Bergingsbedrijf
+cardsub: Auto na een ongeval
+title: Bergingsbedrijf 24/7: auto na een ongeval | Sleepdienst Janssen
+desc: Auto na een ongeval laten bergen? Wij halen hem op en brengen hem naar een schadebedrijf of stalling. 24/7, prijs vooraf afgesproken: 0970 1022 9095.
+h1: <span>Bergingsbedrijf</span> na een ongeval
+hero: Na een aanrijding wilt u dat uw auto snel en netjes wordt weggehaald. Wij bergen uw auto of bestelbus, ook uit een greppel of van een lastige plek, en brengen hem naar een schadeherstelbedrijf, een stalling of uw eigen garage.
+side: Berging nodig?
+faqh: Vragen over berging
+near: rotterdam, dordrecht, breda, tilburg, rotterdam-zuid, moerdijk
+check: Dag en nacht bereikbaar
+check: Ook uit een greppel of berm
+check: Naar schadebedrijf of stalling
+check: Zwaar werk via partners
+html: <h2>Na een ongeval: in deze volgorde</h2>
+html: <ul class="checks"><li><span><b>Veiligheid.</b> Alarmlichten aan, hesje aan en achter de vangrail. Bij letsel of gevaar belt u 112.</span></li><li><span><b>Gegevens.</b> Vul het Europees schadeformulier in met de andere partij en maak foto's.</span></li><li><span><b>Verzekeraar.</b> Bel uw verzekeraar. Soms regelen zij zelf een berger of hebben ze een voorkeursbedrijf.</span></li><li><span><b>Bergen.</b> Mag u zelf kiezen, bel ons dan. Noem het kenteken, de plek en de schade.</span></li></ul>
+html: <h2>Wat is het verschil tussen slepen en bergen?</h2>
+html: <p>Slepen doet u als de auto gewoon op de weg staat en alleen niet meer rijdt. Bergen is het weghalen van een auto na een ongeval of van een moeilijke plek, zoals uit een greppel, op zijn kant of tussen de bomen. Daar is meer materieel voor nodig, zoals een sterkere lier of een kraan. Noem wat u ziet, dan weten we wat er mee moet.</p>
+html: <h2>De weginspecteur of politie bepaalt soms wie er komt</h2>
+html: <p>Op de snelweg kan de weginspecteur of de politie een berger inschakelen om de rijbaan snel vrij te maken. Die gaat voor. Daarna kunnen wij de auto ophalen van het terrein en naar uw garage of schadebedrijf brengen.</p>
+html: <h2>Vrachtwagen of bus geborgen?</h2>
+html: <p>Voor een zwaar voertuig zetten we een partner met een zware berger in. Lees er meer over op onze pagina over <a href="/vrachtwagen-berging/">vrachtwagen berging</a>.</p>
+faq: Betaalt mijn verzekering de berging? :: Dat hangt af van uw polis. Vraag het uw verzekeraar. Bewaar in elk geval de factuur, zodat u die later kunt indienen.
+faq: Mag ik zelf een bergingsbedrijf kiezen? :: Vaak wel, tenzij de politie of de weginspecteur al een berger heeft ingeschakeld. Vraag het aan de hulpdiensten of uw verzekeraar.
+faq: Waar blijft mijn auto na de berging? :: Waar u wilt: bij een schadeherstelbedrijf, uw eigen garage, of bij u thuis. Is er 's nachts niets open, dan zoeken we samen een veilige plek.
+faq: Mijn auto ligt in een sloot. Kan dat ook? :: Ja, maar dat vraagt om meer materieel. Bel bij letsel eerst 112. Noem daarna hoe de auto ligt, dan sturen we de juiste berger.
+
+# takelwagen 1.000, sleepwagen 880, takeldienst 390, auto slepen 480
+@@service takelwagen
+crumb: Takelwagen
+cardsub: Sleepwagen en takeldienst
+title: Takelwagen of sleepwagen nodig? Bel 24/7 | Sleepdienst Janssen
+desc: Takelwagen of sleepwagen nodig om uw auto te slepen? Wij sturen 24/7 de dichtstbijzijnde wagen. De prijs spreken we vooraf af. Bel 0970 1022 9095.
+h1: <span>Takelwagen</span> of sleepwagen nodig?
+hero: Uw auto rijdt niet meer en moet weg? Bel ons en we sturen de wagen die het dichtst bij u is. Takelwagen, sleepwagen of takeldienst: voor u maakt het niet uit hoe het heet, als uw auto maar veilig op zijn plek komt.
+side: Takelwagen bellen
+faqh: Vragen over de takelwagen
+near: rotterdam, barendrecht, eindhoven, dordrecht, tilburg, gorinchem
+check: 24/7 de dichtstbijzijnde wagen
+check: Plateauwagen of wielbrug
+check: Auto's, bussen en motoren
+check: Prijs vooraf afgesproken
+html: <h2>Takelwagen, sleepwagen, takeldienst: wat is het verschil?</h2>
+html: <p>In Nederland wordt het allemaal door elkaar gebruikt. Een <b>sleepwagen</b> sleept of vervoert uw auto. Een <b>takelwagen</b> tilt de auto op, helemaal of aan één kant. De <b>takeldienst</b> is gewoon het bedrijf achter de wagen. Wat u nodig heeft, hangt af van uw auto en waar hij staat.</p>
+html: <h2>Welke wagen past bij uw auto?</h2>
+html: <ul class="checks"><li><span><b>Plateauwagen.</b> De auto staat met alle wielen op de wagen. Het veiligst, en de enige goede keuze voor <a href="/elektrische-auto-slepen/">elektrische auto's</a>, automaten en auto's met vierwielaandrijving.</span></li><li><span><b>Wielbrug.</b> De auto wordt aan voor- of achterkant opgetild. Handig op krappe plekken, maar niet voor elke aandrijving.</span></li><li><span><b>Zware berger.</b> Voor <a href="/vrachtwagen-berging/">vrachtwagens en bussen</a>, via een partner.</span></li></ul>
+html: <p>U hoeft dat niet zelf uit te zoeken. Noem het merk, het model en waar de auto staat, dan kiezen wij.</p>
+html: <h2>Zelf slepen met een sleepkabel?</h2>
+html: <p>Dat mag in Nederland alleen onder voorwaarden en niet op de snelweg of een autoweg. Bij een automaat of elektrische auto kan slepen schade geven. Twijfelt u? Bel ons even.</p>
+html: <h2>Wat gebeurt er als ik bel?</h2>
+html: <p>U noemt de plek, het kenteken en waar de auto heen moet. U hoort wat het kost en hoe laat de wagen er ongeveer is. Pas als u akkoord gaat, vertrekt hij. De chauffeur brengt uw auto naar de garage, naar huis of naar een ander adres.</p>
+faq: Hoe snel is er een takelwagen bij mij? :: Dat hangt af van de plek en de drukte op de weg. We sturen de wagen die het dichtst bij u is, en u krijgt een inschatting aan de telefoon.
+faq: Wat kost een takelwagen? :: Dat hangt af van de afstand, het voertuig en het tijdstip. U hoort de prijs vooraf. Meer uitleg vindt u bij <a href="/wat-kost-een-sleepdienst/">wat kost een sleepdienst</a>.
+faq: Hoeveel kan een sleepwagen dragen? :: Een gewone plateauwagen laadt personenauto's en lichte bestelbussen. Voor zwaardere voertuigen zetten we een partner in.
+faq: Kan ik een sleepwagen huren om zelf te rijden? :: Nee, wij verhuren geen wagens. Wij komen met chauffeur naar u toe en regelen het vervoer.
+
+# starthulp auto 720, accu leeg 260
+@@service starthulp
+crumb: Starthulp
+cardsub: Accu leeg
+title: Starthulp auto: accu leeg? We komen naar u toe | Janssen
+desc: Accu leeg en de auto start niet? Lees wat u zelf kunt doen, of bel voor starthulp aan huis of onderweg. 24/7, ook zonder abonnement: 0970 1022 9095.
+h1: <span>Starthulp</span>: accu leeg?
+hero: U draait de sleutel om, maar de auto doet niets of hij maakt alleen een klikgeluid. Vaak is het de accu. Bel ons voor starthulp, ook zonder abonnement, of lees hier hoe u het zelf met startkabels oplost.
+side: Starthulp nodig?
+faqh: Vragen over starthulp en een lege accu
+near: rotterdam, schiedam, vlaardingen, eindhoven, dordrecht, breda
+check: Bij u thuis of onderweg
+check: Geen abonnement nodig
+check: Ook elektrische auto's (12-volt)
+check: Prijs vooraf afgesproken
+html: <h2>Is het de accu? Zo herkent u het</h2>
+html: <ul class="checks"><li><span>De auto draait traag of maakt alleen een klikgeluid.</span></li><li><span>Het dashboard en de lampen zijn zwak of gaan uit bij het starten.</span></li><li><span>De auto reageert niet op de afstandsbediening.</span></li><li><span>Het is koud, of de auto heeft lang stilgestaan.</span></li></ul>
+html: <p>Draait de motor wel goed maar start hij niet, dan is het waarschijnlijk iets anders, zoals de brandstof of de ontsteking. Dan helpt starthulp niet en moet de auto meestal naar een garage.</p>
+html: <h2>Zelf starten met startkabels</h2>
+html: <ul class="checks"><li><span><b>Rood op plus.</b> Eerst aan uw lege accu, dan aan de volle accu van de andere auto.</span></li><li><span><b>Zwart op min.</b> Eerst aan de volle accu, dan aan een blank metalen deel van uw motor, niet op de lege accu.</span></li><li><span><b>Starten.</b> Laat de andere auto een paar minuten draaien en start dan de uwe.</span></li><li><span><b>Afnemen.</b> Haal de kabels er in omgekeerde volgorde af.</span></li></ul>
+html: <p>Kijk altijd eerst in uw handleiding. Bij sommige auto's, zoals hybrides, gelden aparte startpunten. Ruikt de accu raar, is hij bol of lekt hij? Niet starten, en bel ons.</p>
+html: <h2>Geen kabels of geen andere auto?</h2>
+html: <p>Dan komen wij. Bij u thuis, op het werk, op een parkeerplaats of langs de weg. Met de juiste startkabels of een booster is de auto vaak in korte tijd weer aan de gang. Daarna is het verstandig om een flink stuk te rijden, zodat de accu weer wat kan bijladen.</p>
+html: <h2>Accu steeds leeg?</h2>
+html: <p>Is de accu vaker leeg, dan is hij mogelijk aan vervanging toe of laadt de dynamo niet goed. Lukt het niet om te starten, dan brengen we de auto naar een <a href="/takelwagen/">garage</a> die het verder uitzoekt.</p>
+faq: Hoe lang moet ik rijden na starthulp? :: Rijd minstens een half uur, het liefst op een stuk weg waar u door kunt rijden. Korte stukjes laden de accu nauwelijks bij.
+faq: Geeft starthulp schade aan mijn auto? :: Niet als het goed gebeurt. Zet kabels in de juiste volgorde, zet de auto's uit voordat u ze aansluit, en kijk in uw handleiding.
+faq: Kan een elektrische auto ook starthulp krijgen? :: De 12-voltaccu wel. Die voedt de sloten en de elektronica. Is de grote accu leeg, dan moet de auto op een <a href="/elektrische-auto-slepen/">plateauwagen</a> naar een laadpunt.
+faq: Kunnen jullie ook een nieuwe accu meenemen? :: Dat hangt af van de auto en het moment. Vraag het als u belt. Lukt het niet, dan brengen we u naar een garage die een accu heeft.
+
+# motorfiets transport 320, motor vervoeren 70
+@@service motor-vervoeren
+crumb: Motor vervoeren
+cardsub: Motorfiets transport
+title: Motor vervoeren of motorfiets transport, 24/7 | Janssen
+desc: Motor kapot of laten vervoeren? We zetten uw motor veilig op de wagen en brengen hem naar garage of huis. Prijs vooraf afgesproken: 0970 1022 9095.
+h1: <span>Motor</span> vervoeren
+hero: Uw motor staat stil onderweg, u heeft er een gekocht die ergens anders staat, of hij moet naar de garage? Wij zetten hem rechtop en goed vast op de wagen en brengen hem waar hij moet zijn. U hoort vooraf de prijs.
+side: Motor laten vervoeren
+faqh: Vragen over motorfiets transport
+near: rotterdam, eindhoven, breda, dordrecht, tilburg, goes
+check: Veilig vastgezet met spanbanden
+check: Ook na een valpartij
+check: Ook zonder sleutel, in overleg
+check: Prijs vooraf afgesproken
+html: <h2>Wanneer laat u uw motor vervoeren?</h2>
+html: <ul class="checks"><li><span><b>Pech onderweg.</b> Lekke band, kapotte ketting, lege accu of een motor die niet start.</span></li><li><span><b>Na een valpartij.</b> Heeft u letsel? Bel eerst 112. Daarna halen we de motor op.</span></li><li><span><b>Aankoop of verkoop.</b> U koopt een motor die ver weg staat.</span></li><li><span><b>Winterstalling.</b> De motor moet naar een stalling, en u heeft geen aanhanger of wilt er niet op rijden.</span></li></ul>
+html: <h2>Waarom niet zomaar op een aanhanger?</h2>
+html: <p>Een motor staat niet uit zichzelf. Hij moet goed worden vastgezet, met spanbanden op de juiste plekken. Anders valt hij om, of krijgt de vering of de kuip schade. Zeg bij het bellen welk type motor u heeft, of hij zelf kan staan en of de kuip beschadigd is. Dan neemt de chauffeur de juiste spullen mee.</p>
+html: <h2>Hoe gaat het?</h2>
+html: <p>U belt en noemt de plek, het merk en het model, en de bestemming. U hoort de prijs en hoe laat we er ongeveer zijn. De chauffeur zet de motor op de wagen en brengt hem naar uw garage, uw huis of een stalling. Als er plek is, kunt u meerijden in de cabine. Ook handig als u zelf geen vervoer heeft.</p>
+html: <p>Wilt u het vervoer van een motor vooruit plannen? Dat kan ook. Bel gerust om een moment af te spreken.</p>
+faq: Wat kost motor vervoeren? :: Dat hangt af van de afstand, het type motor en het tijdstip. U hoort de prijs aan de telefoon, en die spreken we af voordat de wagen vertrekt.
+faq: Kan ik meerijden met mijn motor? :: Meestal wel, als er plek is in de cabine. Noem dat bij het bellen.
+faq: Mijn motor kan niet meer op zijn wielen staan. Kan dat? :: Vaak wel, maar noem wat er kapot is. De chauffeur moet dan misschien hulpmiddelen meenemen om hem op de wagen te krijgen.
+faq: Vervoeren jullie ook scooters en quads? :: Ja. Noem het voertuig en het gewicht als u dat weet.
+
+# vrachtwagen berging 140, vrachtwagen pechhulp 90 (Botlek, Maasvlakte, Pernis in Search Console)
+@@service vrachtwagen-berging
+crumb: Vrachtwagen berging
+cardsub: Trucks en bussen
+title: Vrachtwagen berging en pechhulp 24/7 | Sleepdienst Janssen
+desc: Vrachtwagen of bus stil in de haven of langs de A15, A16 of A58? Wij schakelen 24/7 een partner met zwaar materieel in. Bel 0970 1022 9095.
+h1: <span>Vrachtwagen</span> berging en pechhulp
+hero: Een truck, oplegger of bus die stilvalt, kost tijd en geld. U belt één nummer. Wij zetten een partner met een zware berger in en u hoort vooraf wie er komt en wat de afspraak is. Dag en nacht, van de Maasvlakte tot Zeeland en Brabant.
+side: Truck stil?
+faqh: Vragen over vrachtwagen berging
+near: botlek-maasvlakte, rotterdam, moerdijk, waalwijk, roosendaal, oosterhout
+check: Een nummer, 24/7
+check: Zware berging via partners
+check: Haven, terminal en snelweg
+check: Afspraak vooraf
+html: <h2>Wij werken met partners voor zwaar werk</h2>
+html: <p>Voor vrachtwagens, opleggers, bussen en andere voertuigen vanaf 3,5 ton zetten we gespecialiseerde partners in. Zij hebben het materieel en de ervaring. U hoeft maar één keer te bellen en u heeft één aanspreekpunt.</p>
+html: <h2>Waar we vaak gebeld worden</h2>
+html: <p><strong>Haven en Rijnmond.</strong> Op de A15, in de <a href="/sleepdienst-botlek-maasvlakte/">Botlek, Europoort en op de Maasvlakte</a>, in Pernis en <a href="/sleepdienst-schiedam/">Schiedam</a>.</p>
+html: <p><strong>Brabant.</strong> Op <a href="/sleepdienst-waalwijk/">Haven Waalwijk</a>, Weststad bij <a href="/sleepdienst-oosterhout/">Oosterhout</a>, op <a href="/sleepdienst-moerdijk/">Moerdijk</a> en bij Borchwerf in <a href="/sleepdienst-roosendaal/">Roosendaal</a>.</p>
+html: <p><strong>Rivieren en Zeeland.</strong> Op de A15 bij <a href="/sleepdienst-gorinchem/">Gorinchem</a> en <a href="/sleepdienst-tiel/">Tiel</a>, in <a href="/sleepdienst-vlissingen/">het Sloegebied bij Vlissingen</a> en bij <a href="/sleepdienst-terneuzen/">Terneuzen</a>.</p>
+html: <h2>Wat we vooraf willen weten</h2>
+html: <ul class="checks"><li><span><b>Plek.</b> Weg, richting en hectometerpaaltje, of de terminal, poort en contactpersoon.</span></li><li><span><b>Voertuig.</b> Kenteken, type en gewicht, met of zonder oplegger.</span></li><li><span><b>Lading.</b> Soort lading en gewicht. Bij gevaarlijke stoffen belt u altijd eerst 112.</span></li><li><span><b>Storing.</b> Rijdt hij nog, kan hij loskoppelen, en staat hij op de rijbaan?</span></li></ul>
+html: <h2>Op een haventerrein of terminal</h2>
+html: <p>Op terreinen en terminals geldt toegangsbeleid. Meld bij de portier of de planner dat er een berger komt. Zo staat de wagen niet onnodig voor de slagboom te wachten.</p>
+faq: Helpen jullie ook 's nachts bij een truck op de snelweg? :: Ja. We zijn 24/7 bereikbaar. Bij gevaar belt u eerst 112, en daarna ons met het kenteken, de rijrichting en het hectometerpaaltje.
+faq: Hebben jullie zelf zware bergers? :: Nee. Daarvoor werken we samen met gespecialiseerde partners, die we dag en nacht kunnen inzetten. U hoort vooraf wie er komt.
+faq: Komen jullie ook naar de Maasvlakte? :: Ja. Noem de terminal, de poort en de contactpersoon, en meld bij de portier dat er een berger komt.
+faq: Wat kost het bergen van een vrachtwagen? :: Dat hangt sterk af van het voertuig, de lading, de plek en het tijdstip. U hoort het vooraf zo goed mogelijk. Vraag ook uw verzekeraar of de berging is gedekt.
+
+# auto wegslepen kosten 320, sleepdienst kosten 110
+@@service wat-kost-een-sleepdienst
+crumb: Wat kost een sleepdienst?
+cardsub: Waar de prijs van afhangt
+title: Wat kost een sleepdienst of auto wegslepen? | Sleepdienst Janssen
+desc: Wat kost auto wegslepen? Dit bepaalt de prijs: afstand, voertuig, plek en tijdstip. Bij ons spreekt u de prijs af voordat de wagen vertrekt. 0970 1022 9095.
+h1: Wat kost een <span>sleepdienst?</span>
+hero: Een sleepdienst heeft geen vaste prijs per kilometer die overal hetzelfde is. Hieronder leest u waar de prijs van afhangt, wat uw verzekering misschien vergoedt en hoe u voorkomt dat u achteraf voor verrassingen komt te staan.
+side: Prijs horen?
+faqh: Vragen over de kosten
+near: rotterdam, dordrecht, tilburg, breda, eindhoven, gorinchem
+check: Prijs aan de telefoon
+check: Afgesproken voor vertrek
+check: Geen abonnement nodig
+check: Bewaar de factuur voor uw verzekeraar
+html: <h2>Waar hangt de prijs van af?</h2>
+html: <ul class="checks"><li><span><b>Afstand.</b> Van de plek waar de auto staat tot de bestemming, en de rit van de wagen naar u toe.</span></li><li><span><b>Voertuig.</b> Een kleine auto is makkelijker dan een zware bestelbus of een vierwielaangedreven auto.</span></li><li><span><b>Plek.</b> Een snelweg, parkeergarage of greppel kost meer tijd dan een gewone straat.</span></li><li><span><b>Tijdstip.</b> 's Nachts, in het weekend en op feestdagen kan het anders zijn dan overdag.</span></li><li><span><b>Extra werk.</b> Bergen uit een sloot, blokkerende wielen of lading die eerst uit de bus moet.</span></li></ul>
+html: <h2>Bij ons spreekt u de prijs vooraf af</h2>
+html: <p>Noem de plek, het voertuig en de bestemming. U hoort de prijs aan de telefoon, en de wagen vertrekt pas als u akkoord bent. Komt er onderweg iets bij, bijvoorbeeld omdat de auto anders staat dan u dacht, dan overleggen we eerst met u. Zo weet u waar u aan toe bent.</p>
+html: <h2>Vergoedt mijn verzekering het?</h2>
+html: <p>Dat hangt af van uw polis. Bij een allrisk verzekering of een aanvullende pechhulpdekking is slepen soms meeverzekerd. Ook bij sommige creditcards en lease-contracten zit het erbij. Kijk even in de voorwaarden of bel uw verzekeraar, en bewaar in elk geval de factuur.</p>
+html: <h2>Goedkoop of snel?</h2>
+html: <p>Kunt u wachten en staat de auto veilig? Dan kan het soms handiger zijn om het vervoer later te plannen als <a href="/autotransport/">autotransport</a>. Staat u op een gevaarlijke plek, dan telt alleen dat u snel weg bent. Is het probleem klein, dan lost <a href="/starthulp/">starthulp</a> het misschien op zonder dat er gesleept hoeft te worden.</p>
+faq: Wat kost het om mijn auto te laten wegslepen? :: Dat hangt af van de afstand, het voertuig, de plek en het tijdstip. Noem die gegevens aan de telefoon, dan hoort u wat het kost voordat de wagen vertrekt.
+faq: Betaal ik meer als het 's nachts is? :: Dat kan. U hoort de prijs altijd vooraf, ook 's nachts en in het weekend, dus u weet waar u aan toe bent.
+faq: Moet ik lid zijn om een goede prijs te krijgen? :: Nee. Wij werken zonder abonnement. U betaalt alleen deze ene keer.
+faq: Kan ik pinnen of een factuur krijgen? :: Vraag dat als u belt. U krijgt in elk geval een factuur die u bij uw verzekeraar kunt indienen.
+
+# verkeerd getankt 110
+@@service verkeerd-getankt
+crumb: Verkeerd getankt
+cardsub: Benzine in diesel of andersom
+title: Verkeerd getankt? Dit moet u nu doen | Sleepdienst Janssen
+desc: Benzine in uw diesel of andersom? Start de motor niet! Lees wat u moet doen. Wij brengen uw auto 24/7 naar een garage die de tank leegmaakt: 0970 1022 9095.
+h1: <span>Verkeerd</span> getankt?
+hero: Benzine in een dieselauto of diesel in een benzineauto? Het gebeurt vaker dan u denkt. Het belangrijkste: start de motor niet. Dan is de schade meestal beperkt. Hieronder leest u wat u moet doen. Wij brengen uw auto naar een garage.
+side: Verkeerd getankt?
+faqh: Vragen over verkeerd tanken
+near: rotterdam, dordrecht, eindhoven, breda, tilburg, roosendaal
+check: Motor niet starten
+check: Contact niet aanzetten
+check: Auto naar een garage laten brengen
+check: Bewaar uw bon
+html: <h2>Doe dit als u het nog bij de pomp merkt</h2>
+html: <ul class="checks"><li><span><b>Start de motor niet.</b> Zet ook het contact niet aan. Bij veel auto's start de brandstofpomp al als u het contact aanzet.</span></li><li><span><b>Meld het bij de medewerker.</b> Die kan helpen om de auto opzij te duwen, in de vrij-stand.</span></li><li><span><b>Bel ons.</b> Wij brengen de auto naar een garage die de tank leegmaakt.</span></li></ul>
+html: <h2>Doe dit als u al rijdt</h2>
+html: <p>Merkt u het pas onderweg, omdat de motor gaat sputteren, geen vermogen meer heeft of rook geeft? Zet de auto zo snel mogelijk veilig aan de kant en zet de motor uit. Rij niet door. Hoe langer de motor draait, hoe groter de kans op schade aan de pomp en de injectoren.</p>
+html: <h2>Wat is erger: benzine in diesel of diesel in benzine?</h2>
+html: <p><b>Benzine in een dieselauto</b> is meestal het ergst, omdat diesel de pomp ook smeert. Benzine doet dat niet, en daardoor kan de hoge-drukpomp beschadigen. <b>Diesel in een benzineauto</b> komt minder vaak voor, omdat het vulpistool vaak niet past. De motor loopt er dan slecht op, en de katalysator kan schade krijgen.</p>
+html: <h2>Wat doet de garage?</h2>
+html: <p>De garage pompt de tank leeg en spoelt, waar nodig, de brandstofleidingen door. Daarna gaat er goede brandstof in. Is er al gereden, dan wordt ook gekeken naar het filter en de pomp. Wij doen dat werk niet zelf, maar brengen uw auto er wel heen op een <a href="/autoambulance/">plateauwagen</a>, zodat de motor niet hoeft te draaien.</p>
+faq: Kan ik doorrijden als ik een beetje verkeerd heb getankt? :: Dat raden we niet aan. Ook een kleine hoeveelheid verkeerde brandstof kan schade geven. Laat het eerst nakijken bij een garage.
+faq: Wat kost een verkeerd getankte auto? :: Dat hangt af van of u al gereden heeft. De rit naar de garage hoort u vooraf bij ons. De garage noemt de prijs voor het leegmaken van de tank.
+faq: Vergoedt de verzekering verkeerd tanken? :: Niet altijd. Kijk in uw polis of bel uw verzekeraar. Bewaar de bon en de factuur.
+faq: Kan ik de auto duwen naar een plek waar die mag staan? :: Ja, als het veilig kan. Zet hem in de vrij-stand, houd het contact uit en vraag iemand te helpen.

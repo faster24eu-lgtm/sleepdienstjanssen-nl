@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Bouwt de statische site van Sleepdienst Janssen.
 
-Pas de gegevens hieronder aan en draai:  python3 build.py
-Alle pagina's (home, stadspagina's, redirects, sitemap) worden opnieuw gegenereerd.
+LET OP: sinds november 2026 is build.pl de build (perl build.pl, inhoud in src/pages/).
+Dit script kent de 32 nieuwe plaatsen, de dienstpagina's en /werkgebied/ niet en zou de footer,
+links en sitemap overschrijven. Draai het niet meer; het blijft staan als bron van de oude pagina's.
 """
 import json
 from datetime import date

@@ -1,0 +1,233 @@
+# Rotterdam en Rijnmond. Eén veld per regel; road, local en faq mogen vaker. faq: vraag :: antwoord
+
+@@town rotterdam-zuid
+name: Rotterdam-Zuid
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.50 51.88
+intro: Op Zuid woont een groot deel van de Rotterdammers, en wie naar de stad wil moet over de Maas: via de Maastunnel, de Erasmusbrug, de Willemsbrug of de Van Brienenoordbrug. Valt uw auto stil op de Beijerlandselaan, bij Zuidplein of op de A15 bij Vaanplein? Dan kunt u ons dag en nacht bellen.
+road: A15 tussen de Beneluxtunnel en knooppunt Vaanplein
+road: A29 vanaf Vaanplein richting de Hoeksche Waard
+road: Maastunnel en Erasmusbrug naar het centrum
+road: Groene Kruisweg richting Hoogvliet en Spijkenisse
+road: Stadionweg en Varkenoordseviaduct bij De Kuip
+spots: De Maastunnel is smal en heeft geen vluchtstrook. Staat u daar stil, volg dan de aanwijzingen van de verkeerscentrale. Op de A15 bij Vaanplein is het vaak vol, dus blijf achter de vangrail tot de wagen er is.
+area: Charlois, Feijenoord, IJsselmonde, Katendrecht, Pendrecht, Lombardijen, Carnisse, Heijplaat, Pernis, Rhoon
+near: rotterdam, barendrecht, ridderkerk
+localh: Ahoy, De Kuip en de Waalhaven
+local: Bij een concert in Ahoy of een wedstrijd in De Kuip staat het hele gebied rond Zuidplein en de Stadionweg vast. Krijgt u juist dan pech, zeg het ons, want dan plannen we een andere aanrijroute of spreken we een later tijdstip af.
+local: Rond de Waalhaven en op Heijplaat rijden vooral bedrijfsbussen. Noem daar het bedrijf en de kade, want de navigatie stuurt een wagen er anders snel de verkeerde kant op.
+local: In wijken als Afrikaanderwijk, Bloemhof en Carnisse staan de auto's dicht op elkaar. Moet uw auto uit een krappe parkeerplek, geef dat dan vooraf door. Dan kan de wagen er rekening mee houden.
+pech: Niet iedere stilstand op Zuid hoeft een sleep te worden. Een lege accu na een koude nacht aan de Dordtselaan is meestal snel opgelost met starthulp, en een lekke band kan vaak op de plek zelf worden gewisseld als u een reservewiel heeft.
+trans: Moet uw auto over de Maas naar uw eigen garage in Noord? Of na een aanrijding op de Vaanweg naar een schadebedrijf? We brengen hem op een plateauwagen naar het adres dat u noemt.
+faq: Rijden jullie ook op Heijplaat en in Pernis? :: Ja. Heijplaat, Pernis en de bedrijven rond de Waalhaven horen bij ons werkgebied. Geef de naam van de kade of het bedrijf door.
+faq: Mijn auto staat in de parkeergarage van Zuidplein. Kan dat? :: Niet elke garage is hoog genoeg voor een plateauwagen. Noem de naam van de garage en de verdieping, dan bekijken we vooraf hoe we uw auto eruit krijgen.
+faq: Wat doe ik bij pech in de Maastunnel? :: Zet de alarmlichten aan, zet de motor uit en volg de aanwijzingen in de tunnel. Bel 112 bij gevaar. Zodra de auto eruit mag, brengen we hem naar uw garage.
+
+@@town schiedam
+name: Schiedam
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.40 51.92
+intro: Schiedam ligt ingeklemd tussen Rotterdam en Vlaardingen, met de A4 en de A20 die bij het Kethelplein bij elkaar komen. In de spits staat het daar vaak vast, en wie stilvalt bij de Beneluxtunnel wil snel weg. Wij helpen u in de stad, op de snelweg en op de bedrijventerreinen.
+road: A20 tussen Kethelplein en Vlaardingen
+road: A4 door de Beneluxtunnel richting Pernis
+road: A4 richting Delft en Den Haag
+road: Rotterdamsedijk en de Nieuwe Damlaan door de stad
+spots: De Beneluxtunnel is een van de drukste tunnels van het land. Staat u daarin stil, blijf dan bij de auto, zet de motor uit en volg de aanwijzingen. Op het Kethelplein is weinig ruimte, dus wacht altijd achter de vangrail.
+area: Centrum, Nieuwland, Groenoord, Kethel, Woudhoek, Spaland, Oost, Sveaparken, Overschie, Pernis
+near: vlaardingen, rotterdam, maassluis
+localh: Spaland, de havens en de oude binnenstad
+local: Op bedrijventerrein Spaland en in de Spaanse Polder staan veel bedrijfsbussen en kleine vrachtauto's. Noem het bedrijf en het huisnummer, want de straten lijken er sterk op elkaar.
+local: De binnenstad rond de Lange Haven en de Korte Haven heeft smalle kades, bruggetjes en de bekende hoge molens. Een plateauwagen kan er niet overal komen. Zeg daarom aan welke kade u staat, dan zoeken we de beste plek om te laden.
+local: In Kethel en Woudhoek gaat het meestal om een auto die bij huis niet meer start. Dan rijden we naar de voordeur en kijken we eerst of u ter plaatse weer op weg kunt.
+pech: Komt uw auto op de Nieuwe Damlaan tot stilstand door een lege accu of een lekke band, dan is dat vaak ter plaatse te verhelpen. Bent u geen lid van een pechhulpdienst? Dat hoeft niet: u betaalt alleen deze ene keer.
+trans: Is de auto niet meer te redden voor vandaag, dan brengen we hem naar uw garage in Schiedam of daarbuiten. Na een ongeval op de A20 regelen we vervoer naar het schadeherstelbedrijf van uw keuze.
+faq: Komen jullie ook in de Spaanse Polder? :: Ja. De Spaanse Polder en Spaland liggen in ons werkgebied. Geef de bedrijfsnaam door en meld bij de receptie dat er een sleepwagen komt.
+faq: Kunnen jullie een bestelbus bij een pand aan de haven ophalen? :: Dat kan vaak wel. Kades in de oude stad zijn soms smal, dus zeg het vooraf als er weinig ruimte is. Dan kijken we hoe we er het beste bij kunnen.
+faq: Staan jullie ook klaar bij pech op het Kethelplein? :: Ja. Bel bij gevaar eerst 112. Staat u veilig achter de vangrail, geef dan de rijrichting en het hectometerpaaltje door aan ons.
+
+@@town barendrecht
+name: Barendrecht
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.53 51.86
+intro: Barendrecht ligt vlak onder Rotterdam, tegen knooppunt Vaanplein aan. De A15 en de A29 zijn er dag en nacht druk met vrachtverkeer van en naar de haven, en wie 's ochtends richting de stad rijdt staat er vaak in de file. Heeft u pech in Barendrecht? Bel ons, dag en nacht.
+road: A15 tussen Vaanplein en Ridderkerk
+road: A29 richting de Heinenoordtunnel
+road: Dierensteinweg en de Middeldijk door het dorp
+road: Oude Maas en de Heinenoordbrug richting Hoeksche Waard
+spots: In de Heinenoordtunnel en op Vaanplein is weinig ruimte om veilig te stoppen. Rijd als het even kan door tot de eerstvolgende afrit, of blijf bij gevaar met de gordel om zitten en bel 112.
+area: Carnisselande, Portland, Centrum, Smitshoek, Binnenland, Bijdorp, Rhoon, Heerjansdam, IJsselmonde, Ridderkerk
+near: rotterdam-zuid, ridderkerk, oud-beijerland
+localh: Carnisselande, Smitshoek en de bedrijven
+local: In Carnisselande en Portland staan veel gezinsauto's, en daar bellen mensen ons vaak omdat de auto voor de deur niet start. Geef straat en huisnummer door, dan is de wagen zo bij u.
+local: Barendrecht heeft veel handelsbedrijven in groente en fruit. Vroeg in de ochtend is het daar druk met bestelbussen en vrachtauto's. Staat een bus stil bij het laden? Noem de naam van het bedrijf en de laadplaats.
+local: Bij P+R Smitshoek parkeren forenzen die verder gaan met de metro. Start uw auto daar 's avonds niet meer, zeg dan in welk vak u staat. We kunnen hem ook naar uw eigen garage brengen.
+pech: Vaak is een sleepwagen niet eens nodig. Bij een lege accu helpt starthulp, en met een reservewiel kan een lekke band ter plekke worden gewisseld. U hoeft geen abonnement te hebben. U hoort vooraf wat het kost.
+trans: Wilt u uw auto naar de dealer in Rotterdam of naar een schadebedrijf in Ridderkerk laten brengen? Dat kan. Ook een auto zonder APK die al lang stilstaat, zetten we op een plateauwagen en brengen we naar het adres dat u kiest.
+faq: Komen jullie ook in Carnisselande en Portland? :: Ja. Heel Barendrecht valt binnen ons werkgebied, ook Carnisselande, Portland, Smitshoek en Bijdorp.
+faq: Mijn auto staat op P+R Smitshoek. Kunnen jullie daar komen? :: Ja. Zeg in welk vak de auto ongeveer staat en of u erbij bent. Dan weten we waar we moeten zijn.
+faq: Helpen jullie ook met een bestelbus die vol geladen is? :: Ja, maar noem het gewicht van de lading als u belt. Dan sturen we een wagen die dat aankan, of een zwaardere wagen via een partner.
+
+@@town vlaardingen
+name: Vlaardingen
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.34 51.91
+intro: Vlaardingen ligt aan de Nieuwe Maas, langs de A20 tussen Rotterdam en Maassluis. Het is een stad van oude havens en naoorlogse wijken, en van veel mensen die elke dag via Vijfsluizen naar hun werk rijden. Wij helpen u in de stad en op de A20, ook 's nachts.
+road: A20 richting Kethelplein en Rotterdam
+road: A20 richting Maassluis en Hoek van Holland
+road: Marathonweg en de Burgemeester Pruissingel door de stad
+road: Maasboulevard langs de Nieuwe Maas
+spots: Op de A20 bij Vlaardingen is de vluchtstrook niet overal breed en rijdt het verkeer er hard. Wacht altijd achter de vangrail en loop niet langs de rijbaan terug naar de afrit.
+area: Centrum, Holy, Westwijk, Ambacht, Babberspolder, Broekpolder, Vettenoordse Polder, Vlaardinger-Ambacht, Maasland, Schipluiden
+near: schiedam, maassluis, botlek-maasvlakte
+localh: Oude Haven, Holy en de Vergulde Hand
+local: Rond de Oude Haven en de Koningin Wilhelminahaven is de ruimte beperkt. Geef bij het bellen door of de auto op de kade staat, zodat we weten welke wagen er kan komen.
+local: In de Westwijk en Holy staan veel flats met parkeerplaatsen achter de gebouwen. Noem het portiek of de straat achter de flat, dan zoekt de chauffeur niet aan de verkeerde kant.
+local: Op bedrijventerrein De Vergulde Hand en in de Vettenoordse Polder werken veel kleine bedrijven met busjes. Valt er eentje uit, dan brengen we de bus naar uw vaste garage, zodat de rest van de dag niet verloren gaat.
+pech: Start uw auto niet na een koude nacht aan de Maasboulevard? Dat is meestal de accu en dat is vaak snel verholpen. Ook een band kan ter plaatse worden gewisseld als het veilig kan. Lid zijn van een pechhulpdienst is niet nodig.
+trans: Moet de auto naar een garage in Schiedam, naar de sloop of naar familie aan de andere kant van het land? Noem de bestemming aan de telefoon, dan spreken we de prijs af voordat er iemand vertrekt.
+faq: Helpen jullie ook aan de Maasboulevard? :: Ja. Noem het huisnummer of de zijstraat waar u in de buurt staat. De Maasboulevard is lang, dus dat scheelt zoektijd.
+faq: Kunnen jullie een auto uit de Westwijk naar de sloop brengen? :: Ja. Ook een auto die al lang stilstaat, zetten we op de wagen en brengen we naar het demontagebedrijf dat u kiest.
+faq: Kom ik op tijd op mijn werk als mijn auto kapot is op de A20? :: Dat kunnen we niet beloven, wel dat u direct hoort hoe laat de wagen er ongeveer is. Dan kunt u uw werk op tijd laten weten hoe het zit.
+
+@@town maassluis
+name: Maassluis
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.25 51.92
+intro: Maassluis ligt aan het einde van de A20, op de grens van Rijnmond en Midden-Delfland. Hier stopt de snelweg en begint de weg naar Hoek van Holland, met de veerpont naar Rozenburg aan de overkant. Pech in Maassluis of onderweg naar de Hoek? Wij zijn dag en nacht bereikbaar.
+road: A20 richting Vlaardingen en Rotterdam
+road: N220 richting Hoek van Holland en de Maeslantkering
+road: Burgemeester de Jonghkade langs het water
+road: De veerverbinding Maassluis-Rozenburg
+spots: Op de weg richting Hoek van Holland rijden veel vrachtwagens met haast voor de boot. Zet uw auto zover mogelijk van de rijbaan en blijf achter de auto weg. Bij de veerpont zelf geldt: meld pech bij het personeel.
+area: Centrum, Sluispolder, Steendijkpolder, Kapelpolder, Koningshoek, Vlaardingen, Hoek van Holland, Maasland, De Lier, Rozenburg
+near: vlaardingen, schiedam, botlek-maasvlakte
+localh: Van de haven tot de glastuinbouw
+local: In de oude haven van Maassluis liggen de kades smal tussen de huizen en de bruggen. Staat uw auto daar, dan is het handig als u weet aan welke kant van het water u staat.
+local: Bij winkelcentrum Koningshoek is het op zaterdag druk op het parkeerdek. Start de auto daar niet, geef dan de verdieping door en noem of de wagen via de hellingbaan kan.
+local: Richting Maasland en De Lier begint de glastuinbouw met smalle polderwegen en veel transport. Pech daar op een smalle dijk? Noem de naam van de kas of het bedrijf, want huisnummers lopen er niet altijd logisch.
+pech: Veel oproepen uit de Sluispolder en de Steendijkpolder gaan over een auto die 's ochtends niet wil starten. Starthulp lost dat meestal op. Lukt het niet, dan gaat de auto op de wagen naar de garage die u noemt.
+trans: Komt u met pech van de boot in Hoek van Holland en moet de auto nog een eind verder? We brengen hem naar uw eigen garage, ook buiten de regio, tegen een prijs die u vooraf weet.
+faq: Helpen jullie ook bij de boot in Hoek van Holland? :: Ja. Staat u nog op het terrein van de veerdienst, volg dan eerst de aanwijzingen van het personeel. Daarna halen we uw auto op bij de afgesproken plek.
+faq: Rijden jullie ook via de veerpont naar Rozenburg? :: Dat hangt af van de vaartijden. We kiezen de snelste route, over het water of om via de Beneluxtunnel, en zeggen u hoe laat we er ongeveer zijn.
+faq: Kunnen jullie een auto op een polderweg bij Maasland ophalen? :: Ja. Zet de auto zo veilig mogelijk, zet de alarmlichten aan en noem de dichtstbijzijnde kas of het bedrijf.
+
+@@town capelle-aan-den-ijssel
+name: Capelle aan den IJssel
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.58 51.93
+intro: Capelle aan den IJssel grenst aan de oostkant van Rotterdam, tussen de A20, de A16 en de Hollandsche IJssel. Via de Algerabrug rijdt veel verkeer naar Krimpen, en op de Algeraweg staat het 's ochtends vaak vol. Wij helpen u in alle wijken en op de wegen eromheen, ook midden in de nacht.
+road: A20 richting Gouda en Terbregseplein
+road: A16 en de Van Brienenoordbrug
+road: Algeraweg met de Algerabrug naar Krimpen
+road: Hoofdweg en de Abram van Rijckevorselweg door de stad
+spots: Op de Algerabrug is geen vluchtstrook en de brug kan openstaan voor de scheepvaart. Blijf bij pech met de gordel om zitten en de alarmlichten aan, en bel 112 als u gevaar loopt.
+area: Schollevaar, Oostgaarde, Middelwatering, 's-Gravenland, Fascinatio, Rivium, Krimpen aan den IJssel, Nieuwerkerk aan den IJssel, Kralingen, Prins Alexander
+near: rotterdam, ridderkerk, rotterdam-zuid
+localh: Rivium, Fascinatio en de woonwijken
+local: Op het kantorenpark Rivium en bij Fascinatio staan veel leaseauto's in parkeergarages. Start er eentje niet, geef dan het kenteken, de garage en de verdieping door. Heeft u leasepapieren bij de hand, dan weet u meteen wat de leasemaatschappij vergoedt.
+local: In Schollevaar en Oostgaarde staan rijen flats en parkeerhavens. Daar gaat het meestal om een auto die 's morgens niet meer wil. Noem de naam van de flat of het portiek, dan vindt de chauffeur u sneller.
+local: Bij Middelwatering en 's-Gravenland ligt de dijk van de Hollandsche IJssel, waar het smal en bochtig is. Staat u op de Kanaalweg of de dijk zelf, zet dan de alarmlichten aan en wacht in de berm.
+pech: Een bandenwissel op de Hoofdweg of starthulp voor de deur in Schollevaar is meestal geen klus van lang. Lukt het ter plaatse, dan rijdt u daarna gewoon weer verder en betaalt u alleen die hulp.
+trans: Moet de auto over de brug naar een garage in Krimpen of Rotterdam? Dat regelen we. Ook na een aanrijding op de A20 brengen we uw auto naar een schadebedrijf naar keuze.
+faq: Helpen jullie ook in Krimpen aan den IJssel? :: Ja. Via de Algerabrug zijn we snel aan de overkant. Staat de brug open of is er file, dan zeggen we dat eerlijk en krijgt u een nieuwe tijd.
+faq: Mijn leaseauto staat in een garage op Rivium. Mag ik jullie bellen? :: Dat kan, maar kijk eerst in uw leasevoorwaarden of u een vaste pechdienst moet gebruiken. Mag u zelf kiezen, dan komen we graag.
+faq: Is mijn auto te hoog voor een parkeergarage als jullie slepen? :: Het gaat om de wagen, niet om uw auto. Niet elke garage is hoog genoeg. Noem de naam en de verdieping, dan bekijken we wat er wel kan.
+
+@@town ridderkerk
+name: Ridderkerk
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.60 51.87
+intro: Bij Ridderkerk komen de A15 en de A16 samen, met de A38 ertussen. Het knooppunt is een van de drukste plekken van Zuid-Holland en dagelijks staan er lange rijen. Valt u daar stil, of start uw auto niet in Bolnes of Slikkerveer? Wij komen naar u toe.
+road: A15 richting Vaanplein en Gorinchem
+road: A16 richting de Van Brienenoordbrug en Dordrecht
+road: A38 tussen de A15 en de A16
+road: Rotterdamseweg langs de Noord en de Nieuwe Maas
+spots: Op knooppunt Ridderkerk wisselt het verkeer snel van rijstrook. Daar is stoppen gevaarlijk, dus rol als het kan door tot de volgende afrit. Lukt dat niet, ga dan zo snel mogelijk achter de vangrail staan en bel ons pas daarna.
+area: Bolnes, Slikkerveer, Drievliet, Rijsoord, Oostendam, Donkersloot, Cornelisland, Alblasserdam, Barendrecht, IJsselmonde
+near: barendrecht, rotterdam-zuid, hendrik-ido-ambacht
+localh: Cornelisland, Nieuw-Reijerwaard en de dorpskernen
+local: Tussen de A15 en de A16 liggen bedrijventerreinen als Cornelisland en Donkersloot, en het agrogebied Nieuw-Reijerwaard. Veel bussen en vrachtauto's zijn hier onderweg. Noem het bedrijf en de hal, want een adres alleen is niet altijd genoeg.
+local: Rijsoord en Oostendam hebben smalle dijkwegen waar een lange wagen niet zomaar kan keren. Zeg het als de auto op een dijk of op een smalle weg staat, dan past de chauffeur zijn route daarop aan.
+local: In Bolnes en Slikkerveer lopen de woonstraten dicht langs het water. Bij de waterbus aan de Noord is het soms druk met forenzen die hun auto bij de halte hebben neergezet en bij terugkomst merken dat hij niet meer start.
+pech: Uw accu is leeg of u heeft een lekke band? We kijken eerst of het op de plek zelf kan. Daarvoor hoeft u nergens lid van te zijn. U hoort de prijs aan de telefoon en beslist dan zelf.
+trans: Is de schade groter, dan brengen we de auto naar uw eigen garage of naar een schadeherstelbedrijf. Komt u van ver en bent u na de A15 nog een eind van huis? We rijden uw auto ook de hele weg naar huis.
+faq: Halen jullie ook auto's weg op het knooppunt Ridderkerk? :: Ja, zodra het veilig kan. Blokkeert u een rijstrook, dan kan een weginspecteur eerst een berger inzetten. Daarna brengen wij de auto verder.
+faq: Helpen jullie bij de waterbushalte in Slikkerveer? :: Ja. Noem de halte en waar de auto staat. Dan kan de wagen meteen de juiste kant op.
+faq: Kunnen jullie op Cornelisland ook grote voertuigen helpen? :: Ja, via een partner met een zware berger. U belt hetzelfde nummer en noemt het voertuig en de lading.
+
+@@town hellevoetsluis
+name: Hellevoetsluis
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.13 51.83
+intro: Hellevoetsluis ligt op Voorne aan het Haringvliet, een eind van de grote snelwegen. Wie hier stilvalt heeft te maken met de N57 en de N497, polderwegen en in de zomer de drukte rond de jachthavens. Wij helpen u in de vesting, in de nieuwere wijken en op de weg naar de Haringvlietdam.
+road: N57 richting Brielle en de Haringvlietdam
+road: De provinciale weg richting Spijkenisse en de A15
+road: Rijksstraatweg door Nieuwenhoorn
+road: Haringvlietdam richting Goeree-Overflakkee
+spots: Op de Haringvlietdam waait het hard en is er weinig beschutting. Blijf bij harde wind niet naast de auto staan, maar zoek de berm aan de veilige kant en zet de alarmlichten aan. Bij gevaar belt u 112.
+area: Vesting, Nieuw-Helvoet, Nieuwenhoorn, Kickersbloem, De Struyten, Ravense Hoek, Rockanje, Oudenhoorn, Zuidland, Stellendam
+near: spijkenisse, botlek-maasvlakte, oud-beijerland
+localh: Vesting, jachthavens en de zomerdrukte
+local: In de oude vesting zijn de straten smal en de bruggen niet overal geschikt voor een grote wagen. Staat uw auto bij de Koningshaven of het Droogdok, noem dat dan aan de telefoon.
+local: Bij de jachthavens en de campings langs het Haringvliet staan in de zomer veel auto's met trailers en caravans. Zeg vooraf wat er achter uw auto hangt, dan kijken we of auto en aanhanger in één keer mee kunnen.
+local: In Kickersbloem en De Struyten gaat het meestal om een gewoon startprobleem voor de deur. Hier is het rustig, dus we komen dan gewoon bij u voorrijden.
+pech: Op Voorne is de dichtstbijzijnde garage niet altijd om de hoek, zeker 's avonds. Daarom proberen we het eerst ter plaatse op te lossen. Lege accu of lekke band? Dan rijdt u vaak gewoon zelf weer verder.
+trans: Moet de auto naar de vaste garage in Spijkenisse of Rotterdam, of zelfs naar huis omdat u hier op vakantie bent? We brengen hem op een plateauwagen. De prijs noemen we vooraf, ook bij een lange rit.
+faq: Komen jullie ook op de camping in Rockanje? :: Ja. Meld u bij de receptie en noem de plaats op de camping, dan kan de wagen meteen doorrijden.
+faq: Kunnen jullie mijn boottrailer meenemen? :: Dat ligt aan de maat en het gewicht. Noem ze als u belt, dan kijken we of het in één rit kan of dat er een tweede wagen nodig is.
+faq: Hoe lang duurt het voordat jullie op Voorne zijn? :: Dat hangt af van waar de dichtstbijzijnde wagen is en van de drukte op de brug bij Spijkenisse. U krijgt aan de telefoon een eerlijke inschatting.
+
+@@town oud-beijerland
+name: Oud-Beijerland
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.41 51.82
+intro: Oud-Beijerland is de grootste kern van de Hoeksche Waard, een eiland met vooral dijken, polderwegen en de A29 als slagader. Via de Heinenoordtunnel of de Kiltunnel komt u er alleen, en dat merkt u als er iets vaststaat. Wij helpen op heel het eiland, ook 's nachts.
+road: A29 met de Heinenoordtunnel richting Rotterdam
+road: A29 over de Haringvlietbrug richting Zeeland en Brabant
+road: N217 en de Kiltunnel richting Dordrecht
+road: N489 door de Hoeksche Waard
+spots: In de Heinenoordtunnel en op de Haringvlietbrug is stoppen gevaarlijk. Op de vele dijkwegen is de berm vaak smal. Zet de auto daar zo ver mogelijk aan de kant en blijf niet op de rijbaan staan.
+area: Oud-Beijerland, Mijnsheerenland, Klaaswaal, Numansdorp, Strijen, Maasdam, Puttershoek, 's-Gravendeel, Zuid-Beijerland, Heinenoord
+near: barendrecht, dordrecht, spijkenisse
+localh: De Hoeksche Waard: eiland met eigen regels
+local: Het eiland heeft maar een paar uitgangen. Staat de Heinenoordtunnel vast, dan moet een wagen via de Kiltunnel komen. Daarom vragen we altijd waar u precies staat, zodat we de snelste route kiezen.
+local: De dijken zijn smal en lang, met weinig plek om te keren. Noem aan welke dijk u staat en bij welk huisnummer of welke boerderij. Zo komt de chauffeur niet aan de verkeerde kant van de polder uit.
+local: Rond Numansdorp en Strijen liggen veel boerenbedrijven en jachthavens. Een auto of bus met aanhanger halen we daar ook op. Noem wel vooraf wat erachter hangt.
+pech: Een startprobleem op de Laning of een lekke band bij Klaaswaal? Vaak kan het ter plaatse worden opgelost. Op het eiland scheelt dat een hoop, want de rit naar een open garage is 's avonds soms lang.
+trans: Komt uw auto op de wagen, dan brengen we hem naar een garage op het eiland, of over de brug naar Rotterdam, Dordrecht of Brabant. Dat spreken we vooraf af, net als de prijs.
+faq: Komen jullie ook naar de dijken bij Strijen en Numansdorp? :: Ja. De hele Hoeksche Waard valt binnen ons werkgebied. Noem de dijk en het huisnummer of de boerderij.
+faq: De Heinenoordtunnel staat vast. Duurt het dan langer? :: Dat kan. We zoeken de snelste route via de Kiltunnel of de Haringvlietbrug en geven u een eerlijke tijd.
+faq: Kunnen jullie ook na een ongeval op de N217 komen? :: Ja, zodra de hulpdiensten de plek hebben vrijgegeven. Daarna brengen we uw auto naar een schadebedrijf of stalling.
+
+@@town botlek-maasvlakte
+name: Botlek en Maasvlakte
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.20 51.90
+intro: In de Botlek, Europoort en op de Maasvlakte draait de haven dag en nacht. Trucks, opleggers en bedrijfsbussen rijden er aan de lopende band, vaak onder tijdsdruk. Valt uw voertuig stil op de A15, bij een terminal of op een haventerrein? Bel ons. Voor zwaar werk zetten we een partner met een zware berger in.
+road: A15 met de Botlekbrug en de Botlektunnel
+road: Calandbrug richting Rozenburg en Europoort
+road: Maasvlakteweg richting Maasvlakte 2
+road: N57 en de Hartelbrug richting Brielle
+road: N15 richting Europoort en de Maasvlakte
+spots: Op de A15 door het havengebied rijden vooral vrachtwagens. Wacht dus nooit op de vluchtstrook, maar achter de vangrail. Op de Botlekbrug en in de Botlektunnel volgt u de aanwijzingen van de verkeerscentrale.
+area: Botlek, Europoort, Maasvlakte, Maasvlakte 2, Pernis, Rozenburg, Hoogvliet, Vondelingenplaat, Oostvoorne, Spijkenisse
+near: spijkenisse, rotterdam, vlaardingen
+localh: Vrachtwagen stil bij de terminal of op een haventerrein
+local: Op terminals en terreinen kom je niet zomaar binnen. Noem daarom de naam van de terminal, de poort en de contactpersoon. Meld bij de portier dat er een sleepwagen komt. Dat scheelt wachten bij de slagboom.
+local: Bij een truck met oplegger willen we vooraf weten of de oplegger geladen is, of er gevaarlijke stoffen in zitten en of de trekker nog kan loskoppelen. Bij gevaarlijke lading belt u altijd eerst 112. Met die gegevens kiest de partner de juiste berger.
+local: Voor een bestelbus of personenauto volstaat een gewone plateauwagen. Werkt u op de Maasvlakte en start uw auto na de dienst niet? Noem het parkeerterrein van het bedrijf en het kenteken, dan zoekt de wagen niet lang.
+pech: Voor personenauto's en bestelbussen kan starthulp of een bandenwissel meestal ter plaatse. Bij vrachtwagens hangt het af van de storing: soms volstaat een monteur, soms is berging nodig. Vertel wat het voertuig doet, dan kijken we mee.
+trans: Een auto of bestelbus brengen we naar de garage die u kiest. Trucks en opleggers gaan via de partner naar een truckdealer of een stalling in de regio. U hoort vooraf wie er komt en wat de afspraak is.
+faq: Doen jullie ook vrachtwagen pechhulp op de Maasvlakte? :: Ja, via partners met zwaar materieel. U belt hetzelfde nummer, noemt de terminal of poort, het kenteken en de storing, en u hoort wie er komt en wat de afspraak is.
+faq: Mijn oplegger is geladen. Kan die ook mee? :: Dat hangt af van het gewicht en de lading. Geef het gewicht en het soort lading door. Gaat het om gevaarlijke stoffen, bel dan eerst 112.
+faq: Mag een sleepwagen zomaar het haventerrein op? :: Nee, daar is toestemming voor nodig. Meld bij de portier of de beheerder dat er een sleepwagen komt, dan kan de wagen meteen door.

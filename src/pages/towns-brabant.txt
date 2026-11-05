@@ -1,0 +1,232 @@
+# Noord-Brabant
+
+@@town eindhoven
+name: Eindhoven
+prov: Noord-Brabant
+region: Brabant
+geo: 5.47 51.44
+intro: Eindhoven is de grootste stad van Brabant en heeft een snelwegring die elke werkdag volloopt. De A2, de A58, de A67 en de A50 komen hier samen op de Randweg, met daarnaast de stadsring en de drukte rond Eindhoven Airport. Pech op de Randweg of in Woensel? Wij helpen u, 24 uur per dag.
+road: A2 op de Randweg richting Den Bosch en Maastricht
+road: A67 richting Venlo en Antwerpen
+road: A58 richting Tilburg en Breda
+road: A50 richting Veghel en Nijmegen
+road: Stadsring met de Kennedylaan en de Insulindelaan
+spots: Op de Randweg wisselt het verkeer op korte afstand van rijstrook bij Ekkersweijer en Leenderheide. Stoppen is daar gevaarlijk. Rijd door naar een afrit of pechhaven, en ga anders meteen achter de vangrail staan. Bel 112 als u op de rijbaan staat.
+area: Woensel, Strijp, Gestel, Stratum, Tongelre, Meerhoven, Acht, Best, Nuenen, Waalre
+near: veldhoven, helmond, tilburg
+localh: Airport, High Tech Campus en De Hurk
+local: Komt u terug van vakantie en start uw auto niet op een parkeerterrein bij Eindhoven Airport? Noem het parkeerterrein en het vak. Bij de vertrekhal is de ruimte beperkt, dus we spreken af waar we elkaar treffen.
+local: Op de High Tech Campus en op terreinen als De Hurk en Flight Forum staan veel leaseauto's en bedrijfsbussen. Meld bij de receptie of de slagboom dat er een sleepwagen komt, en controleer bij een leaseauto of u zelf een pechdienst mag kiezen.
+local: Op wedstrijddagen bij het Philips Stadion en tijdens evenementen als Glow is het centrum soms dicht. Staat u in de buurt van Strijp-S of de Vestdijk, zeg dat dan vooraf. Dan zoeken we een route die wel open is.
+pech: In Woensel en Gestel gaat het vaak om een startprobleem bij de voordeur of een band. Dat is meestal op de plek te regelen. U hoeft nergens lid van te zijn en u hoort de prijs voordat er iemand wegrijdt.
+trans: Naar uw garage in Eindhoven of naar huis in België of Limburg? We zetten uw auto op een plateauwagen. Elektrische auto's, waar er in Eindhoven veel van rijden, gaan altijd met de wielen van de grond.
+faq: Helpen jullie ook op het parkeerterrein van Eindhoven Airport? :: Ja. Noem het terrein en het vaknummer. Soms moeten we via een slagboom naar binnen, dus houd ook uw parkeerkaart bij de hand.
+faq: Mijn elektrische auto staat stil op de Randweg. Wat nu? :: Ga eerst veilig achter de vangrail staan en bel ons daarna. We vervoeren elektrische auto's altijd op een plateauwagen, zodat de aandrijving niet beschadigt.
+faq: Komen jullie ook in Best, Nuenen en Waalre? :: Ja. De plaatsen rond Eindhoven horen bij ons werkgebied. Noem de straat en het huisnummer.
+
+@@town helmond
+name: Helmond
+prov: Noord-Brabant
+region: Brabant
+geo: 5.66 51.48
+intro: Helmond ligt in de Peel, met de A270 als directe verbinding naar Eindhoven en de N279 richting Veghel en Asten. Op deze wegen rijden veel forenzen en vrachtwagens. Valt uw auto stil in Brandevoort, op de Zuid-Willemsvaart of bij de A270? Bel ons, ook in het weekend en 's nachts.
+road: A270 richting Eindhoven
+road: N279 richting Veghel en Den Bosch
+road: N279 richting Asten en de A67
+road: Kanaaldijk langs de Zuid-Willemsvaart
+spots: Op de N279 is geen vluchtstrook en er rijdt veel vrachtverkeer. Zet de auto zo ver mogelijk in de berm en wacht aan de kant van de sloot, niet tussen de auto en de weg.
+area: Brandevoort, Rijpelberg, Stiphout, Dierdonk, Mierlo-Hout, Brouwhuis, Binnenstad, Mierlo, Nuenen, Aarle-Rixtel
+near: eindhoven, veldhoven, oss
+localh: BZOB, Automotive Campus en de woonwijken
+local: Op bedrijventerrein BZOB en bij de Automotive Campus komen veel bedrijfsbussen en testauto's voor. Noem de naam van het bedrijf, en meld het als uw voertuig speciale eisen heeft, bijvoorbeeld omdat het een prototype of een elektrische bus is.
+local: In Brandevoort, met zijn nieuwe straten in oude stijl, is het soms krap met bochten en parkeren. Noem de straat en waar de auto staat, dan weet de chauffeur hoe hij het beste kan aanrijden.
+local: Bij de Kanaaldijk en de Zuid-Willemsvaart is de weg smal, met weinig plek om te stoppen. Staat u daar stil, zet dan alarmlichten aan en ga niet op de weg staan.
+pech: Soms is het gewoon pech voor de deur in Stiphout of Rijpelberg: een lege accu, een band. We kijken eerst of het ter plaatse kan. Dan hoeft de auto niet op de wagen en bent u snel weer op weg.
+trans: Heeft u uw auto liever bij uw vaste garage in Helmond, of bij een specialist in Eindhoven? Noem het adres en de prijs hoort u meteen. Ook een auto zonder APK brengen we zonder probleem weg.
+faq: Komen jullie ook in Mierlo en Aarle-Rixtel? :: Ja. Deze plaatsen rond Helmond vallen binnen ons werkgebied.
+faq: Helpen jullie ook op de N279? :: Ja, ook op die weg. Noem de richting en de laatste kruising of rotonde. Zo vinden we u sneller.
+faq: Kan een bestelbus met lading ook mee? :: Ja, als de wagen het gewicht aankan. Noem wat de bus ongeveer weegt.
+
+@@town oosterhout
+name: Oosterhout
+prov: Noord-Brabant
+region: Brabant
+geo: 4.86 51.64
+intro: Oosterhout ligt ten noorden van Breda aan de A27 en vlak bij de A59. Op de A27 rijdt veel verkeer tussen Breda en Gorinchem, en rond knooppunt Hooipolder staat het regelmatig vast. Pech in Oosterhout, Den Hout of Dorst? Wij helpen u op de weg, op de bedrijventerreinen en bij u thuis.
+road: A27 richting Breda en knooppunt Sint-Annabosch
+road: A27 richting Hooipolder en Gorinchem
+road: A59 richting Waalwijk en Zevenbergen
+road: Wilhelminakanaal met de bruggen door de stad
+spots: De A27 ten noorden van Oosterhout is vaak druk. Valt u stil, ga dan altijd achter de vangrail staan. Op de bruggen over het Wilhelminakanaal kunt u soms even vaststaan, ook als u niet zelf pech heeft.
+area: Oosterheide, Zuiderhout, Vrachelen, Arkendonk, Dommelbergen, Slotjes, Den Hout, Dorst, Oosteind, Teteringen
+near: breda, waalwijk, etten-leur
+localh: Weststad, Everdenberg en de Vrachelen
+local: Op de bedrijventerreinen Weststad en Everdenberg zijn grote distributiecentra gevestigd. Er rijden veel trucks en bussen. Noem daar de naam van de firma en het dock, dan staat de wagen niet voor de verkeerde poort.
+local: In Arkendonk en de Vrachelen liggen veel woonstraten met vaste parkeervakken. De auto staat er vaak goed bereikbaar, dus meestal is hij snel op te laden.
+local: Rond de Heuvel is het centrum autoluw. Staat uw auto in de parkeergarage of op een parkeerplek daar, noem dan de ingang en de verdieping.
+pech: Een lekke band bij Oosteind of een accu die het begeeft in Slotjes? Dat lukt vaak ter plaatse. Geen abonnement? Geen probleem. U betaalt alleen deze keer, en we spreken vooraf af wat het kost.
+trans: Moet de auto naar uw garage in Oosterhout of naar een dealer in Breda? Dat doen we. Ook na een aanrijding op de A27 kan de auto naar een schadeherstelbedrijf of een stalling.
+faq: Helpen jullie ook bij distributiecentra op Weststad? :: Ja. Noem de bedrijfsnaam, de poort en het dock. Voor een zware truck zetten we een partner in.
+faq: Komen jullie ook in Den Hout en Oosteind? :: Ja. De kernen rond Oosterhout vallen allemaal binnen ons werkgebied.
+faq: Rijden jullie ook bij knooppunt Hooipolder? :: Ja. Noem de richting en het hectometerpaaltje. Blokkeert de auto de weg, bel dan eerst 112.
+
+@@town waalwijk
+name: Waalwijk
+prov: Noord-Brabant
+region: Brabant
+geo: 5.07 51.69
+intro: Waalwijk ligt aan de A59, tussen knooppunt Hooipolder en Den Bosch. De stad heeft een van de grootste logistieke gebieden van Nederland: Haven Waalwijk. Daardoor rijden er veel bussen en trucks tussen de hallen. Pech op de A59, op de Haven of in de wijk? Wij helpen u verder.
+road: A59 richting Den Bosch
+road: A59 richting Hooipolder en Breda
+road: N261 richting Tilburg en de Efteling
+road: Taxandriaweg door de stad
+spots: Op de A59 tussen Waalwijk en Den Bosch rijden veel vrachtwagens van en naar de Haven. Stop niet op de vluchtstrook als u het nog tot de afrit haalt. Lukt dat niet, ga dan achter de vangrail staan en bel ons.
+area: Besoijen, Baardwijk, Sprang-Capelle, Waspik, Drunen, Kaatsheuvel, Loon op Zand, Heusden, Vlijmen, Elshout
+near: oosterhout, tilburg, den-bosch
+localh: Haven Waalwijk, de Efteling en de wijken
+local: Op Haven Waalwijk staan distributiecentra van grote webwinkels en vervoerders. Bij elke hal staat een portier. Noem de naam van het pand en het dock, en meld dat er een sleepwagen komt. Een zware truck loopt via een partner.
+local: Op de parkeerterreinen van de Efteling in Kaatsheuvel staan in de vakanties duizenden auto's. Maak een foto van het vaknummer voordat u belt. Dat maakt het vinden veel makkelijker.
+local: In Sprang-Capelle en Waspik liggen de huizen langs lange, smalle straten met weinig ruimte. Noem het huisnummer en of de auto op de oprit of op straat staat.
+pech: Soms moet het gewoon even snel: u moet door, de bus moet rijden. Bij een lege accu of een band kijken we eerst naar een oplossing ter plaatse. Lukt dat niet, dan brengen we het voertuig naar uw garage.
+trans: Vanuit Waalwijk gaat veel over de A59. Moet uw auto of bestelbus naar Den Bosch, Breda of Tilburg? Noem het adres, dan spreken we de prijs af voordat de wagen vertrekt.
+faq: Helpen jullie ook bij hallen op Haven Waalwijk? :: Ja. Noem de naam van het pand, de poort en het dock. Voor trucks en opleggers zetten we een partner met zwaar materieel in.
+faq: Mijn auto start niet op de parkeerplaats van de Efteling. Wat nu? :: Noem het parkeerterrein en het vaknummer. Komt u terug na sluitingstijd, zeg dat dan ook. Dan spreken we een handige plek af.
+faq: Komen jullie ook in Drunen en Vlijmen? :: Ja. De plaatsen langs de A59 tussen Waalwijk en Den Bosch horen bij ons werkgebied.
+
+@@town roosendaal
+name: Roosendaal
+prov: Noord-Brabant
+region: Brabant
+geo: 4.47 51.53
+intro: Roosendaal ligt vlak bij de Belgische grens, op het kruispunt van de A17 en de A58. Veel verkeer uit Antwerpen en Zeeland komt hier langs, en rond de outlet Rosada is het regelmatig druk. Staat u met pech in Roosendaal of op de A58? Wij zijn er, ook met een buitenlands kenteken.
+road: A58 richting Breda en Bergen op Zoom
+road: A17 richting Moerdijk en Rotterdam
+road: Knooppunt De Stok tussen de A17 en de A58
+road: Burgemeester Freijterslaan door de stad
+spots: Rond knooppunt De Stok rijden veel vrachtwagens en is de afstand tussen de afritten kort. Stop niet op de invoegstrook. Rijd door tot de afrit, of ga anders achter de vangrail staan en bel bij gevaar 112.
+area: Kalsdonk, Kroeven, Langdonk, Tolberg, Westrand, Wouw, Heerle, Nispen, Wouwse Plantage, Essen
+near: bergen-op-zoom, etten-leur, breda
+localh: Borchwerf, Rosada en het grensgebied
+local: Op de bedrijventerreinen Borchwerf en Majoppeveld staan veel transporteurs en distributiecentra. Noem de bedrijfsnaam, de poort en het dock. Trucks gaan via een partner met zwaar materieel.
+local: Bij Rosada staan in het weekend veel Belgische auto's op het parkeerterrein. Start die van u niet? Noem het vak en vertel welke verzekering u heeft, dan weet u meteen wat de mogelijkheden zijn.
+local: Vlak over de grens bij Essen is de situatie net anders dan hier. Moet uw auto naar huis in België? Dat kan, dan noemen we vooraf de prijs voor de hele rit.
+pech: Een startprobleem bij u voor de deur, of een band op de Burgemeester Freijterslaan: kleine pech is vaak snel opgelost. Heeft u geen abonnement, dan hoeft dat niet. U rekent alleen deze ene keer af.
+trans: Na de A58 of de A17 willen veel mensen de auto gewoon naar huis of naar hun eigen garage hebben. Wij brengen hem. De rit spreekt u af aan de telefoon, met een prijs die u vooraf weet.
+faq: Slepen jullie ook naar België? :: Ja. We brengen uw auto ook over de grens, bijvoorbeeld naar Essen, Kalmthout of Antwerpen. U hoort vooraf de prijs voor de hele rit.
+faq: Helpen jullie op Borchwerf? :: Ja. Noem de naam van het bedrijf en de poort. Voor een oplegger of truck zetten we een partner in.
+faq: Komen jullie ook in Wouw en Nispen? :: Ja. Wouw, Heerle, Nispen en de Wouwse Plantage vallen binnen ons werkgebied.
+
+@@town bergen-op-zoom
+name: Bergen op Zoom
+prov: Noord-Brabant
+region: Brabant
+geo: 4.29 51.49
+intro: Bergen op Zoom ligt op de plek waar de A4 en de A58 samenkomen, bij knooppunt Zoomland. Wie van Zeeland of Antwerpen naar Rotterdam of Brabant rijdt, komt hier langs. In de zomer rijdt hier veel vakantieverkeer. Pech in de stad of op de snelweg? Bel ons.
+road: A58 richting Goes en Vlissingen
+road: A58 richting Roosendaal en Breda
+road: A4 richting Dinteloord en Rotterdam
+road: A4 richting Antwerpen en de Belgische grens
+spots: Rond knooppunt Zoomland wisselt het verkeer snel. Stoppen is daar gevaarlijk. Bij pech gaat u meteen achter de vangrail staan. In de zomer rijden er ook veel caravans: geef vooraf door als u met een caravan of aanhanger stilstaat.
+area: Centrum, Gageldonk, Warande, Noordgeest, Halsteren, Lepelstraat, Hoogerheide, Woensdrecht, Ossendrecht, Tholen
+near: roosendaal, goes, etten-leur
+localh: Markiezenhof, de Theodorushaven en de Brabantse Wal
+local: Rond de Grote Markt en het Markiezenhof is de binnenstad autoluw en krap. Tijdens de Vastenavend is alles nog voller. Staat uw auto in de buurt, noem dan de parkeergarage of de straat.
+local: In de Theodorushaven en langs het Schelde-Rijnkanaal werken veel bedrijven met bussen en vrachtauto's. Noem de bedrijfsnaam en de poort. Voor zware voertuigen zetten we een partner in.
+local: Op de Brabantse Wal, bij Hoogerheide en Woensdrecht, zijn de wegen bosrijk en soms rustig. Staat u daar 's avonds stil, blijf dan aan de veilige kant van de weg en houd uw telefoon opgeladen.
+pech: Veel kleine pech in Gageldonk of Halsteren is met starthulp of een bandenwissel op te lossen. U hoeft nergens lid van te zijn. Pas als het niet lukt, gaat de auto op de wagen.
+trans: Op weg naar Zeeland met pech? We kunnen de auto naar een garage in de buurt brengen, of terug naar huis. Ook naar België, bijvoorbeeld naar de regio Antwerpen. De prijs hoort u vooraf.
+faq: Helpen jullie ook met een caravan op de A58? :: Ja. Noem dat de caravan meekomt, en het gewicht als u dat weet. Dan sturen we de juiste wagen, of regelen we een tweede rit.
+faq: Komen jullie ook in Hoogerheide en Woensdrecht? :: Ja. De Brabantse Wal hoort bij ons werkgebied, tot aan Ossendrecht.
+faq: Tijdens de Vastenavend is de stad afgesloten. Kunnen jullie dan komen? :: We komen zo dicht mogelijk. Soms moet de auto even naar een andere plek worden gerold, of wachten we tot de straat weer open is.
+
+@@town etten-leur
+name: Etten-Leur
+prov: Noord-Brabant
+region: Brabant
+geo: 4.64 51.57
+intro: Etten-Leur ligt tussen Breda en Roosendaal, direct aan de A58. Het bestaat uit twee oude dorpen die aan elkaar gegroeid zijn, en veel inwoners rijden elke dag naar Breda of Rotterdam. Komt u hier tot stilstand op de A58 of in de wijk? Dan helpen wij u dag en nacht.
+road: A58 richting Breda
+road: A58 richting Roosendaal
+road: N640 richting Zevenbergen en de A59
+road: De oude weg langs de Leur richting Breda
+spots: Op de A58 bij Etten-Leur rijden veel vrachtwagens van en naar Antwerpen en Vlissingen. Ga bij pech direct achter de vangrail staan. Op de N640 is geen vluchtstrook: zet de auto daar zo ver mogelijk in de berm.
+area: Centrum, Grauwe Polder, Schoonhout, Banakkers, Baai, Hoeven, Sprundel, Rijsbergen, Prinsenbeek, Zundert
+near: breda, roosendaal, moerdijk
+localh: Vosdonk, de Lage Vaart en de Leur
+local: Op bedrijventerrein Vosdonk staan veel kleine en grotere bedrijven. Noem de naam van het pand en vertel of een wagen er makkelijk kan keren.
+local: De Leur en de omgeving van de Markt zijn oud en krap. Is er geen plek voor een plateauwagen, dan kijken we of de auto even naar een ruimere plek kan worden geduwd.
+local: Bij de Lage Vaart lopen wegen naast het water. Staat u aan de oever stil, houd dan rekening met fietsers en voetgangers en blijf uit de buurt van de rand.
+pech: De auto start niet bij de sportvereniging, of u heeft een lekke band bij Hoeven? We vragen eerst wat er aan de hand is en kijken of het ter plaatse kan. Zonder abonnement geen probleem.
+trans: Bent u onderweg op de A58 en wilt u door naar een eigen garage in Breda of Roosendaal? We brengen de auto, ook bij een grotere afstand. Vooraf spreken we de prijs af.
+faq: Komen jullie ook in Hoeven en Sprundel? :: Ja. De dorpen rond Etten-Leur vallen binnen ons werkgebied.
+faq: Is er een sleepwagen beschikbaar als het 's nachts op de A58 misgaat? :: Ja. We zijn 24/7 bereikbaar. Bij gevaar belt u eerst 112, en daarna ons voor het vervoer.
+faq: Helpen jullie ook op Vosdonk? :: Ja. Noem de bedrijfsnaam, en bij een zwaar voertuig ook het gewicht.
+
+@@town moerdijk
+name: Moerdijk
+prov: Noord-Brabant
+region: Brabant
+geo: 4.60 51.68
+intro: Moerdijk is een uitgestrekte gemeente aan het Hollands Diep, met de A16 en de A17 die hier de Moerdijkbrug bereiken, en een van de grootste haven- en industrieterreinen van Nederland. Pech op de brug, bij Zevenbergen of op het industrieterrein? Bel ons. Bij zwaar werk zetten we een partner in.
+road: A16 met de Moerdijkbrug richting Dordrecht
+road: A17 richting Roosendaal
+road: A59 richting Zevenbergen en Oosterhout
+road: Knooppunt Klaverpolder tussen de A16 en de A59
+spots: Op de Moerdijkbrug waait het vaak hard en is stoppen gevaarlijk. Rij door tot na de brug als het kan. Lukt dat niet, blijf dan met de gordel om in de auto zitten, zet de alarmlichten aan en bel 112.
+area: Zevenbergen, Klundert, Willemstad, Fijnaart, Zevenbergschen Hoek, Standdaarbuiten, Noordhoek, Langeweg, Heijningen, Moerdijk dorp
+near: dordrecht, breda, etten-leur
+localh: Industrieterrein, Willemstad en de dorpen
+local: Op Haven- en Industrieterrein Moerdijk en bij Logistiek Park Moerdijk werken veel bedrijven met grote voertuigen. Niet elk terrein is vrij toegankelijk. Noem de naam van het bedrijf en de poort. Meld het als er gevaarlijke stoffen in het spel zijn, en bel dan eerst 112.
+local: In Willemstad, de vestingstad aan het Hollands Diep, is het in de zomer druk met jachten en dagjesmensen. De straten binnen de wallen zijn krap. Noem de straat of de parkeerplaats buiten de vesting waar u staat.
+local: Zevenbergen en Klundert hebben hun eigen drukke wegen naar de A59 en de A17. De polderwegen ertussen zijn smal. Noem op een polderweg ook het huisnummer of een boerderij in de buurt.
+pech: Bij een lege accu of een lekke band in Zevenbergen of Fijnaart kijken we eerst of het ter plaatse kan. Zo hoeft de auto niet mee. Ook zonder abonnement of lidmaatschap kunt u gewoon bellen.
+trans: Veel mensen stranden hier onderweg op de A16. Moet uw auto naar huis, naar Dordrecht of naar Breda? Noem het adres. De prijs spreken we vooraf af, ook bij een lange rit.
+faq: Komen jullie op het industrieterrein Moerdijk? :: Ja, met toestemming van het bedrijf. Noem de naam, de poort en het kenteken. Voor een truck of oplegger zetten we een partner met zwaar materieel in.
+faq: Helpen jullie ook op de Moerdijkbrug? :: Ja, maar op de brug belt u eerst 112 als u gevaar loopt. Zodra het kan, halen we de auto op en brengen we hem weg.
+faq: Komen jullie ook in Willemstad? :: Ja. Noem of u binnen de vesting of bij de jachthaven staat. Binnen de wallen is het krap, dus we kijken vooraf waar we kunnen laden.
+
+@@town oss
+name: Oss
+prov: Noord-Brabant
+region: Brabant
+geo: 5.52 51.77
+intro: Oss ligt in het noordoosten van Brabant aan de A59 en de A50, op de plek waar deze snelwegen elkaar kruisen bij knooppunt Paalgraven. Veel verkeer rijdt hier richting Nijmegen en Den Bosch. Pech in Oss, Berghem of bij Vorstengrafdonk? Wij helpen u verder, ook in het weekend.
+road: A59 richting Den Bosch
+road: A50 richting Nijmegen
+road: A50 richting Uden en Eindhoven
+road: De singels rond het centrum
+spots: Rond knooppunt Paalgraven is er veel in- en uitvoegend verkeer. Stop hier niet, maar rijd door als dat kan. Staat u toch stil, ga dan aan de veilige kant van de vangrail staan en bel bij gevaar 112.
+area: Centrum, Ruwaard, Schadewijk, Krinkelhoek, Oss-Oost, Berghem, Lith, Megen, Geffen, Nistelrode
+near: den-bosch, zaltbommel, helmond
+localh: Vorstengrafdonk, Danenhoef en de dorpen aan de Maas
+local: Op de bedrijventerreinen Vorstengrafdonk en Danenhoef werken veel transport- en productiebedrijven. Noem de naam van het pand en de poort. Is het voertuig zwaarder dan 3,5 ton, zeg dat dan vooraf. Dan schakelen we een partner in.
+local: Rond het centrum zijn Ruwaard en Schadewijk woonwijken waar auto's soms 's ochtends niet starten. Dat is vaak de accu. We komen voor de deur en kijken eerst of het ter plaatse lukt.
+local: In Lith en Megen ligt de Maas vlakbij en zijn de dijkwegen smal. Noem het huisnummer en of de wagen ergens kan keren. Dat scheelt de chauffeur en u tijd.
+pech: In Oss is een lege accu of een lekke band een veelvoorkomende vraag. U betaalt alleen voor deze keer en u hoeft nergens lid van te zijn. Lukt het niet ter plaatse, dan gaat de auto op de wagen.
+trans: Naar een garage in Oss of Den Bosch, of naar een dealer in Nijmegen? Dat regelen we. Na een ongeval op de A59 brengen we de auto ook naar een schadebedrijf naar keuze.
+faq: Komen jullie op Vorstengrafdonk? :: Ja. Noem de bedrijfsnaam en het dock. Bij zware voertuigen zetten we een partner in.
+faq: Helpen jullie ook in Nistelrode en Berghem? :: Ja. Dorpen rond Oss horen bij ons werkgebied.
+faq: Rijden jullie ook naar Nijmegen als mijn garage daar zit? :: Ja. We brengen de auto ook buiten de regio. U hoort vooraf de prijs voor de rit.
+
+@@town veldhoven
+name: Veldhoven
+prov: Noord-Brabant
+region: Brabant
+geo: 5.40 51.42
+intro: Veldhoven grenst aan Eindhoven en heeft met ASML een van de grootste werkgevers van de regio. Elke ochtend en avond staat het rond De Run en de A2 vast. Pech op de Randweg, bij knooppunt De Hogt of voor de deur in Zilverackers? Wij helpen u verder.
+road: A2 richting Eindhoven en Weert
+road: A67 richting Antwerpen en Venlo
+road: Knooppunt De Hogt tussen de A2 en de A67
+road: De Run en de wegen door Veldhoven
+spots: Op de A2 en de A67 is het hier in de spits druk, met veel verkeer dat opeens van baan wisselt. Stop liever op een parkeerplaats of bij de afrit. Lukt dat niet, ga dan achter de vangrail staan en bel bij gevaar 112.
+area: Zilverackers, Cobbeek, D'Ekker, Heikant, Oerle, Zeelst, Meerveldhoven, Wintelre, Vessem, Eersel
+near: eindhoven, helmond, tilburg
+localh: De Run, Máxima MC en de wijken
+local: Op bedrijventerrein De Run staan veel leaseauto's, in parkeergarages en op afgesloten terreinen. Noem de parkeergarage en de verdieping, en meld bij beveiliging dat er een sleepwagen komt. Zonder melding kan de wagen niet naar binnen.
+local: Bij het Máxima Medisch Centrum is het parkeerterrein de hele dag druk. Start uw auto na een bezoek niet? Noem de ingang en het vak, dan vindt de wagen u zo.
+local: In Zilverackers en Cobbeek zijn de straten nieuw en netjes aangelegd, maar met weinig ruimte. Noem of de auto op de oprit staat, of in een parkeerhof.
+pech: Een leaseauto die niet start, of een eigen auto met een lekke band in D'Ekker: we kijken eerst wat er ter plaatse kan. Zonder abonnement geen probleem. U hoort vooraf wat het kost.
+trans: Uw dealer zit waarschijnlijk in Eindhoven of Veldhoven. We brengen de auto er heen op een plateauwagen, ook een elektrische auto. Na een ongeval op de A2 gaat hij naar het schadebedrijf dat u noemt.
+faq: Komen jullie op het parkeerterrein van ASML? :: Alleen met toestemming van de beveiliging. Meld dat er een sleepwagen komt, en noem het parkeerterrein en het kenteken.
+faq: Helpen jullie ook leaseauto's? :: Ja, als de leasevoorwaarden dat toestaan. Kijk even of u een vaste pechdienst moet bellen. Mag u zelf kiezen, dan helpen we u.
+faq: Komen jullie ook in Oerle en Wintelre? :: Ja. De kernen rond Veldhoven horen bij ons werkgebied.

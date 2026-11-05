@@ -1,0 +1,185 @@
+# Drechtsteden, Alblasserwaard en Rivierenland
+
+@@town zwijndrecht
+name: Zwijndrecht
+prov: Zuid-Holland
+region: Drechtsteden
+geo: 4.63 51.82
+intro: Zwijndrecht ligt tegenover Dordrecht aan de Oude Maas, direct aan de A16. Veel mensen rijden hier elke dag door de Drechttunnel naar Rotterdam, en vlakbij ligt rangeerterrein Kijfhoek. Staat u met pech op de Laan van Nederhoven, op de Lindtsedijk of op de A16? Wij helpen u verder.
+road: A16 met de Drechttunnel richting Rotterdam
+road: A16 richting Dordrecht en Breda
+road: Zwijndrechtse brug over de Oude Maas naar Dordrecht
+road: Lindtsedijk langs de Noord
+spots: In de Drechttunnel is geen plek om te stoppen. Bij pech volgt u de aanwijzingen in de tunnel. Staat u op de Zwijndrechtse brug, zet dan de alarmlichten aan en bel bij gevaar 112. De brug kan ook openstaan, dus houd daar rekening mee.
+area: Walburg, Kort Ambacht, Heer Oudelands Ambacht, Noord, Nederhoven, Lindtsedijk, Heerjansdam, Groote Lindt, Hendrik-Ido-Ambacht, Dordrecht
+near: dordrecht, hendrik-ido-ambacht, ridderkerk
+localh: Tussen de A16, de Lindtsedijk en Kijfhoek
+local: De Lindtsedijk is smal, met bedrijven aan de waterkant. Komt een bus of auto daar tot stilstand, dan wil de chauffeur weten of hij kan keren. Noem dus het huisnummer en het bedrijf.
+local: In Kort Ambacht en Heer Oudelands Ambacht zijn de buurten recent en ruim opgezet, met parkeervakken voor de deur. Daar is de auto meestal snel op de wagen te zetten.
+local: Rond winkelcentrum Walburg is het op koopavond en zaterdag druk. Staat u op het parkeerterrein, zeg dan in welke hoek, want het terrein is groter dan het lijkt.
+pech: Veel oproepen in Zwijndrecht zijn een lege accu of een band. Dat is vaak binnen korte tijd opgelost. Zonder lidmaatschap betaalt u alleen deze ene keer en de prijs hoort u voordat iemand vertrekt.
+trans: Moet de auto naar de overkant, naar een garage in Dordrecht, of juist richting Rotterdam? Noem het adres en de wagen brengt hem erheen. Na een ongeval op de A16 kan hij ook naar een schadebedrijf.
+faq: Helpen jullie ook op de A16 bij de Drechttunnel? :: Ja, zodra het veilig kan. In de tunnel volgt u eerst de aanwijzingen van de verkeerscentrale, daarna halen we uw auto op.
+faq: Komen jullie ook naar Heerjansdam? :: Ja. Heerjansdam en de Groote Lindt horen bij ons werkgebied, net als de rest van Zwijndrecht.
+faq: Mijn bus staat op de Lindtsedijk. Kan dat? :: Ja. Noem het huisnummer en of de bus geladen is. Op de dijk is weinig ruimte, dus dan kan de chauffeur zich voorbereiden.
+
+@@town papendrecht
+name: Papendrecht
+prov: Zuid-Holland
+region: Drechtsteden
+geo: 4.69 51.83
+intro: Papendrecht ligt op de hoek van de Beneden-Merwede en de Noord, met de A15 aan de noordkant en de N3 als directe weg naar Dordrecht. Op die route staat het tijdens de spits regelmatig vast, zeker als de brug open is. Pech in Papendrecht? Bel ons, 24 uur per dag.
+road: A15 richting Rotterdam door de Noordtunnel
+road: A15 richting Sliedrecht en Gorinchem
+road: N3 over de Papendrechtse brug naar Dordrecht
+road: Burgemeester Keijzerweg en de Veerweg door het dorp
+spots: Op de Papendrechtse brug is geen vluchtstrook. Valt u daar stil, blijf dan met de gordel om zitten en zet de alarmlichten aan. Bij gevaar belt u 112. Daarna kunnen we uw auto van de brug halen.
+area: Oostpolder, Westpolder, Molenvliet, Wilgendonk, Kraaihoek, Middelland, Oud-Alblas, Sliedrecht, Alblasserdam, Dordrecht
+near: sliedrecht, alblasserdam, dordrecht
+localh: Oostpolder, Westpolder en de industrie aan de Merwede
+local: Aan de oever van de Merwede staan werven en bedrijven die met de maritieme sector te maken hebben. Op die terreinen is een bedrijfsnaam belangrijker dan een straatnaam, dus geef die altijd door.
+local: In de Oostpolder en Westpolder zijn veel straten doodlopend. Noem bij het bellen de straat en het huisnummer, en of de auto vrij toegankelijk staat. Dat scheelt zoeken.
+local: Bij De Meent en de waterbushalte staan overdag veel auto's geparkeerd. Merkt u pas 's avonds dat de auto niet start? Geen probleem, we komen ook dan.
+pech: Een auto die niet wil starten in Molenvliet, een lekke band op de Veerweg: we kijken eerst of het ter plaatse lukt. Lukt dat niet, dan gaat de auto op de wagen en bespreken we waarheen.
+trans: Uw vaste garage kan in Papendrecht zitten, maar ook in Dordrecht of Alblasserdam. Voor ons maakt het niet uit. Noem de bestemming en u hoort de prijs. Ook een auto voor de sloop brengen we weg.
+faq: De brug naar Dordrecht staat open. Duurt het dan langer? :: Het kan even duren, maar we kiezen de snelste route en houden u op de hoogte.
+faq: Helpen jullie ook op bedrijfsterreinen aan de Merwede? :: Ja. Geef de bedrijfsnaam en de ingang door. Soms moet de wagen zich bij een portier melden.
+faq: Komen jullie ook naar Oud-Alblas? :: Ja. Oud-Alblas en de rest van de Alblasserwaard rond Papendrecht vallen binnen ons werkgebied.
+
+@@town sliedrecht
+name: Sliedrecht
+prov: Zuid-Holland
+region: Drechtsteden
+geo: 4.77 51.82
+intro: Sliedrecht is een lang, smal dorp tussen de A15 en de Beneden-Merwede. U kent het misschien van de baggerindustrie en het Nationaal Baggermuseum. Wij zijn een sleepdienst voor de weg, dus voor auto's en bussen, niet voor schepen. Pech in Sliedrecht of op de A15? Bel ons.
+road: A15 richting Papendrecht en Rotterdam
+road: A15 richting Gorinchem
+road: Stationsweg en de Rivierdijk door het dorp
+road: Parallelweg langs de spoorlijn
+spots: De A15 bij Sliedrecht is druk met vrachtverkeer richting Gorinchem en de Betuwe. Valt u daar stil, rij dan door tot de afrit als dat kan. Op de Rivierdijk is de weg smal en lopen fietsers en auto's dicht op elkaar.
+area: Sliedrecht-Oost, Sliedrecht-West, Baanhoek, Kerkbuurt, Hardinxveld-Giessendam, Papendrecht, Molenaarsgraaf, Wijngaarden, Giessenburg, Oud-Alblas
+near: papendrecht, gorinchem, dordrecht
+localh: Rivierdijk, Baanhoek en de bedrijven
+local: De bebouwing ligt langs één lange dijk. Een huisnummer alleen is daardoor niet genoeg om snel te vinden: noem ook de zijstraat, of u aan de waterkant of de landkant staat.
+local: Rond Baanhoek en de Parallelweg zitten bedrijven die met bouw- en baggerwerk te maken hebben. Hier rijden veel busjes met gereedschap. Is de bus geladen, noem dat dan even, dan weten we hoe zwaar hij is.
+local: Bij het station staan overdag de auto's van forenzen op de MerwedeLingelijn. Is uw accu leeg als u terugkomt, dan helpen we u ook dan op weg.
+pech: Op de Rivierdijk of in de woonwijken gaat het vaak om starthulp of een band. We vragen door wat er aan de hand is, zodat er meteen de juiste spullen meegaan. U hoeft geen lid te zijn van een pechhulpdienst.
+trans: Lukt het niet ter plaatse, dan brengen we uw auto naar een garage in Sliedrecht, Papendrecht of Gorinchem. Moet er na een ongeval een schade-expert kijken, dan kan de auto ook naar een schadeherstelbedrijf.
+faq: Slepen jullie ook schepen in Sliedrecht? :: Nee. Wij zijn een sleepdienst voor de weg en helpen met auto's, bussen en motoren. Voor sleepboten op het water bent u bij ons aan het verkeerde adres.
+faq: Komen jullie ook naar Hardinxveld-Giessendam? :: Ja. Hardinxveld-Giessendam, Molenaarsgraaf en de dorpen in de Alblasserwaard horen bij ons werkgebied.
+faq: Mijn bedrijfsbus zit vol met gereedschap. Kan die ook mee? :: Vaak wel. Noem ongeveer wat de bus met lading weegt, dan sturen we een wagen die dat aankan.
+
+@@town alblasserdam
+name: Alblasserdam
+prov: Zuid-Holland
+region: Drechtsteden
+geo: 4.66 51.87
+intro: Alblasserdam ligt aan de Noord, vlak bij de wereldberoemde molens van Kinderdijk. De A15 gaat er via de Noordtunnel onderdoor, en in het toeristenseizoen rijden er ook veel bussen en auto's richting de molens. Wij helpen in Alblasserdam, Kinderdijk en de Alblasserwaard.
+road: A15 met de Noordtunnel richting Rotterdam en Papendrecht
+road: Alblasserdamse brug richting Hendrik-Ido-Ambacht
+road: N214 richting de Alblasserwaard
+road: West-Kinderdijk langs de rivier
+spots: De Noordtunnel is kort maar heeft geen plek om te stoppen. Volg bij pech de aanwijzingen. Op de smalle dijk bij Kinderdijk is keren lastig, dus zeg precies waar u staat voordat de wagen vertrekt.
+area: Centrum, Kinderdijk, Souburgh, Vinkenpolder, Blokweer, Nieuw-Lekkerland, Bleskensgraaf, Oud-Alblas, Papendrecht, Hendrik-Ido-Ambacht
+near: papendrecht, hendrik-ido-ambacht, ridderkerk
+localh: Kinderdijk, de werven en de Vinkenpolder
+local: Bij Kinderdijk parkeren dagjesmensen op speciale terreinen. Start uw auto na een bezoek aan de molens niet? Noem het parkeerterrein, of de bezoekersingang waar u zit, dan vinden we u zo.
+local: Langs de Noord liggen werven en bedrijven, met bussen van monteurs die heen en weer rijden. Geef de naam van de werf door en meld ons bij de poort, dan kan de wagen meteen doorrijden.
+local: In de Vinkenpolder en Souburgh gaat het om gewone woonstraten. Daar zetten we uw auto voor de deur op de wagen, of lossen we het probleem ter plaatse op.
+pech: Dat een auto na een koude nacht niet start, gebeurt in elke straat. Starthulp lost het meestal op. Ook bij een lekke band kijken we of het ter plaatse kan. Pas als dat niet lukt, gaat de auto op de wagen.
+trans: Wij brengen de auto over de brug naar uw garage in Ridderkerk of Dordrecht, of naar een schadebedrijf. Op vakantie hier en wilt u de auto naar huis? Dan noemen we vooraf de prijs voor de hele rit.
+faq: Helpen jullie ook toeristen bij de molens van Kinderdijk? :: Ja, ook met een buitenlands kenteken. Noem het parkeerterrein en, als het kan, uw verzekeraar. Dan kunt u daar zelf navragen of het vergoed wordt.
+faq: Komen jullie ook op een scheepswerf? :: Ja, als de werf toestemming geeft. Noem de naam van de werf en de poort. Soms is een korte melding bij de portier nodig.
+faq: Helpen jullie ook in Nieuw-Lekkerland en Bleskensgraaf? :: Ja. Die plaatsen in de Alblasserwaard horen bij ons werkgebied.
+
+@@town hendrik-ido-ambacht
+name: Hendrik-Ido-Ambacht
+prov: Zuid-Holland
+region: Drechtsteden
+geo: 4.64 51.84
+intro: Hendrik-Ido-Ambacht ligt langs de A16 tussen Zwijndrecht en Ridderkerk, met de Noord aan de andere kant. Hier wonen veel forenzen die dagelijks naar Rotterdam of Dordrecht rijden. Start uw auto niet in de Volgerlanden, of staat u stil op de A16? Bel ons, dag en nacht.
+road: A16 richting Rotterdam en knooppunt Ridderkerk
+road: A16 richting de Drechttunnel en Dordrecht
+road: Alblasserdamse brug naar Alblasserdam
+road: Krommeweg door het dorp
+spots: De brug naar Alblasserdam staat regelmatig open voor de scheepvaart en heeft geen vluchtstrook. Valt u daar stil, zet de alarmlichten aan en blijf rustig zitten. Op de A16 gaat u altijd achter de vangrail staan.
+area: De Volgerlanden, Centrum, Antoniapolder, Krommeweg, Sandeling, Heerjansdam, Rijsoord, Zwijndrecht, Ridderkerk, Alblasserdam
+near: zwijndrecht, ridderkerk, alblasserdam
+localh: De Volgerlanden, de Antoniapolder en de dijk
+local: De Volgerlanden is een nieuwe wijk met veel bochtige straatjes en parkeerhofjes. Noem het huisnummer en of de auto op de eigen oprit staat, want dat bepaalt hoe we hem op de wagen krijgen.
+local: De oever van de Noord is smal, met huizen en bedrijven dicht op het water. Daar kan een lange wagen moeilijk keren. Het helpt als u de zijstraat noemt waar de chauffeur het beste kan inrijden.
+local: In de Antoniapolder en rond winkelcentrum De Schoof is het op zaterdag druk. Staat u op een parkeerplaats, zeg dan aan welke kant van het gebouw u staat.
+pech: Veel forenzen bellen ons 's ochtends omdat de auto niet start. Dat is vaak de accu. We lossen dat meestal op de stoep op, en anders brengen we de auto naar een garage bij u in de buurt.
+trans: De garage in Zwijndrecht, de dealer in Rotterdam of een schadebedrijf in Ridderkerk: we brengen de auto waar u wilt. Uw leaseauto mag ook, als de voorwaarden dat toelaten.
+faq: Helpen jullie 's ochtends vroeg ook? :: Ja, 24 uur per dag. U krijgt aan de telefoon meteen te horen hoe laat we er ongeveer zijn, zodat u uw werk kunt laten weten hoe het zit.
+faq: Mijn auto staat op een krappe oprit. Kan dat? :: Vaak wel. Met een lier trekken we de auto de straat op. Noem hoe de auto staat, en of de wielen nog draaien.
+faq: Rijden jullie ook via de brug naar Alblasserdam? :: Ja. We rijden via de snelste route. Staat de brug open, dan wordt het soms een paar minuten later.
+
+@@town leerdam
+name: Leerdam
+prov: Utrecht
+region: Drechtsteden
+geo: 5.09 51.89
+intro: Leerdam, bekend als glasstad, ligt aan de Linge, tussen de A15 en de A2. De wegen in deze regio zijn vaak smal, met dijken en kleine polderwegen. Valt u stil in de stad of in het Lingegebied? Wij zoeken de snelste route naar u toe en brengen uw auto naar de garage van uw keuze.
+road: A15 bij Gorinchem en Arkel
+road: A2 bij Everdingen richting Utrecht en Den Bosch
+road: De provinciale weg richting Vianen en Meerkerk
+road: Lingedijk richting Asperen en Heukelum
+spots: De Lingedijk is mooi maar smal. Staat u daar met pech, zet dan de alarmlichten aan en ga niet op de rijbaan staan. In de vesting zijn de straten krap, dus noem precies waar de auto staat.
+area: Centrum, Leerdam-West, Schoonrewoerd, Kedichem, Oosterwijk, Hei- en Boeicop, Asperen, Heukelum, Arkel, Vianen
+near: gorinchem, zaltbommel, tiel
+localh: Glasstad aan de Linge
+local: Rond de glasfabriek en het glasmuseum komen bezoekers met de auto. Start die niet meer na uw bezoek, noem dan de parkeerplaats waar u staat, ook als het een straatje achter het museum is.
+local: Op de bedrijventerreinen aan de rand van de stad staan veel bussen en bedrijfsauto's. Noem daar de naam van het bedrijf en de bedrijfsingang.
+local: In Schoonrewoerd en Kedichem wonen de mensen verspreid langs lange wegen. Noem dus het huisnummer én de buurtschap. Op de kaart lijkt het dichtbij, maar over de dijk kan het een stuk rijden zijn.
+pech: In het Lingegebied is de volgende garage niet altijd vlakbij. Daarom kijken we eerst of u ter plaatse verder kunt met starthulp of een band. Abonnement of lidmaatschap is niet nodig.
+trans: Is het niet ter plaatse op te lossen, dan brengen we uw auto naar Leerdam, Gorinchem of naar het adres dat u kiest. Bij een lange rit hoort u vooraf de prijs.
+faq: Komen jullie ook naar Schoonrewoerd en Kedichem? :: Ja. De dorpen rond Leerdam vallen binnen ons werkgebied. Noem de straat en het huisnummer.
+faq: Helpen jullie op de Lingedijk? :: Ja. Op de dijk kan een lange wagen niet overal keren. Noem het huisnummer of een bekend punt, dan kiest de chauffeur de goede kant.
+faq: Hoe komen jullie snel in Leerdam als de A2 vaststaat? :: We kiezen de snelste route over de A15 of de provinciale wegen en houden u op de hoogte als het later wordt.
+
+@@town tiel
+name: Tiel
+prov: Gelderland
+region: Rivierenland
+geo: 5.43 51.89
+intro: Tiel ligt aan de Waal, midden in de fruitstreek van de Betuwe. De A15 loopt er aan de noordkant langs en is op dit stuk een van de drukste vrachtroutes van Nederland, van de Rotterdamse haven naar Duitsland. Pech in Tiel of op de A15? Bel ons, ook 's nachts.
+road: A15 richting Gorinchem en Rotterdam
+road: A15 richting Nijmegen en Duitsland
+road: De provinciale weg richting Kesteren en Ochten
+road: De Waalbandijk langs de rivier
+spots: Op de A15 bij Tiel rijden veel vrachtwagens. Valt u daar stil, zet de alarmlichten aan en ga meteen achter de vangrail staan. Veel vrachtwagens rijden hier dicht op elkaar, dus blijf ver van de rijbaan.
+area: Binnenstad, Passewaay, Tiel-Oost, Tiel-West, Medel, Wadenoijen, Drumpt, Kapel-Avezaath, Ophemert, Kerk-Avezaath
+near: zaltbommel, gorinchem, leerdam
+localh: Bedrijventerrein Medel en de fruitstreek
+local: Op bedrijventerrein Medel, aan de A15, zit veel transport en logistiek. Hier gaat het vaak om bussen en vrachtauto's. Vrachtwagens helpen we via een partner met zwaar materieel. Noem bij het bellen de naam van het bedrijf.
+local: In de bloeitijd en met de fruitpluk rijden er in de Betuwe meer auto's en tractoren over smalle dijkwegen. Staat u tussen de boomgaarden, geef dan de naam van de fruitteler of de dijk door.
+local: In de binnenstad en bij de Waalkade zijn de straten smal. Noem de straat en of de auto er vrij staat, zodat we vooraf weten of een plateauwagen er kan komen.
+pech: Een startprobleem of een lekke band in Passewaay of Tiel-Oost is vaak ter plaatse te verhelpen. Heeft u geen abonnement, dan betaalt u alleen deze keer. De prijs hoort u aan de telefoon.
+trans: We brengen uw auto naar een garage in Tiel of verder, bijvoorbeeld als u onderweg op de A15 strandt en nog een eind van huis bent. Na een ongeval kan de auto ook naar een schadeherstelbedrijf.
+faq: Helpen jullie ook vrachtwagens op de A15 bij Tiel? :: Ja, via partners met een zware berger. Noem het kenteken, de rijrichting en het hectometerpaaltje.
+faq: Komen jullie op Medel? :: Ja. Geef de bedrijfsnaam en de poort door. Als u bij de receptie meldt dat er een sleepwagen komt, gaat het sneller.
+faq: Komen jullie ook in dorpen als Ophemert en Wadenoijen? :: Ja. De dorpen rond Tiel horen bij ons werkgebied, ook aan de dijken langs de Waal.
+
+@@town zaltbommel
+name: Zaltbommel
+prov: Gelderland
+region: Rivierenland
+geo: 5.25 51.81
+intro: Zaltbommel ligt in de Bommelerwaard, tussen de Waal en de Maas, direct aan de A2. Via de Martinus Nijhoffbrug rijdt al het verkeer tussen Utrecht en Den Bosch hier langs, en een kleine storing zorgt al snel voor lange rijen. Wij halen uw auto op en brengen hem veilig weg.
+road: A2 met de Martinus Nijhoffbrug richting Utrecht
+road: A2 richting Den Bosch
+road: N322 door de Bommelerwaard
+road: Waalbandijk richting Gameren en Nieuwaal
+spots: Op de Martinus Nijhoffbrug is veel verkeer en is stoppen gevaarlijk. Probeer door te rollen tot na de brug. Lukt dat niet, blijf dan achter de vangrail en bel eerst 112 als het niet veilig is.
+area: Binnenstad, Gameren, Nieuwaal, Bruchem, Kerkwijk, Delwijnen, Waardenburg, Hedel, Rossum, Ammerzoden
+near: den-bosch, tiel, gorinchem
+localh: De Bommelerwaard en De Wildeman
+local: Op bedrijventerrein De Wildeman aan de A2 staan bedrijven met veel transportbewegingen. Noem de naam van het bedrijf en, als het kan, de ingang, dan rijdt de wagen meteen de goede kant op.
+local: Binnen de vestingwallen van Zaltbommel is het autoluw en krap. Staat uw auto op de Gamerschestraat of de Waalkade, geef dat dan door, want dan zoeken we de beste aanrijroute.
+local: De dorpen in de Bommelerwaard liggen ver uit elkaar, met lange polderwegen en dijken. Noem de buurtschap en het huisnummer. De wagen rijdt niet zomaar even om, dus goed doorgeven scheelt tijd.
+pech: Na een lange rit op de A2 is het vaak de accu, de band of een oververhitting. We kijken wat ter plaatse kan. Zo nodig gaat de auto op de wagen en rijdt u mee, als er plek is in de cabine.
+trans: Moet uw auto naar Den Bosch, Utrecht of naar uw vaste garage in de Bommelerwaard? Dat kan. Op de A2 stranden ook veel mensen die ver van huis zijn. We brengen de auto dan de hele rit naar huis.
+faq: Halen jullie auto's van de A2 bij de Martinus Nijhoffbrug? :: Ja, zodra het veilig kan. Blokkeert u een rijstrook, dan kan de weginspecteur eerst een berger laten komen. Daarna brengen wij de auto verder.
+faq: Komen jullie ook naar Rossum en Ammerzoden? :: Ja. De Bommelerwaard hoort bij ons werkgebied, ook de dorpen tegen de Maas aan.
+faq: Kan ik meerijden als ik met mijn gezin stilsta? :: Meestal wel als er plek is. Noem hoeveel mensen er meerijden, dan kijken we vooraf wat er kan.

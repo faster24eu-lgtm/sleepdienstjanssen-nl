@@ -1,0 +1,93 @@
+# Zeeland
+
+@@town middelburg
+name: Middelburg
+prov: Zeeland
+region: Zeeland
+geo: 3.61 51.50
+intro: Middelburg is de hoofdstad van Zeeland en het hart van Walcheren. De A58 eindigt vlakbij, en via de N57 rijdt u naar Veere en de kust. In de zomer is het hier druk met strandgangers. Heeft u pech in de stad, op weg naar Domburg of op de A58? Wij helpen u.
+road: A58 richting Goes en Bergen op Zoom
+road: N57 richting Veere en het Veerse Meer
+road: De provinciale weg richting Domburg en de kust
+road: Kanaal door Walcheren met de bruggen bij Middelburg
+spots: De bruggen over het Kanaal door Walcheren staan vaak open voor schepen. Staat u er stil door pech, dan blijft u zitten met de alarmlichten aan, want er is weinig ruimte. Op de A58 gaat u altijd achter de vangrail staan.
+area: Binnenstad, Dauwendaele, Griffioen, Stromenwijk, Arnemuiden, Nieuw- en Sint Joosland, Veere, Koudekerke, Oostkapelle, Domburg
+near: vlissingen, goes, zierikzee
+localh: Binnenstad, Arnestein en de kust
+local: De binnenstad, met de Markt, het Abdijplein en de grachten, is krap en deels autoluw. Staat uw auto in een parkeergarage of op een kade, noem dan de plek. Dan kijken we of we er met een plateauwagen kunnen komen.
+local: Op bedrijventerrein Arnestein bij Arnemuiden rijden veel bussen van installateurs en aannemers. Noem de naam van het bedrijf. Een bus die vol staat met materiaal is zwaarder, dus zeg het als dat zo is.
+local: Op de campings en parkeerterreinen bij Domburg en Oostkapelle staan in de zomer veel auto's en caravans met een buitenlands kenteken. Bel ons gerust, ook met een buitenlands kenteken.
+pech: Komt u er 's ochtends achter dat de accu leeg is op de camping, of heeft u een lekke band op de Walcherse dijk? Vaak is dat ter plaatse op te lossen. U betaalt dan alleen die hulp en hoeft nergens lid van te zijn.
+trans: Als het niet lukt, brengen we de auto naar een garage op Walcheren, of naar huis als u hier op vakantie was. Bij een lange rit hoort u vooraf de hele prijs.
+faq: Helpen jullie ook op campings aan de kust? :: Ja. Meld u bij de receptie en noem de plaats op de camping. De wagen kan dan meteen door.
+faq: Rijden jullie mijn auto naar Duitsland of België? :: Dat kan. Noem het adres en u hoort vooraf de prijs voor de hele rit.
+faq: Helpen jullie ook in Arnemuiden en Veere? :: Ja. Heel Walcheren valt binnen ons werkgebied.
+
+@@town vlissingen
+name: Vlissingen
+prov: Zeeland
+region: Zeeland
+geo: 3.57 51.45
+intro: Vlissingen ligt helemaal aan het einde van de A58, aan de monding van de Westerschelde. Hier komen scheepvaart, strandbezoekers en studenten samen. Heeft u pech op de Boulevard, in Souburg, of op de Sloeweg bij het industriegebied? Bel ons, 24 uur per dag, ook als u hier op vakantie bent.
+road: A58 richting Middelburg en Goes
+road: Sloeweg richting Vlissingen-Oost en de Westerscheldetunnel
+road: Boulevards langs de Westerschelde
+road: Kanaalstraat en de wegen door de stad
+spots: De Sloeweg richting de Westerscheldetunnel heeft weinig plek om te stoppen. Staat u in de tunnel zelf stil, volg dan de aanwijzingen van de tunnelbeheerder en bel 112. Bij harde wind op de Boulevard houdt u ook rekening met opspattend water.
+area: Oud-Vlissingen, Lammerenburg, Paauwenburg, Bossenburg, Groot Lammerenburg, Oost-Souburg, West-Souburg, Ritthem, Biggekerke, Zoutelande
+near: middelburg, goes, terneuzen
+localh: Boulevard, Scheldepoort en Vlissingen-Oost
+local: Op de Boulevard Evertsen en de Boulevard De Ruyter is het in de zomer lastig parkeren, en de straten erachter zijn smal. Noem bij het bellen de straat en het huisnummer, of de strandopgang als u daar staat.
+local: Op het Sloegebied en bij Vlissingen-Oost zitten grote havenbedrijven. Hier kom je niet zomaar op een terrein. Noem de bedrijfsnaam en de poort, en meld bij de portier dat er een sleepwagen komt.
+local: In Oost-Souburg en West-Souburg gaat het meestal om een gewone woonstraat. Daar kunnen we goed bij uw auto komen en is het vaak snel opgelost.
+pech: Voor de deur in Paauwenburg of bij het station: een startprobleem of een band is vaak ter plaatse opgelost. Bent u student en heeft u geen pechhulpverzekering? Dan hoort u vooraf de prijs en beslist u zelf.
+trans: Als het niet lukt, brengen we uw auto naar een garage in de buurt, of verder als u liever thuis wilt laten repareren. Ook door de Westerscheldetunnel. De tol nemen we mee in de prijs die u vooraf hoort.
+faq: Kunnen jullie door de Westerscheldetunnel naar Zeeuws-Vlaanderen? :: Ja. Noem het adres. In de prijs die u vooraf hoort, zit alles wat de rit kost.
+faq: Mijn auto staat op de Boulevard en het is erg druk. Kan dat? :: Ja. Noem de strandopgang of het huisnummer, en of er plek is om te laden. Soms zoeken we een rustiger plek vlakbij.
+faq: Helpen jullie ook bij bedrijven op het Sloegebied? :: Ja, met toestemming. Noem de naam, de poort en het voertuig. Zware voertuigen gaan via een partner.
+
+@@town terneuzen
+name: Terneuzen
+prov: Zeeland
+region: Zeeland
+geo: 3.83 51.33
+intro: Terneuzen is de grootste stad van Zeeuws-Vlaanderen, aan de Westerschelde en het Kanaal Gent-Terneuzen. Hier staat veel zware industrie en loopt veel grensverkeer met België. Via de Westerscheldetunnel is het eiland van Zeeland vlakbij. Pech in Terneuzen of in de regio? Bel ons, dag en nacht.
+road: N62 richting de Westerscheldetunnel en Goes
+road: N62 en de Sluiskiltunnel richting Sluiskil en Sas van Gent
+road: N61 richting Schoondijke en Breskens
+road: N258 richting Axel en Hulst
+spots: In de Westerscheldetunnel en de Sluiskiltunnel stopt u alleen in nood. Volg de aanwijzingen van de tunnel en bel bij gevaar 112. Bij een brug of sluis op het kanaal kunt u soms lang wachten: zet de motor dan uit en blijf in de auto.
+area: Oud-Terneuzen, Zuiderkwartier, Sluiskil, Hoek, Axel, Biervliet, Philippine, Sas van Gent, Zaamslag, Westdorpe
+near: vlissingen, goes, middelburg
+localh: Dow, Valuepark en het Kanaal Gent-Terneuzen
+local: Op de grote terreinen bij Dow, Valuepark en langs het kanaal zijn de regels streng. Zonder toestemming mag een sleepwagen er niet op. Meld bij de portier dat er een wagen komt, en noem de poort en de contactpersoon.
+local: Over de grens bij Zelzate en Gent rijdt veel woon-werkverkeer. Moet uw auto naar huis in België? Dat kan. We noemen vooraf de prijs voor de hele rit.
+local: De Scheldekade en de oude binnenstad zijn krap, met veel water eromheen. Noem of de auto op de kade staat of in de parkeergarage, dan weet de chauffeur wat hij moet meenemen.
+pech: Zeeuws-Vlaanderen is groot en het is niet overal druk. Daarom kijken we eerst of een accu of band ter plaatse te doen is. Zo hoeft u niet lang te wachten op een lege rit naar een garage die misschien al dicht is.
+trans: Als het op de plek niet lukt, brengen we de auto naar een garage in Terneuzen of Axel. Wilt u door de Westerscheldetunnel naar Goes of verder, dan regelen we dat ook, en hoort u vooraf de hele prijs.
+faq: Helpen jullie ook in Hulst en Axel? :: Ja. Heel Zeeuws-Vlaanderen valt binnen ons werkgebied. Geef wel door waar u precies staat, want de afstanden zijn groot.
+faq: Kunnen jullie mijn auto naar Gent brengen? :: Ja. We rijden ook over de grens. U hoort vooraf de prijs voor de hele rit.
+faq: Komen jullie bij Dow of op het haventerrein? :: Alleen met toestemming van het bedrijf. Noem de naam, de poort en de contactpersoon.
+
+@@town zierikzee
+name: Zierikzee
+prov: Zeeland
+region: Zeeland
+geo: 3.92 51.65
+intro: Zierikzee is de grootste kern op Schouwen-Duiveland, met de Zeelandbrug als weg naar Goes en de N59 als route naar de Grevelingendam en de Brouwersdam. In de zomer komen er veel toeristen naar Renesse en Burgh-Haamstede. Staat u daar met pech? Wij regelen hulp, ook op het strand.
+road: N256 met de Zeelandbrug richting Goes
+road: N59 richting Bruinisse en de Grevelingendam
+road: N59 richting Renesse en de Brouwersdam
+road: N57 over de Oosterscheldekering richting Walcheren
+spots: Op de Zeelandbrug en de Oosterscheldekering waait het hard. Valt u daar stil, blijf dan in de auto zitten met de alarmlichten aan en bel 112 als u op de rijbaan staat. Stap niet uit aan de kant van het verkeer.
+area: Binnenstad, Malta, Noordgouwe, Ouwerkerk, Nieuwerkerk, Bruinisse, Renesse, Burgh-Haamstede, Scharendijke, Dreischor
+near: goes, middelburg, hellevoetsluis
+localh: Binnenstad, stranden en de dorpen
+local: De binnenstad van Zierikzee met het Havenpark, de Oude Haven en de Sint Lievensmonstertoren is krap en autoluw. Noem bij het bellen de straat, zodat we vooraf weten hoe we uw auto bereiken.
+local: Bij Renesse en Burgh-Haamstede staan in de zomer lange rijen auto's op de parkeerplaatsen bij de strandopgangen. Noem de strandopgang en het nummer van het parkeervak. Zo weet de wagen meteen waar hij moet zijn.
+local: Bij Bruinisse en aan de Grevelingen zijn veel jachthavens en vakantieparken. Staat er een boottrailer of caravan achter uw auto? Noem dat vooraf.
+pech: Op vakantie een lege accu op het park? Of een band die het begeeft op de dijk bij Nieuwerkerk? Vaak kan het ter plaatse. Geen abonnement? Ook goed. U hoort aan de telefoon wat het kost.
+trans: Op het eiland is 's avonds niet elke garage open. Wij brengen uw auto naar een garage in de buurt, of over de Zeelandbrug naar Goes. Moet de auto naar huis, dan noemen we vooraf de prijs voor de hele rit.
+faq: Komen jullie op de parkeerplaats bij de strandopgang? :: Ja. Noem de strandopgang en het vak. In de zomer is het er soms druk, dus even geduld kan nodig zijn.
+faq: Kunnen jullie een caravan van Renesse naar huis brengen? :: Dat kan vaak. Noem de maat en het gewicht, en waar het naartoe moet. U hoort vooraf de prijs.
+faq: Rijden jullie ook naar Bruinisse? :: Ja. Heel Schouwen-Duiveland hoort bij ons werkgebied, ook aan de Grevelingen.
