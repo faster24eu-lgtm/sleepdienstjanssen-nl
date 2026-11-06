@@ -103,3 +103,8 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 ## 2026-11-06 (night) – EN leak scan clean; og:image sitewide
 - Full `src/pages-en` + built `/en/` scan: no leftover Dutch section labels (kept official toponyms/brand/slugs).
 - Added `og:image` (`/assets/icon-512.png`) via build.pl / build-en.pl + shell/home + hand-maintained hubs; 118 HTML pages now have it.
+
+## 2026-11-06 (night) – Janssen 1200×630 OG card + twitter:image
+- New `/assets/og-janssen-1200x630.png` (navy/yellow brand card); wired as og:image + twitter:card/image sitewide (build.pl / build-en.pl + HTML). Hub SVG aria-labels already meaningful; no empty alts to fix. Faster: added twitter:card/image pointing at existing road photo.
+
+- PNG binary uploaded via Actions decode of `assets/og-janssen-1200x630.png.b64` (MCP cannot push binary); SVG sibling also in assets.
