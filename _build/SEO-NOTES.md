@@ -9,3 +9,8 @@ Not published by GitHub Pages (underscore folder / not linked).
 - Re-check Search Console CTR and new-URL impressions after indexing.
 
 Deploy note: tip commit after night polish for GitHub Pages queue.
+
+## 2026-11-06 (night, wave B) – haven internal links
+- Botlek near: + Delfshaven; pech copy links `/vrachtwagen-pechhulp/`.
+- Europoort pech copy links `/vrachtwagen-pechhulp/`.
+- Home/Rotterdam already linked Europoort/Pernis/Delfshaven + vrachtwagen-pechhulp (prior).

@@ -223,12 +223,12 @@ road: N57 en de Hartelbrug richting Brielle
 road: N15 richting Europoort en de Maasvlakte
 spots: Op de A15 door het havengebied rijden vooral vrachtwagens. Wacht dus nooit op de vluchtstrook, maar achter de vangrail. Op de Botlekbrug en in de Botlektunnel volgt u de aanwijzingen van de verkeerscentrale.
 area: Botlek, Europoort, Maasvlakte, Maasvlakte 2, Pernis, Rozenburg, Hoogvliet, Vondelingenplaat, Oostvoorne, Spijkenisse
-near: europoort, pernis, spijkenisse, rotterdam
+near: europoort, pernis, delfshaven, spijkenisse
 localh: Vrachtwagen stil bij de terminal of op een haventerrein
 local: Op terminals en terreinen kom je niet zomaar binnen. Noem daarom de naam van de terminal, de poort en de contactpersoon. Meld bij de portier dat er een sleepwagen komt. Dat scheelt wachten bij de slagboom.
 local: Bij een truck met oplegger willen we vooraf weten of de oplegger geladen is, of er gevaarlijke stoffen in zitten en of de trekker nog kan loskoppelen. Bij gevaarlijke lading belt u altijd eerst 112. Met die gegevens kiest de partner de juiste berger.
 local: Voor een bestelbus of personenauto volstaat een gewone plateauwagen. Werkt u op de Maasvlakte en start uw auto na de dienst niet? Noem het parkeerterrein van het bedrijf en het kenteken, dan zoekt de wagen niet lang.
-pech: Voor personenauto's en bestelbussen kan starthulp of een bandenwissel meestal ter plaatse. Bij vrachtwagens hangt het af van de storing: soms volstaat een monteur, soms is berging nodig. Vertel wat het voertuig doet, dan kijken we mee.
+pech: Voor personenauto's en bestelbussen kan starthulp of een bandenwissel meestal ter plaatse. Bij vrachtwagens hangt het af van de storing: soms volstaat een monteur, soms is berging nodig. Vertel wat het voertuig doet, dan kijken we mee. Meer over <a href="/vrachtwagen-pechhulp/">vrachtwagen pechhulp</a> in Botlek en op de Maasvlakte.
 trans: Een auto of bestelbus brengen we naar de garage die u kiest. Trucks en opleggers gaan via de partner naar een truckdealer of een stalling in de regio. U hoort vooraf wie er komt en wat de afspraak is.
 faq: Doen jullie ook vrachtwagen pechhulp op de Maasvlakte? :: Ja, via partners met zwaar materieel. U belt hetzelfde nummer, noemt de terminal of poort, het kenteken en de storing, en u hoort wie er komt en wat de afspraak is.
 faq: Mijn oplegger is geladen. Kan die ook mee? :: Dat hangt af van het gewicht en de lading. Geef het gewicht en het soort lading door. Gaat het om gevaarlijke stoffen, bel dan eerst 112.
@@ -254,7 +254,7 @@ localh: Terminals, tankparken en poorten
 local: Noem de terminal, het poortnummer en de contactpersoon. Zonder toestemming komt een sleepwagen het terrein niet op.
 local: Bij een geladen oplegger of ADR-lading wilt u eerst 112 bellen bij gevaar. Daarna belt u ons met kenteken, gewicht en storing.
 local: Personenauto's en bestelbussen laden we op een plateauwagen. Trucks gaan via een partner met zwaar materieel.
-pech: Starthulp of een bandenwissel lukt bij lichte voertuigen vaak ter plaatse. Bij trucks hangt het van de storing af: soms monteur, soms berging. Zeg wat het voertuig doet.
+pech: Starthulp of een bandenwissel lukt bij lichte voertuigen vaak ter plaatse. Bij trucks hangt het van de storing af: soms monteur, soms berging. Zeg wat het voertuig doet. Zie ook <a href="/vrachtwagen-pechhulp/">vrachtwagen pechhulp</a>.
 trans: We brengen uw auto of bus naar de garage die u kiest. Trucks gaan naar een truckdealer of stalling in de regio. De prijs spreken we vooraf af.
 faq: Helpen jullie ook vrachtwagens in Europoort? :: Ja, via partners met zwaar materieel. U belt hetzelfde nummer en hoort vooraf wie er komt.
 faq: Mag de sleepwagen het terrein op? :: Alleen met toestemming. Meld bij de portier dat er een sleepwagen of berger aankomt.
