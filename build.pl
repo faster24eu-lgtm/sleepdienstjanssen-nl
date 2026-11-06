@@ -85,6 +85,10 @@ sub patch_footer {
 # ===== Raamwerk uit een bestaande pagina =====
 my $TPL = rd("$ROOT/sleepdienst-dordrecht/index.html");
 my ($HEAD_TPL, $BODY_TOP) = $TPL =~ m{^(.*?</head>\n)(.*?)<nav class="crumbs}s or die 'shell top';
+# Never copy Dordrecht hreflang / lang switcher into other NL pages
+$HEAD_TPL =~ s{<link rel="alternate" hreflang="[^"]+" href="[^"]+">\s*}{}g;
+$BODY_TOP =~ s{<div class="lang"[^>]*>.*?</div>\s*}{}g;
+$TPL =~ s{<div class="container" style="padding-bottom:8px;font-size:13px"><a href="/sleepdienst-dordrecht/">NL</a> · <a href="/en/sleepdienst-dordrecht/" hreflang="en">EN</a></div>\s*}{}g;
 my ($FOOT_HTML) = $TPL =~ m{(</main>.*)$}s or die 'shell foot';
 my ($CTA)   = $TPL =~ m{(<section class="cta" id="contact">.*?</section>)}s or die 'cta';
 my ($STEPS) = $TPL =~ m{(<section class="section steps-sec" id="werkwijze">.*?</section>)}s or die 'steps';

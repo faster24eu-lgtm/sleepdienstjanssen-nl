@@ -616,21 +616,19 @@ sub patch_nl_file {
   my $f = "$ROOT/$rel";
   return unless -f $f;
   my $h = rd($f);
-  # hreflang
-  unless ($h =~ /hreflang="en"/) {
-    my $hl = hreflang_tags($nl_path);
-    $h =~ s{</head>}{$hl</head>} or warn "no head $rel";
-  }
-  # lang switcher in navcta
+  # Always strip prior hreflang / lang switchers (Dordrecht template leak)
+  $h =~ s{<link rel="alternate" hreflang="[^"]+" href="[^"]+">\s*}{}g;
+  $h =~ s{<div class="lang"[^>]*>.*?</div>\s*}{}g;
+  $h =~ s{<div class="container" style="padding(?:-bottom)?:8px[^"]*"[^>]*>\s*<a href="[^"]*">NL</a>\s*·\s*<a href="[^"]*" hreflang="en">EN</a></div>\s*}{}g;
+  my $hl = hreflang_tags($nl_path);
+  $h =~ s{</head>}{$hl</head>} or warn "no head $rel";
   my $sw = lang_switcher($nl_path, 'nl');
-  if ($h =~ /class="navcta"/ && $h !~ /class="lang"/) {
+  if ($h =~ /class="navcta"/) {
     $h =~ s{(<div class="navcta">)}{$1\n      $sw} or warn "navcta $rel";
   }
-  # footer language line
-  unless ($h =~ /hreflang="en">EN</ || $h =~ />English</) {
-    $h =~ s{(<div class="foot-bottom">)}{<div class="container" style="padding-bottom:8px;font-size:13px"><a href="$nl_path">NL</a> · <a href="@{[en_path($nl_path)]}" hreflang="en">EN</a></div>\n$1}
-      or $h =~ s{(</footer>)}{<div class="container" style="padding:8px 0;font-size:13px"><a href="$nl_path">NL</a> · <a href="@{[en_path($nl_path)]}" hreflang="en">EN</a></div>\n$1};
-  }
+  $h =~ s{(<div class="foot-bottom">)}{<div class="container" style="padding-bottom:8px;font-size:13px"><a href="$nl_path">NL</a> · <a href="@{[en_path($nl_path)]}" hreflang="en">EN</a></div>\n$1}
+    or $h =~ s{(</footer>)}{<div class="container" style="padding:8px 0;font-size:13px"><a href="$nl_path">NL</a> · <a href="@{[en_path($nl_path)]}" hreflang="en">EN</a></div>\n$1}
+    or ($h =~ m{</body>} && ($h =~ s{(</body>)}{<div class="container" style="padding:8px 0;font-size:13px"><a href="$nl_path">NL</a> · <a href="@{[en_path($nl_path)]}" hreflang="en">EN</a></div>\n$1}));
   wr($rel, $h);
 }
 
@@ -649,13 +647,32 @@ for my $v (@SERVICES) {
 # Also pechhulp etc already in SERVICES; diensten hub if any
 patch_nl_file('diensten/index.html', '/diensten/') if -f "$ROOT/diensten/index.html";
 
+# EN redirect stubs (mirror NL noindex hubs)
+wr('en/diensten/index.html', qq(<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Janssen Towing — Services</title>
+<link rel="canonical" href="https://sleepdienstjanssen.nl/en/#services"><meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url=/en/#services">
+) . hreflang_tags('/diensten/') . qq(</head>
+<body><p>This page moved: <a href="/en/#services">https://sleepdienstjanssen.nl/en/#services</a></p>
+<p><a href="/diensten/" hreflang="nl">Nederlands</a> · <strong lang="en">English</strong></p></body></html>
+));
+wr('en/contact/index.html', qq(<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Janssen Towing — Contact</title>
+<link rel="canonical" href="https://sleepdienstjanssen.nl/en/#contact"><meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url=/en/#contact">
+) . hreflang_tags('/contact/') . qq(</head>
+<body><p>This page moved: <a href="/en/#contact">https://sleepdienstjanssen.nl/en/#contact</a></p>
+<p><a href="/contact/" hreflang="nl">Nederlands</a> · <strong lang="en">English</strong></p></body></html>
+));
+patch_nl_file('contact/index.html', '/contact/');
+
 print "NL hreflang/switcher patched\n";
 
 # ===== Sitemap: NL + EN =====
 my @urls = ('/', '/en/', '/werkgebied/', '/en/werkgebied/');
 push @urls, map { ("/$_->{slug}/", "/en/$_->{slug}/") } @SERVICES;
 push @urls, map { ("/sleepdienst-$_->{slug}/", "/en/sleepdienst-$_->{slug}/") } @TOWNS;
-push @urls, '/pech-op-de-snelweg/', '/en/pech-op-de-snelweg/', '/elektrische-auto-slepen/', '/en/elektrische-auto-slepen/', '/privacy/', '/en/privacy/';
+push @urls, '/pech-op-de-snelweg/', '/en/pech-op-de-snelweg/', '/elektrische-auto-slepen/', '/en/elektrische-auto-slepen/', '/privacy/', '/en/privacy/', '/diensten/', '/en/diensten/', '/contact/', '/en/contact/';
 # unique preserve order
 my %seen; @urls = grep { !$seen{$_}++ } @urls;
 wr('sitemap.xml', qq(<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n)
