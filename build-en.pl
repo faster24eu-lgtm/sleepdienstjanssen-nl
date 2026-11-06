@@ -683,7 +683,8 @@ print "NL hreflang/switcher patched\n";
 my @urls = ('/', '/en/', '/werkgebied/', '/en/werkgebied/');
 push @urls, map { ("/$_->{slug}/", "/en/$_->{slug}/") } @SERVICES;
 push @urls, map { ("/sleepdienst-$_->{slug}/", "/en/sleepdienst-$_->{slug}/") } @TOWNS;
-push @urls, '/pech-op-de-snelweg/', '/en/pech-op-de-snelweg/', '/elektrische-auto-slepen/', '/en/elektrische-auto-slepen/', '/privacy/', '/en/privacy/', '/diensten/', '/en/diensten/', '/contact/', '/en/contact/';
+push @urls, '/pech-op-de-snelweg/', '/en/pech-op-de-snelweg/', '/elektrische-auto-slepen/', '/en/elektrische-auto-slepen/', '/privacy/', '/en/privacy/';
+# noindex stubs /diensten/ /contact/ (+EN) stay as soft redirects but stay OUT of the sitemap
 # unique preserve order
 my %seen; @urls = grep { !$seen{$_}++ } @urls;
 wr('sitemap.xml', qq(<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n)
