@@ -1,0 +1,37 @@
+name: subset-poppins
+on:
+  push:
+    paths:
+      - '.github/workflows/subset-poppins.yml'
+jobs:
+  subset:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Subset Poppins font URL across HTML
+        run: |
+          set -e
+          OLD='https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;1,700&display=swap'
+          NEW='https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;0,800;1,800&display=swap'
+          n=0
+          while IFS= read -r -d '' f; do
+            if grep -Fq "$OLD" "$f"; then
+              # portable replace
+              python3 -c "from pathlib import Path; p=Path('$f'); t=p.read_text(); p.write_text(t.replace('''$OLD''', '''$NEW'''))"
+              n=$((n+1))
+            fi
+          done < <(find . -name '*.html' -print0)
+          echo "updated $n html files"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A '*.html' || true
+          git add $(git ls-files -m '*.html') 2>/dev/null || true
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "no html changes"
+          else
+            git add -u
+            git commit -m "CWV: subset Poppins to 400/700/800 + italic 800 (drop 500/600)"
+            git push
+          fi

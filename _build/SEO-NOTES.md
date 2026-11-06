@@ -172,3 +172,12 @@ Facts only from shipped work tonight — no invented GSC numbers:
 - Shared small-town body intro → `Need a tow in {city}? We help 24/7…` (31 towns; sources towns-rijnmond/drecht/brabant/zeeland).
 - Shared EN town hero → `Car broken down in {city}?…` (builder once).
 - Hub body intros customized: Rotterdam/Dordrecht/Breda/Botlek (earlier) + Tilburg, Den Bosch, Gorinchem, Spijkenisse, Goes (this pass). Flatbed DOES phrasing + home “We tow…” retained.
+
+## 2026-11-06 (night) – CWV / transfer sizes (measured)
+PSI API: **HTTP 429** (no scores from Google API).
+Local Lighthouse 13.6 mobile (simulate) — real runs this night:
+- Faster `/`: perf **100**, LCP **1.1s**, CLS **0**, TBT **10ms**
+- Faster `/sleepdienst/amsterdam/`: perf **100**, LCP **0.9s**, CLS **0**, TBT **0ms**
+- Janssen `/`: perf **99**, LCP **1.6s**, CLS **0.001**, TBT **0ms**
+- Janssen `/en/`: perf **99**, LCP **1.7s**, CLS **0.014**, TBT **0ms**
+Live transfer (approx): Faster CSS ~15KB + JS ~0.7KB; Janssen CSS ~17KB + Poppins Google Fonts. Fix: subset Poppins to `400/700/800` + italic `800` (drop 500/600 + unused italic 700); map CSS 500→400, 600→700. No OG/LCP hero changes.
