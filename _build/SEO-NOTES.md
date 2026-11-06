@@ -18,3 +18,7 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 ## 2026-11-06 (night) – Pernis pech → vrachtwagen-pechhulp
 - `/sleepdienst-pernis/` pech copy now links `/vrachtwagen-pechhulp/` (same treatment as Botlek/Europoort).
 - Orphan check: home + footer still link Europoort/Pernis/Delfshaven + vrachtwagen-pechhulp (HTTP 200).
+
+## 2026-11-06 (night, late) – Pernis FAQ link + morning note
+- Pernis FAQ “vrachtwagen pechhulp” answer now links `/vrachtwagen-pechhulp/`.
+- Orphans (home/footer → Europoort/Pernis/Delfshaven/vrachtwagen-pechhulp) still OK prior wave.

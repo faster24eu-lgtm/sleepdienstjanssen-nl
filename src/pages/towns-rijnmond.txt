@@ -281,7 +281,7 @@ local: Voor vrachtwagens werken we met een partner. Noem kenteken, type en of de
 local: In de woonwijken van Pernis gaat het vaker om een auto die niet start. Dan kijken we eerst of starthulp genoeg is.
 pech: Lege accu of lekke band? Dat lossen we vaak ter plaatse op. Geen abonnement nodig. U betaalt alleen deze rit. Voor trucks: zie ook <a href="/vrachtwagen-pechhulp/">vrachtwagen pechhulp</a>.
 trans: Naar garage, huis of schadebedrijf in Rotterdam of Hoogvliet: u noemt het adres en hoort de prijs vooraf.
-faq: Doen jullie vrachtwagen pechhulp in Pernis? :: Ja, via een partner met zwaar materieel. U belt 0970 1022 9095 en hoort vooraf de afspraak.
+faq: Doen jullie vrachtwagen pechhulp in Pernis? :: Ja, via een partner met zwaar materieel. U belt 0970 1022 9095 en hoort vooraf de afspraak. Zie <a href="/vrachtwagen-pechhulp/">vrachtwagen pechhulp</a>.
 faq: Komen jullie ook 's nachts bij de raffinaderij? :: Ja, 24/7. Zorg dat de poort weet dat er een wagen aankomt.
 faq: Wat kost een sleepdienst in Pernis? :: Afstand, voertuig en tijdstip bepalen de prijs. Die hoort u voordat we vertrekken.
 
