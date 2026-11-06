@@ -288,7 +288,7 @@ sub page_en {
   my $crumb = esc($a{crumb});
   my $crumbs = qq(<nav class="crumbs container" aria-label="Breadcrumb"><a href="/en/">Home</a> › <span>$crumb</span></nav>\n);
   my $body_top = "$ICONS\n$EN_TOPBAR$header\n";
-  return $h . $body_top . $crumbs . "<main>\n$a{body}\n$EN_CTA\n" . $foot;
+  return $h . qq(<body>\n<a class="skip-link" href="#content">Skip to content</a>\n) . $body_top . $crumbs . "<main id=\"content\">\n$a{body}\n$EN_CTA\n" . $foot;
 }
 
 my $DOES = sub {

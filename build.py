@@ -196,6 +196,7 @@ def page(*, title, desc, path, body, schema, crumbs=None):
 <script type="application/ld+json">{json.dumps(schema, ensure_ascii=False)}</script>
 </head>
 <body>
+<a class="skip-link" href="#content">Ga naar inhoud</a>
 {ICONS}
 <div class="topbar"><div class="container">
   <span><svg><use href="#i-clock"/></svg>24/7 hulp</span>
@@ -225,7 +226,7 @@ def page(*, title, desc, path, body, schema, crumbs=None):
   </nav>
 </header>
 {crumb_html}
-<main>
+<main id="content">
 {body}
 {cta()}
 </main>
