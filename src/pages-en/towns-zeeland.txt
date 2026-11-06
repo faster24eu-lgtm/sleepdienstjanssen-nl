@@ -11,7 +11,7 @@ intro: Broken down or in an accident in Middelburg? Janssen Towing helps you 24/
 spots: Bridges over the Canal through Walcheren often open for ships. Broken down there? Stay seated with hazard lights on — there is little space. On the A58 always stand behind the guardrail.
 area: Binnenstad, Dauwendaele, Griffioen, Stromenwijk, Arnemuiden, Nieuw- en Sint Joosland, Veere, Koudekerke, Oostkapelle, Domburg
 near: vlissingen, goes, zierikzee
-localh: Binnenstad, Arnestein en de kust
+localh: Old town, Arnestein and the coast
 pech: A flat battery or flat tyre in Middelburg can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A58 towards Goes and Bergen op Zoom
@@ -36,7 +36,7 @@ intro: Broken down or in an accident in Vlissingen? Janssen Towing helps you 24/
 spots: The Sloeweg towards the Westerschelde Tunnel has little room to stop. Stuck in the tunnel itself? Follow tunnel-operator instructions and call 112. In strong wind on the Boulevard allow for spray as well.
 area: Oud-Vlissingen, Lammerenburg, Paauwenburg, Bossenburg, Groot Lammerenburg, Oost-Souburg, West-Souburg, Ritthem, Biggekerke, Zoutelande
 near: middelburg, goes, terneuzen
-localh: Boulevard, Scheldepoort en Vlissingen-Oost
+localh: Boulevard, Scheldepoort and Vlissingen-Oost
 pech: A flat battery or flat tyre in Vlissingen can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A58 towards Middelburg and Goes
@@ -61,7 +61,7 @@ intro: Broken down or in an accident in Terneuzen? Janssen Towing helps you 24/7
 spots: In the Westerschelde Tunnel and Sluiskil Tunnel stop only in an emergency. Follow tunnel instructions and call 112 if you are in danger. At a bridge or lock on the canal you may wait a long time — switch the engine off and stay in the car.
 area: Oud-Terneuzen, Zuiderkwartier, Sluiskil, Hoek, Axel, Biervliet, Philippine, Sas van Gent, Zaamslag, Westdorpe
 near: vlissingen, goes, middelburg
-localh: Dow, Valuepark en het Kanaal Gent-Terneuzen
+localh: Dow, Valuepark and the Ghent–Terneuzen Canal
 pech: A flat battery or flat tyre in Terneuzen can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: N62 towards de Westerscheldetunnel and Goes
@@ -86,7 +86,7 @@ intro: Broken down or in an accident in Zierikzee? Janssen Towing helps you 24/7
 spots: On the Zeeland Bridge and the Oosterschelde storm surge barrier it blows hard. If you break down, stay in the car with hazard lights on and call 112 if you are on the live lane. Do not get out on the traffic side.
 area: Binnenstad, Malta, Noordgouwe, Ouwerkerk, Nieuwerkerk, Bruinisse, Renesse, Burgh-Haamstede, Scharendijke, Dreischor
 near: goes, middelburg, hellevoetsluis
-localh: Binnenstad, stranden en de dorpen
+localh: Old town, beaches and the villages
 pech: A flat battery or flat tyre in Zierikzee can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: N256 with the Zeelandbrug towards Goes

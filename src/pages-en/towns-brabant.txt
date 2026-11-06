@@ -11,7 +11,7 @@ intro: Broken down or in an accident in Eindhoven? Janssen Towing helps you 24/7
 spots: On the Randweg near Ekkersweijer and Leenderheide traffic changes lanes quickly. Stopping there is dangerous. Drive on to an exit or emergency bay if you can; otherwise stand behind the guardrail. Call 112 if you are on a live lane.
 area: Woensel, Strijp, Gestel, Stratum, Tongelre, Meerhoven, Acht, Best, Nuenen, Waalre
 near: veldhoven, helmond, tilburg
-localh: Airport, High Tech Campus en De Hurk
+localh: Airport, High Tech Campus and De Hurk
 pech: A flat battery or flat tyre in Eindhoven can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A2 Randweg towards Den Bosch and Maastricht
@@ -37,7 +37,7 @@ intro: Broken down or in an accident in Helmond? Janssen Towing helps you 24/7 w
 spots: The N279 has no hard shoulder and a lot of freight traffic. Put the car as far into the verge as you can and wait on the ditch side — not between the car and the road.
 area: Brandevoort, Rijpelberg, Stiphout, Dierdonk, Mierlo-Hout, Brouwhuis, Binnenstad, Mierlo, Nuenen, Aarle-Rixtel
 near: eindhoven, veldhoven, oss
-localh: BZOB, Automotive Campus en de woonwijken
+localh: BZOB, Automotive Campus and the neighbourhoods
 pech: A flat battery or flat tyre in Helmond can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A270 towards Eindhoven
@@ -62,7 +62,7 @@ intro: Broken down or in an accident in Oosterhout? Janssen Towing helps you 24/
 spots: The A27 north of Oosterhout is often busy. If you break down, always stand behind the guardrail. On the bridges over the Wilhelminakanaal you can get stuck briefly even without a breakdown of your own.
 area: Oosterheide, Zuiderhout, Vrachelen, Arkendonk, Dommelbergen, Slotjes, Den Hout, Dorst, Oosteind, Teteringen
 near: breda, waalwijk, etten-leur
-localh: Weststad, Everdenberg en de Vrachelen
+localh: Weststad, Everdenberg and De Vrachelen
 pech: A flat battery or flat tyre in Oosterhout can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A27 towards Breda and junction Sint-Annabosch
@@ -87,7 +87,7 @@ intro: Broken down or in an accident in Waalwijk? Janssen Towing helps you 24/7 
 spots: On the A59 between Waalwijk and Den Bosch many trucks run to and from the Haven. Do not stop on the hard shoulder if you can still reach an exit. If not, stand behind the guardrail and call us.
 area: Besoijen, Baardwijk, Sprang-Capelle, Waspik, Drunen, Kaatsheuvel, Loon op Zand, Heusden, Vlijmen, Elshout
 near: oosterhout, tilburg, den-bosch
-localh: Haven Waalwijk, de Efteling en de wijken
+localh: Waalwijk Haven, the Efteling and the districts
 pech: A flat battery or flat tyre in Waalwijk can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A59 towards Den Bosch
@@ -112,7 +112,7 @@ intro: Broken down or in an accident in Roosendaal? Janssen Towing helps you 24/
 spots: Around junction De Stok there are many trucks and exits are close together. Do not stop on the slip road. Drive on to the exit if you can; otherwise stand behind the guardrail and call 112 if you are in danger.
 area: Kalsdonk, Kroeven, Langdonk, Tolberg, Westrand, Wouw, Heerle, Nispen, Wouwse Plantage, Essen
 near: bergen-op-zoom, etten-leur, breda
-localh: Borchwerf, Rosada en het grensgebied
+localh: Borchwerf, Rosada and the border area
 pech: A flat battery or flat tyre in Roosendaal can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A58 towards Breda and Bergen op Zoom
@@ -137,7 +137,7 @@ intro: Broken down or in an accident in Bergen op Zoom? Janssen Towing helps you
 spots: Around junction Zoomland traffic changes lanes quickly. Stopping there is dangerous. If you break down, stand behind the guardrail at once. In summer there are many caravans — tell us in advance if you are stuck with a caravan or trailer.
 area: Centrum, Gageldonk, Warande, Noordgeest, Halsteren, Lepelstraat, Hoogerheide, Woensdrecht, Ossendrecht, Tholen
 near: roosendaal, goes, etten-leur
-localh: Markiezenhof, de Theodorushaven en de Brabantse Wal
+localh: Markiezenhof, Theodorushaven and the Brabantse Wal
 pech: A flat battery or flat tyre in Bergen op Zoom can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A58 towards Goes and Vlissingen
@@ -162,7 +162,7 @@ intro: Broken down or in an accident in Etten-Leur? Janssen Towing helps you 24/
 spots: On the A58 near Etten-Leur many trucks run to and from Antwerp and Vlissingen. If you break down, stand behind the guardrail at once. The N640 has no hard shoulder — put the car as far into the verge as you can.
 area: Centrum, Grauwe Polder, Schoonhout, Banakkers, Baai, Hoeven, Sprundel, Rijsbergen, Prinsenbeek, Zundert
 near: breda, roosendaal, moerdijk
-localh: Vosdonk, de Lage Vaart en de Leur
+localh: Vosdonk, Lage Vaart and De Leur
 pech: A flat battery or flat tyre in Etten-Leur can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A58 towards Breda
@@ -187,7 +187,7 @@ intro: Broken down or in an accident in Moerdijk? Janssen Towing helps you 24/7 
 spots: On the Moerdijk Bridge it often blows hard and stopping is dangerous. Drive past the bridge if you can. If not, stay belted in the car, switch on hazard lights and call 112.
 area: Zevenbergen, Klundert, Willemstad, Fijnaart, Zevenbergschen Hoek, Standdaarbuiten, Noordhoek, Langeweg, Heijningen, Moerdijk dorp
 near: dordrecht, breda, etten-leur
-localh: Industrieterrein, Willemstad en de dorpen
+localh: Industrial estate, Willemstad and the villages
 pech: A flat battery or flat tyre in Moerdijk can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A16 with the Moerdijkbrug towards Dordrecht
@@ -212,7 +212,7 @@ intro: Broken down or in an accident in Oss? Janssen Towing helps you 24/7 with 
 spots: Around junction Paalgraven there is a lot of merging traffic. Do not stop here — drive on if you can. If you are stuck, stand on the safe side of the guardrail and call 112 if you are in danger.
 area: Centrum, Ruwaard, Schadewijk, Krinkelhoek, Oss-Oost, Berghem, Lith, Megen, Geffen, Nistelrode
 near: den-bosch, zaltbommel, helmond
-localh: Vorstengrafdonk, Danenhoef en de dorpen aan de Maas
+localh: Vorstengrafdonk, Danenhoef and the Maas villages
 pech: A flat battery or flat tyre in Oss can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A59 towards Den Bosch
@@ -237,7 +237,7 @@ intro: Broken down or in an accident in Veldhoven? Janssen Towing helps you 24/7
 spots: On the A2 and A67 rush hour is busy here, with sudden lane changes. Prefer a car park or exit. If that is not possible, stand behind the guardrail and call 112 if you are in danger.
 area: Zilverackers, Cobbeek, D'Ekker, Heikant, Oerle, Zeelst, Meerveldhoven, Wintelre, Vessem, Eersel
 near: eindhoven, helmond, tilburg
-localh: De Run, Máxima MC en de wijken
+localh: De Run, Máxima MC and the districts
 pech: A flat battery or flat tyre in Veldhoven can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A2 towards Eindhoven and Weert
