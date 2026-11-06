@@ -8,20 +8,20 @@ geo: 5.47 51.44
 title: Towing Eindhoven 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Eindhoven 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Eindhoven? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Eindhoven and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de Randweg wisselt het verkeer op korte afstand van rijstrook bij Ekkersweijer en Leenderheide. Stoppen is daar gevaarlijk. Rijd door naar een afrit of pechhaven, en ga anders meteen achter de vangrail staan. Bel 112 als u op de rijbaan staat.
+spots: On the Randweg near Ekkersweijer and Leenderheide traffic changes lanes quickly. Stopping there is dangerous. Drive on to an exit or emergency bay if you can; otherwise stand behind the guardrail. Call 112 if you are on a live lane.
 area: Woensel, Strijp, Gestel, Stratum, Tongelre, Meerhoven, Acht, Best, Nuenen, Waalre
 near: veldhoven, helmond, tilburg
 localh: Airport, High Tech Campus en De Hurk
 pech: A flat battery or flat tyre in Eindhoven can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A2 op de Randweg towards Den Bosch en Maastricht
-road: A67 towards Venlo en Antwerpen
-road: A58 towards Tilburg en Breda
-road: A50 towards Veghel en Nijmegen
+road: A2 Randweg towards Den Bosch and Maastricht
+road: A67 towards Venlo and Antwerpen
+road: A58 towards Tilburg and Breda
+road: A50 towards Veghel and Nijmegen
 road: Stadsring with the Kennedylaan and the Insulindelaan
-local: Komt u terug van vakantie en start uw auto niet op een parkeerterrein bij Eindhoven Airport? Noem het parkeerterrein en het vak. Bij de vertrekhal is de ruimte beperkt, dus we spreken af waar we elkaar treffen.
-local: Op de High Tech Campus en op terreinen als De Hurk en Flight Forum staan veel leaseauto's en bedrijfsbussen. Meld bij de receptie of de slagboom dat er een sleepwagen komt, en controleer bij een leaseauto of u zelf een pechdienst mag kiezen.
-local: Op wedstrijddagen bij het Philips Stadion en tijdens evenementen als Glow is het centrum soms dicht. Staat u in de buurt van Strijp-S of de Vestdijk, zeg dat dan vooraf. Dan zoeken we een route die wel open is.
+local: Back from holiday and your car will not start on an Eindhoven Airport car park? Name the car park and bay. Space near the departure hall is tight, so we agree a meeting point.
+local: On the High Tech Campus and sites like De Hurk and Flight Forum there are many lease cars and company vans. Tell reception or the barrier that a tow truck is coming, and for a lease car check whether you may choose your own roadside service.
+local: On match days at the Philips Stadion and during events such as Glow, the centre can be closed. If you are near Strijp-S or the Vestdijk, say so up front so we can pick a route that is open.
 faq: How quickly can you be in Eindhoven? :: We check which truck is closest. On the phone you get an arrival estimate for Eindhoven, depending on your exact location and traffic.
 faq: What does a tow in Eindhoven cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -34,19 +34,19 @@ geo: 5.66 51.48
 title: Towing Helmond 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Helmond 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Helmond? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Helmond and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de N279 is geen vluchtstrook en er rijdt veel vrachtverkeer. Zet de auto zo ver mogelijk in de berm en wacht aan de kant van de sloot, niet tussen de auto en de weg.
+spots: The N279 has no hard shoulder and a lot of freight traffic. Put the car as far into the verge as you can and wait on the ditch side — not between the car and the road.
 area: Brandevoort, Rijpelberg, Stiphout, Dierdonk, Mierlo-Hout, Brouwhuis, Binnenstad, Mierlo, Nuenen, Aarle-Rixtel
 near: eindhoven, veldhoven, oss
 localh: BZOB, Automotive Campus en de woonwijken
 pech: A flat battery or flat tyre in Helmond can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A270 towards Eindhoven
-road: N279 towards Veghel en Den Bosch
+road: N279 towards Veghel and Den Bosch
 road: N279 towards Asten and the A67
 road: Kanaaldijk langs de Zuid-Willemsvaart
 local: On business parks around Helmond, give the company name and street so we find you faster.
-local: In Brandevoort, met zijn nieuwe straten in oude stijl, is het soms krap met bochten en parkeren. Noem de straat en waar de auto staat, dan weet de chauffeur hoe hij het beste kan aanrijden.
-local: Bij de Kanaaldijk en de Zuid-Willemsvaart is de weg smal, met weinig plek om te stoppen. Staat u daar stil, zet dan alarmlichten aan en ga niet op de weg staan.
+local: In Brandevoort, with its new streets in an old style, bends and parking can be tight. Name the street and where the car is so the driver knows the best approach.
+local: Along the Kanaaldijk and the Zuid-Willemsvaart the road is narrow with little room to stop. If you break down there, switch on hazard lights and do not stand in the roadway.
 faq: How quickly can you be in Helmond? :: We check which truck is closest. On the phone you get an arrival estimate for Helmond, depending on your exact location and traffic.
 faq: What does a tow in Helmond cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -59,18 +59,18 @@ geo: 4.86 51.64
 title: Towing Oosterhout 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Oosterhout 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Oosterhout? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Oosterhout and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: De A27 ten noorden van Oosterhout is vaak druk. Valt u stil, ga dan altijd achter de vangrail staan. Op de bruggen over het Wilhelminakanaal kunt u soms even vaststaan, ook als u niet zelf pech heeft.
+spots: The A27 north of Oosterhout is often busy. If you break down, always stand behind the guardrail. On the bridges over the Wilhelminakanaal you can get stuck briefly even without a breakdown of your own.
 area: Oosterheide, Zuiderhout, Vrachelen, Arkendonk, Dommelbergen, Slotjes, Den Hout, Dorst, Oosteind, Teteringen
 near: breda, waalwijk, etten-leur
 localh: Weststad, Everdenberg en de Vrachelen
 pech: A flat battery or flat tyre in Oosterhout can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A27 towards Breda en knooppunt Sint-Annabosch
-road: A27 towards Hooipolder en Gorinchem
-road: A59 towards Waalwijk en Zevenbergen
-road: Wilhelminakanaal with the bruggen door de stad
+road: A27 towards Breda and junction Sint-Annabosch
+road: A27 towards Hooipolder and Gorinchem
+road: A59 towards Waalwijk and Zevenbergen
+road: Wilhelminakanaal with the bridges through town
 local: On business parks around Oosterhout, give the company name and street so we find you faster.
-local: In Arkendonk en de Vrachelen liggen veel woonstraten met vaste parkeervakken. De auto staat er vaak goed bereikbaar, dus meestal is hij snel op te laden.
+local: In Arkendonk and De Vrachelen many residential streets have fixed parking bays. The car is usually easy to reach, so loading is often quick.
 local: In multi-storey car parks tell us the level — a flatbed may not fit under a low ceiling.
 faq: How quickly can you be in Oosterhout? :: We check which truck is closest. On the phone you get an arrival estimate for Oosterhout, depending on your exact location and traffic.
 faq: What does a tow in Oosterhout cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
@@ -84,19 +84,19 @@ geo: 5.07 51.69
 title: Towing Waalwijk 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Waalwijk 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Waalwijk? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Waalwijk and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de A59 tussen Waalwijk en Den Bosch rijden veel vrachtwagens van en naar de Haven. Stop niet op de vluchtstrook als u het nog tot de afrit haalt. Lukt dat niet, ga dan achter de vangrail staan en bel ons.
+spots: On the A59 between Waalwijk and Den Bosch many trucks run to and from the Haven. Do not stop on the hard shoulder if you can still reach an exit. If not, stand behind the guardrail and call us.
 area: Besoijen, Baardwijk, Sprang-Capelle, Waspik, Drunen, Kaatsheuvel, Loon op Zand, Heusden, Vlijmen, Elshout
 near: oosterhout, tilburg, den-bosch
 localh: Haven Waalwijk, de Efteling en de wijken
 pech: A flat battery or flat tyre in Waalwijk can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A59 towards Den Bosch
-road: A59 towards Hooipolder en Breda
+road: A59 towards Hooipolder and Breda
 road: N261 towards Tilburg and the Efteling
-road: Taxandriaweg door de stad
+road: Taxandriaweg through the town
 local: On closed sites tell the gatekeeper that a tow truck is coming. Otherwise share your location via WhatsApp.
-local: Op de parkeerterreinen van de Efteling in Kaatsheuvel staan in de vakanties duizenden auto's. Maak een foto van het vaknummer voordat u belt. Dat maakt het vinden veel makkelijker.
-local: In Sprang-Capelle en Waspik liggen de huizen langs lange, smalle straten met weinig ruimte. Noem het huisnummer en of de auto op de oprit of op straat staat.
+local: On the Efteling car parks in Kaatsheuvel there are thousands of cars in the holidays. Photograph the bay number before you call — that makes finding you much easier.
+local: In Sprang-Capelle and Waspik houses sit along long, narrow streets with little space. Give the house number and whether the car is on the driveway or on the street.
 faq: How quickly can you be in Waalwijk? :: We check which truck is closest. On the phone you get an arrival estimate for Waalwijk, depending on your exact location and traffic.
 faq: What does a tow in Waalwijk cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -109,19 +109,19 @@ geo: 4.47 51.53
 title: Towing Roosendaal 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Roosendaal 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Roosendaal? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Roosendaal and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Rond knooppunt De Stok rijden veel vrachtwagens en is de afstand tussen de afritten kort. Stop niet op de invoegstrook. Rijd door tot de afrit, of ga anders achter de vangrail staan en bel bij gevaar 112.
+spots: Around junction De Stok there are many trucks and exits are close together. Do not stop on the slip road. Drive on to the exit if you can; otherwise stand behind the guardrail and call 112 if you are in danger.
 area: Kalsdonk, Kroeven, Langdonk, Tolberg, Westrand, Wouw, Heerle, Nispen, Wouwse Plantage, Essen
 near: bergen-op-zoom, etten-leur, breda
 localh: Borchwerf, Rosada en het grensgebied
 pech: A flat battery or flat tyre in Roosendaal can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A58 towards Breda en Bergen op Zoom
-road: A17 towards Moerdijk en Rotterdam
+road: A58 towards Breda and Bergen op Zoom
+road: A17 towards Moerdijk and Rotterdam
 road: Knooppunt De Stok tussand the A17 and the A58
-road: Burgemeester Freijterslaan door de stad
+road: Burgemeester Freijterslaan through the town
 local: On business parks around Roosendaal, give the company name and street so we find you faster.
-local: Bij Rosada staan in het weekend veel Belgische auto's op het parkeerterrein. Start die van u niet? Noem het vak en vertel welke verzekering u heeft, dan weet u meteen wat de mogelijkheden zijn.
-local: Vlak over de grens bij Essen is de situatie net anders dan hier. Moet uw auto naar huis in België? Dat kan, dan noemen we vooraf de prijs voor de hele rit.
+local: At Rosada many Belgian cars fill the car park at weekends. Yours will not start? Name the bay and say which insurance you have so you know the options straight away.
+local: Just over the border near Essen the situation differs slightly. Need the car taken home to Belgium? That is possible — we agree the full-trip price up front.
 faq: How quickly can you be in Roosendaal? :: We check which truck is closest. On the phone you get an arrival estimate for Roosendaal, depending on your exact location and traffic.
 faq: What does a tow in Roosendaal cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -134,19 +134,19 @@ geo: 4.29 51.49
 title: Towing Bergen op Zoom 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Bergen op Zoom 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Bergen op Zoom? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Bergen op Zoom and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Rond knooppunt Zoomland wisselt het verkeer snel. Stoppen is daar gevaarlijk. Bij pech gaat u meteen achter de vangrail staan. In de zomer rijden er ook veel caravans: geef vooraf door als u met een caravan of aanhanger stilstaat.
+spots: Around junction Zoomland traffic changes lanes quickly. Stopping there is dangerous. If you break down, stand behind the guardrail at once. In summer there are many caravans — tell us in advance if you are stuck with a caravan or trailer.
 area: Centrum, Gageldonk, Warande, Noordgeest, Halsteren, Lepelstraat, Hoogerheide, Woensdrecht, Ossendrecht, Tholen
 near: roosendaal, goes, etten-leur
 localh: Markiezenhof, de Theodorushaven en de Brabantse Wal
 pech: A flat battery or flat tyre in Bergen op Zoom can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A58 towards Goes en Vlissingen
-road: A58 towards Roosendaal en Breda
-road: A4 towards Dinteloord en Rotterdam
+road: A58 towards Goes and Vlissingen
+road: A58 towards Roosendaal and Breda
+road: A4 towards Dinteloord and Rotterdam
 road: A4 towards Antwerpen and the Belgische grens
 local: In multi-storey car parks tell us the level — a flatbed may not fit under a low ceiling.
 local: On business parks around Bergen op Zoom, give the company name and street so we find you faster.
-local: Op de Brabantse Wal, bij Hoogerheide en Woensdrecht, zijn de wegen bosrijk en soms rustig. Staat u daar 's avonds stil, blijf dan aan de veilige kant van de weg en houd uw telefoon opgeladen.
+local: On the Brabantse Wal near Hoogerheide and Woensdrecht the roads are wooded and sometimes quiet. Broken down there in the evening? Stay on the safe side of the road and keep your phone charged.
 faq: How quickly can you be in Bergen op Zoom? :: We check which truck is closest. On the phone you get an arrival estimate for Bergen op Zoom, depending on your exact location and traffic.
 faq: What does a tow in Bergen op Zoom cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -159,7 +159,7 @@ geo: 4.64 51.57
 title: Towing Etten-Leur 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Etten-Leur 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Etten-Leur? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Etten-Leur and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de A58 bij Etten-Leur rijden veel vrachtwagens van en naar Antwerpen en Vlissingen. Ga bij pech direct achter de vangrail staan. Op de N640 is geen vluchtstrook: zet de auto daar zo ver mogelijk in de berm.
+spots: On the A58 near Etten-Leur many trucks run to and from Antwerp and Vlissingen. If you break down, stand behind the guardrail at once. The N640 has no hard shoulder — put the car as far into the verge as you can.
 area: Centrum, Grauwe Polder, Schoonhout, Banakkers, Baai, Hoeven, Sprundel, Rijsbergen, Prinsenbeek, Zundert
 near: breda, roosendaal, moerdijk
 localh: Vosdonk, de Lage Vaart en de Leur
@@ -170,8 +170,8 @@ road: A58 towards Roosendaal
 road: N640 towards Zevenbergen and the A59
 road: De oude weg langs de Leur towards Breda
 local: On business parks around Etten-Leur, give the company name and street so we find you faster.
-local: De Leur en de omgeving van de Markt zijn oud en krap. Is er geen plek voor een plateauwagen, dan kijken we of de auto even naar een ruimere plek kan worden geduwd.
-local: Bij de Lage Vaart lopen wegen naast het water. Staat u aan de oever stil, houd dan rekening met fietsers en voetgangers en blijf uit de buurt van de rand.
+local: De Leur and the Markt area are old and tight. If there is no room for a flatbed, we look at whether the car can be pushed to a wider spot first.
+local: Near the Lage Vaart roads run beside the water. Broken down on the bank? Watch for cyclists and pedestrians and stay clear of the edge.
 faq: How quickly can you be in Etten-Leur? :: We check which truck is closest. On the phone you get an arrival estimate for Etten-Leur, depending on your exact location and traffic.
 faq: What does a tow in Etten-Leur cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -184,7 +184,7 @@ geo: 4.60 51.68
 title: Towing Moerdijk 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Moerdijk 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Moerdijk? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Moerdijk and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de Moerdijkbrug waait het vaak hard en is stoppen gevaarlijk. Rij door tot na de brug als het kan. Lukt dat niet, blijf dan met de gordel om in de auto zitten, zet de alarmlichten aan en bel 112.
+spots: On the Moerdijk Bridge it often blows hard and stopping is dangerous. Drive past the bridge if you can. If not, stay belted in the car, switch on hazard lights and call 112.
 area: Zevenbergen, Klundert, Willemstad, Fijnaart, Zevenbergschen Hoek, Standdaarbuiten, Noordhoek, Langeweg, Heijningen, Moerdijk dorp
 near: dordrecht, breda, etten-leur
 localh: Industrieterrein, Willemstad en de dorpen
@@ -192,11 +192,11 @@ pech: A flat battery or flat tyre in Moerdijk can often be fixed on the spot. No
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A16 with the Moerdijkbrug towards Dordrecht
 road: A17 towards Roosendaal
-road: A59 towards Zevenbergen en Oosterhout
+road: A59 towards Zevenbergen and Oosterhout
 road: Knooppunt Klaverpolder tussand the A16 and the A59
 local: On business parks around Moerdijk, give the company name and street so we find you faster.
-local: In Willemstad, de vestingstad aan het Hollands Diep, is het in de zomer druk met jachten en dagjesmensen. De straten binnen de wallen zijn krap. Noem de straat of de parkeerplaats buiten de vesting waar u staat.
-local: Zevenbergen en Klundert hebben hun eigen drukke wegen naar de A59 en de A17. De polderwegen ertussen zijn smal. Noem op een polderweg ook het huisnummer of een boerderij in de buurt.
+local: In Willemstad, the fortress town on the Hollands Diep, summers are busy with yachts and day trippers. Streets inside the walls are tight. Name the street or the car park outside the fortress where you are.
+local: Zevenbergen and Klundert have their own busy roads to the A59 and A17. The polder roads between them are narrow. On a polder road also give the house number or a nearby farm.
 faq: How quickly can you be in Moerdijk? :: We check which truck is closest. On the phone you get an arrival estimate for Moerdijk, depending on your exact location and traffic.
 faq: What does a tow in Moerdijk cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -209,7 +209,7 @@ geo: 5.52 51.77
 title: Towing Oss 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Oss 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Oss? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Oss and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Rond knooppunt Paalgraven is er veel in- en uitvoegend verkeer. Stop hier niet, maar rijd door als dat kan. Staat u toch stil, ga dan aan de veilige kant van de vangrail staan en bel bij gevaar 112.
+spots: Around junction Paalgraven there is a lot of merging traffic. Do not stop here — drive on if you can. If you are stuck, stand on the safe side of the guardrail and call 112 if you are in danger.
 area: Centrum, Ruwaard, Schadewijk, Krinkelhoek, Oss-Oost, Berghem, Lith, Megen, Geffen, Nistelrode
 near: den-bosch, zaltbommel, helmond
 localh: Vorstengrafdonk, Danenhoef en de dorpen aan de Maas
@@ -217,11 +217,11 @@ pech: A flat battery or flat tyre in Oss can often be fixed on the spot. No memb
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A59 towards Den Bosch
 road: A50 towards Nijmegen
-road: A50 towards Uden en Eindhoven
+road: A50 towards Uden and Eindhoven
 road: De singels rond het centrum
 local: On business parks around Oss, give the company name and street so we find you faster.
-local: Rond het centrum zijn Ruwaard en Schadewijk woonwijken waar auto's soms 's ochtends niet starten. Dat is vaak de accu. We komen voor de deur en kijken eerst of het on the spot lukt.
-local: In Lith en Megen ligt de Maas vlakbij en zijn de dijkwegen smal. Noem het huisnummer en of de wagen ergens kan keren. Dat scheelt de chauffeur en u tijd.
+local: Around the centre, Ruwaard and Schadewijk are neighbourhoods where cars sometimes will not start in the morning — often the battery. We come to the door and first see if we can fix it on the spot.
+local: In Lith and Megen the Maas is close by and the dyke roads are narrow. Give the house number and whether the truck can turn around — that saves you and the driver time.
 faq: How quickly can you be in Oss? :: We check which truck is closest. On the phone you get an arrival estimate for Oss, depending on your exact location and traffic.
 faq: What does a tow in Oss cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -234,19 +234,19 @@ geo: 5.40 51.42
 title: Towing Veldhoven 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Veldhoven 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Veldhoven? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Veldhoven and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de A2 en de A67 is het hier in de spits druk, met veel verkeer dat opeens van baan wisselt. Stop liever op een parkeerplaats of bij de afrit. Lukt dat niet, ga dan achter de vangrail staan en bel bij gevaar 112.
+spots: On the A2 and A67 rush hour is busy here, with sudden lane changes. Prefer a car park or exit. If that is not possible, stand behind the guardrail and call 112 if you are in danger.
 area: Zilverackers, Cobbeek, D'Ekker, Heikant, Oerle, Zeelst, Meerveldhoven, Wintelre, Vessem, Eersel
 near: eindhoven, helmond, tilburg
 localh: De Run, Máxima MC en de wijken
 pech: A flat battery or flat tyre in Veldhoven can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A2 towards Eindhoven en Weert
-road: A67 towards Antwerpen en Venlo
+road: A2 towards Eindhoven and Weert
+road: A67 towards Antwerpen and Venlo
 road: Knooppunt De Hogt tussand the A2 and the A67
 road: De Run and the wegen door Veldhoven
 local: In multi-storey car parks tell us the level — a flatbed may not fit under a low ceiling.
-local: Bij het Máxima Medisch Centrum is het parkeerterrein de hele dag druk. Start uw auto na een bezoek niet? Noem de ingang en het vak, dan vindt de wagen u zo.
-local: In Zilverackers en Cobbeek zijn de straten nieuw en netjes aangelegd, maar met weinig ruimte. Noem of de auto op de oprit staat, of in een parkeerhof.
+local: At Máxima Medisch Centrum the car park is busy all day. Car will not start after a visit? Name the entrance and bay so we can find you quickly.
+local: In Zilverackers and Cobbeek the streets are new and neat but tight. Say whether the car is on the driveway or in a courtyard parking area.
 faq: How quickly can you be in Veldhoven? :: We check which truck is closest. On the phone you get an arrival estimate for Veldhoven, depending on your exact location and traffic.
 faq: What does a tow in Veldhoven cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.

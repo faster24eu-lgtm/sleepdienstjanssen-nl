@@ -8,19 +8,19 @@ geo: 4.63 51.82
 title: Towing Zwijndrecht 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Zwijndrecht 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Zwijndrecht? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Zwijndrecht and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: In de Drechttunnel is geen plek om te stoppen. Bij pech volgt u de aanwijzingen in de tunnel. Staat u op de Zwijndrechtse brug, zet dan de alarmlichten aan en bel bij gevaar 112. De brug kan ook openstaan, dus houd daar rekening mee.
+spots: There is nowhere to stop in the Drechttunnel. If you break down, follow the tunnel instructions. On the Zwijndrecht bridge switch on hazard lights and call 112 if you are in danger. The bridge can also open for shipping — allow for that.
 area: Walburg, Kort Ambacht, Heer Oudelands Ambacht, Noord, Nederhoven, Lindtsedijk, Heerjansdam, Groote Lindt, Hendrik-Ido-Ambacht, Dordrecht
 near: dordrecht, hendrik-ido-ambacht, ridderkerk
 localh: Tussen de A16, de Lindtsedijk en Kijfhoek
 pech: A flat battery or flat tyre in Zwijndrecht can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A16 with the Drechttunnel towards Rotterdam
-road: A16 towards Dordrecht en Breda
-road: Zwijndrechtse brug over de Oude Maas naar Dordrecht
+road: A16 towards Dordrecht and Breda
+road: Zwijndrecht bridge over the Oude Maas to Dordrecht
 road: Lindtsedijk langs de Noord
 local: On business parks around Zwijndrecht, give the company name and street so we find you faster.
-local: In Kort Ambacht en Heer Oudelands Ambacht zijn de buurten recent en ruim opgezet, met parkeervakken voor de deur. Daar is de auto meestal snel op de wagen te zetten.
-local: Rond winkelcentrum Walburg is het op koopavond en zaterdag druk. Staat u op het parkeerterrein, zeg dan in welke hoek, want het terrein is groter dan het lijkt.
+local: In Kort Ambacht and Heer Oudelands Ambacht the neighbourhoods are recent and open, with parking bays at the door. Loading the car is usually quick there.
+local: Around shopping centre Walburg late-night shopping and Saturdays are busy. On the car park, say which corner — the site is larger than it looks.
 faq: How quickly can you be in Zwijndrecht? :: We check which truck is closest. On the phone you get an arrival estimate for Zwijndrecht, depending on your exact location and traffic.
 faq: What does a tow in Zwijndrecht cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -33,19 +33,19 @@ geo: 4.69 51.83
 title: Towing Papendrecht 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Papendrecht 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Papendrecht? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Papendrecht and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de Papendrechtse brug is geen vluchtstrook. Valt u daar stil, blijf dan met de gordel om zitten en zet de alarmlichten aan. Bij gevaar belt u 112. Daarna kunnen we uw auto van de brug halen.
+spots: The Papendrecht bridge has no hard shoulder. If you break down there, stay belted in, switch on hazard lights and call 112 if you are in danger. After that we can get the car off the bridge.
 area: Oostpolder, Westpolder, Molenvliet, Wilgendonk, Kraaihoek, Middelland, Oud-Alblas, Sliedrecht, Alblasserdam, Dordrecht
 near: sliedrecht, alblasserdam, dordrecht
 localh: Oostpolder, Westpolder en de industrie aan de Merwede
 pech: A flat battery or flat tyre in Papendrecht can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A15 towards Rotterdam door de Noordtunnel
-road: A15 towards Sliedrecht en Gorinchem
-road: N3 over de Papendrechtse brug naar Dordrecht
+road: A15 towards Rotterdam through the Noordtunnel
+road: A15 towards Sliedrecht and Gorinchem
+road: N3 over the Papendrecht bridge to Dordrecht
 road: Burgemeester Keijzerweg and the Veerweg door het dorp
 local: On business parks around Papendrecht, give the company name and street so we find you faster.
-local: In de Oostpolder en Westpolder zijn veel straten doodlopend. Noem bij het bellen de straat en het huisnummer, en of de auto vrij toegankelijk staat. Dat scheelt zoeken.
-local: Bij De Meent en de waterbushalte staan overdag veel auto's geparkeerd. Merkt u pas 's avonds dat de auto niet start? Geen probleem, we komen ook dan.
+local: In Oostpolder and Westpolder many streets are cul-de-sacs. When you call, give the street, house number and whether the car is freely accessible — that saves searching.
+local: Near De Meent and the waterbus stop many cars park during the day. Only notice in the evening that it will not start? No problem — we come then too.
 faq: How quickly can you be in Papendrecht? :: We check which truck is closest. On the phone you get an arrival estimate for Papendrecht, depending on your exact location and traffic.
 faq: What does a tow in Papendrecht cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -58,19 +58,19 @@ geo: 4.77 51.82
 title: Towing Sliedrecht 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Sliedrecht 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Sliedrecht? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Sliedrecht and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: De A15 bij Sliedrecht is druk met vrachtverkeer richting Gorinchem en de Betuwe. Valt u daar stil, rij dan door tot de afrit als dat kan. Op de Rivierdijk is de weg smal en lopen fietsers en auto's dicht op elkaar.
+spots: The A15 near Sliedrecht is busy with freight towards Gorinchem and the Betuwe. If you break down, drive on to the exit if you can. On the Rivierdijk the road is narrow and cyclists and cars share little space.
 area: Sliedrecht-Oost, Sliedrecht-West, Baanhoek, Kerkbuurt, Hardinxveld-Giessendam, Papendrecht, Molenaarsgraaf, Wijngaarden, Giessenburg, Oud-Alblas
 near: papendrecht, gorinchem, dordrecht
 localh: Rivierdijk, Baanhoek en de bedrijven
 pech: A flat battery or flat tyre in Sliedrecht can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A15 towards Papendrecht en Rotterdam
+road: A15 towards Papendrecht and Rotterdam
 road: A15 towards Gorinchem
 road: Stationsweg and the Rivierdijk door het dorp
 road: Parallelweg langs de spoorlijn
-local: De bebouwing ligt langs één lange dijk. Een huisnummer alleen is daardoor niet genoeg om snel te vinden: noem ook de zijstraat, of u aan de waterkant of de landkant staat.
+local: Buildings sit along one long dyke. A house number alone is not enough to find you quickly: also name the side street, and whether you are on the water or land side.
 local: On business parks around Sliedrecht, give the company name and street so we find you faster.
-local: Bij het station staan overdag de auto's van forenzen op de MerwedeLingelijn. Is uw accu leeg als u terugkomt, dan helpen we u ook dan op weg.
+local: By day, commuters park at the MerwedeLingelijn station. Flat battery when you get back? We can get you going then too.
 faq: How quickly can you be in Sliedrecht? :: We check which truck is closest. On the phone you get an arrival estimate for Sliedrecht, depending on your exact location and traffic.
 faq: What does a tow in Sliedrecht cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -83,19 +83,19 @@ geo: 4.66 51.87
 title: Towing Alblasserdam 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Alblasserdam 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Alblasserdam? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Alblasserdam and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: De Noordtunnel is kort maar heeft geen plek om te stoppen. Volg bij pech de aanwijzingen. Op de smalle dijk bij Kinderdijk is keren lastig, dus zeg precies waar u staat voordat de wagen vertrekt.
+spots: The Noordtunnel is short but has nowhere to stop. Follow the instructions if you break down. On the narrow dyke at Kinderdijk turning is hard — say exactly where you are before the truck leaves.
 area: Centrum, Kinderdijk, Souburgh, Vinkenpolder, Blokweer, Nieuw-Lekkerland, Bleskensgraaf, Oud-Alblas, Papendrecht, Hendrik-Ido-Ambacht
 near: papendrecht, hendrik-ido-ambacht, ridderkerk
 localh: Kinderdijk, de werven en de Vinkenpolder
 pech: A flat battery or flat tyre in Alblasserdam can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A15 with the Noordtunnel towards Rotterdam en Papendrecht
+road: A15 with the Noordtunnel towards Rotterdam and Papendrecht
 road: Alblasserdamse brug towards Hendrik-Ido-Ambacht
 road: N214 towards de Alblasserwaard
 road: West-Kinderdijk langs de rivier
-local: Bij Kinderdijk parkeren dagjesmensen op speciale terreinen. Start uw auto na een bezoek aan de molens niet? Noem het parkeerterrein, of de bezoekersingang waar u zit, dan vinden we u zo.
+local: At Kinderdijk day visitors use special car parks. Car will not start after visiting the mills? Name the car park or visitor entrance — we will find you.
 local: On business parks around Alblasserdam, give the company name and street so we find you faster.
-local: In de Vinkenpolder en Souburgh gaat het om gewone woonstraten. Daar zetten we uw auto voor de deur op de wagen, of lossen we het probleem on the spot op.
+local: In Vinkenpolder and Souburgh it is ordinary residential streets. We load at the door or fix it on the spot when we can.
 faq: How quickly can you be in Alblasserdam? :: We check which truck is closest. On the phone you get an arrival estimate for Alblasserdam, depending on your exact location and traffic.
 faq: What does a tow in Alblasserdam cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -108,19 +108,19 @@ geo: 4.64 51.84
 title: Towing Hendrik-Ido-Ambacht 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Hendrik-Ido-Ambacht 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Hendrik-Ido-Ambacht? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Hendrik-Ido-Ambacht and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: De brug naar Alblasserdam staat regelmatig open voor de scheepvaart en heeft geen vluchtstrook. Valt u daar stil, zet de alarmlichten aan en blijf rustig zitten. Op de A16 gaat u altijd achter de vangrail staan.
+spots: The bridge to Alblasserdam often opens for shipping and has no hard shoulder. If you break down there, switch on hazard lights and stay seated. On the A16 always stand behind the guardrail.
 area: De Volgerlanden, Centrum, Antoniapolder, Krommeweg, Sandeling, Heerjansdam, Rijsoord, Zwijndrecht, Ridderkerk, Alblasserdam
 near: zwijndrecht, ridderkerk, alblasserdam
 localh: De Volgerlanden, de Antoniapolder en de dijk
 pech: A flat battery or flat tyre in Hendrik-Ido-Ambacht can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A16 towards Rotterdam en knooppunt Ridderkerk
-road: A16 towards de Drechttunnel en Dordrecht
-road: Alblasserdamse brug naar Alblasserdam
+road: A16 towards Rotterdam and junction Ridderkerk
+road: A16 towards de Drechttunnel and Dordrecht
+road: Alblasserdamse brug to Alblasserdam
 road: Krommeweg door het dorp
-local: De Volgerlanden is een nieuwe wijk met veel bochtige straatjes en parkeerhofjes. Noem het huisnummer en of de auto op de eigen oprit staat, want dat bepaalt hoe we hem op de wagen krijgen.
+local: De Volgerlanden is a new neighbourhood with winding streets and courtyard parking. Give the house number and whether the car is on your own driveway — that decides how we load it.
 local: On business parks around Hendrik-Ido-Ambacht, give the company name and street so we find you faster.
-local: In de Antoniapolder en rond winkelcentrum De Schoof is het op zaterdag druk. Staat u op een parkeerplaats, zeg dan aan welke kant van het gebouw u staat.
+local: In Antoniapolder and around shopping centre De Schoof Saturdays are busy. On a car park, say which side of the building you are on.
 faq: How quickly can you be in Hendrik-Ido-Ambacht? :: We check which truck is closest. On the phone you get an arrival estimate for Hendrik-Ido-Ambacht, depending on your exact location and traffic.
 faq: What does a tow in Hendrik-Ido-Ambacht cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -133,19 +133,19 @@ geo: 5.09 51.89
 title: Towing Leerdam 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Leerdam 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Leerdam? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Leerdam and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: De Lingedijk is mooi maar smal. Staat u daar met pech, zet dan de alarmlichten aan en ga niet op de rijbaan staan. In de vesting zijn de straten krap, dus noem precies waar de auto staat.
+spots: The Lingedijk is scenic but narrow. Broken down there? Switch on hazard lights and do not stand in the roadway. Inside the fortress streets are tight — say exactly where the car is.
 area: Centrum, Leerdam-West, Schoonrewoerd, Kedichem, Oosterwijk, Hei- en Boeicop, Asperen, Heukelum, Arkel, Vianen
 near: gorinchem, zaltbommel, tiel
 localh: Glasstad aan de Linge
 pech: A flat battery or flat tyre in Leerdam can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A15 bij Gorinchem en Arkel
-road: A2 bij Everdingen towards Utrecht en Den Bosch
-road: De provinciale weg towards Vianen en Meerkerk
-road: Lingedijk towards Asperen en Heukelum
-local: Rond de glasfabriek en het glasmuseum komen bezoekers met de auto. Start die niet meer na uw bezoek, noem dan de parkeerplaats waar u staat, ook als het een straatje achter het museum is.
+road: A15 bij Gorinchem and Arkel
+road: A2 bij Everdingen towards Utrecht and Den Bosch
+road: De provinciale weg towards Vianen and Meerkerk
+road: Lingedijk towards Asperen and Heukelum
+local: Visitors drive to the glass factory and museum. Car will not start after your visit? Name the car park, even if it is a side street behind the museum.
 local: On business parks around Leerdam, give the company name and street so we find you faster.
-local: In Schoonrewoerd en Kedichem wonen de mensen verspreid langs lange wegen. Noem dus het huisnummer én de buurtschap. Op de kaart lijkt het dichtbij, maar over de dijk kan het een stuk rijden zijn.
+local: In Schoonrewoerd and Kedichem people live spread along long roads. Give the house number and the hamlet. On the map it looks close, but over the dyke it can be a longer drive.
 faq: How quickly can you be in Leerdam? :: We check which truck is closest. On the phone you get an arrival estimate for Leerdam, depending on your exact location and traffic.
 faq: What does a tow in Leerdam cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -158,19 +158,19 @@ geo: 5.43 51.89
 title: Towing Tiel 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Tiel 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Tiel? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Tiel and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de A15 bij Tiel rijden veel vrachtwagens. Valt u daar stil, zet de alarmlichten aan en ga meteen achter de vangrail staan. Veel vrachtwagens rijden hier dicht op elkaar, dus blijf ver van de rijbaan.
+spots: On the A15 near Tiel there are many trucks. If you break down, switch on hazard lights and stand behind the guardrail at once. Trucks run close together here — stay well clear of the live lane.
 area: Binnenstad, Passewaay, Tiel-Oost, Tiel-West, Medel, Wadenoijen, Drumpt, Kapel-Avezaath, Ophemert, Kerk-Avezaath
 near: zaltbommel, gorinchem, leerdam
 localh: Bedrijventerrein Medel en de fruitstreek
 pech: A flat battery or flat tyre in Tiel can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A15 towards Gorinchem en Rotterdam
-road: A15 towards Nijmegen en Duitsland
-road: De provinciale weg towards Kesteren en Ochten
+road: A15 towards Gorinchem and Rotterdam
+road: A15 towards Nijmegen and Duitsland
+road: De provinciale weg towards Kesteren and Ochten
 road: De Waalbandijk langs de rivier
 local: On business parks around Tiel, give the company name and street so we find you faster.
-local: In de bloeitijd en met de fruitpluk rijden er in de Betuwe meer auto's en tractoren over smalle dijkwegen. Staat u tussen de boomgaarden, geef dan de naam van de fruitteler of de dijk door.
-local: In de binnenstad en bij de Waalkade zijn de straten smal. Noem de straat en of de auto er vrij staat, zodat we vooraf weten of een plateauwagen er kan komen.
+local: In blossom season and fruit picking, more cars and tractors use the narrow Betuwe dyke roads. Stuck between orchards? Give the grower's name or the dyke.
+local: In the centre and by the Waalkade streets are narrow. Name the street and whether the car is clear so we know if a flatbed can get in.
 faq: How quickly can you be in Tiel? :: We check which truck is closest. On the phone you get an arrival estimate for Tiel, depending on your exact location and traffic.
 faq: What does a tow in Tiel cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -183,7 +183,7 @@ geo: 5.25 51.81
 title: Towing Zaltbommel 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Zaltbommel 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Zaltbommel? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Zaltbommel and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de Martinus Nijhoffbrug is veel verkeer en is stoppen gevaarlijk. Probeer door te rollen tot na de brug. Lukt dat niet, blijf dan achter de vangrail en bel eerst 112 als het niet veilig is.
+spots: On the Martinus Nijhoff Bridge traffic is heavy and stopping is dangerous. Try to roll past the bridge. If not, stay behind the guardrail and call 112 first if it is not safe.
 area: Binnenstad, Gameren, Nieuwaal, Bruchem, Kerkwijk, Delwijnen, Waardenburg, Hedel, Rossum, Ammerzoden
 near: den-bosch, tiel, gorinchem
 localh: De Bommelerwaard en De Wildeman
@@ -191,11 +191,11 @@ pech: A flat battery or flat tyre in Zaltbommel can often be fixed on the spot. 
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A2 with the Martinus Nijhoffbrug towards Utrecht
 road: A2 towards Den Bosch
-road: N322 door de Bommelerwaard
-road: Waalbandijk towards Gameren en Nieuwaal
+road: N322 through the Bommelerwaard
+road: Waalbandijk towards Gameren and Nieuwaal
 local: On business parks around Zaltbommel, give the company name and street so we find you faster.
-local: Binnen de vestingwallen van Zaltbommel is het autoluw en krap. Staat uw auto op de Gamerschestraat of de Waalkade, geef dat dan door, want dan zoeken we de beste aanrijroute.
-local: De dorpen in de Bommelerwaard liggen ver uit elkaar, met lange polderwegen en dijken. Noem de buurtschap en het huisnummer. De wagen rijdt niet zomaar even om, dus goed doorgeven scheelt tijd.
+local: Inside Zaltbommel's fortress walls it is low-traffic and tight. Car on Gamerschestraat or the Waalkade? Say so — we pick the best approach.
+local: Villages in the Bommelerwaard are far apart, with long polder roads and dykes. Name the hamlet and house number. The truck cannot just swing by — clear details save time.
 faq: How quickly can you be in Zaltbommel? :: We check which truck is closest. On the phone you get an arrival estimate for Zaltbommel, depending on your exact location and traffic.
 faq: What does a tow in Zaltbommel cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.

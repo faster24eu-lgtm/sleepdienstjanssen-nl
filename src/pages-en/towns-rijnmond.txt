@@ -8,20 +8,20 @@ geo: 4.50 51.88
 title: Towing Rotterdam-Zuid 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Rotterdam-Zuid 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Rotterdam-Zuid? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Rotterdam-Zuid and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: De Maastunnel is smal en heeft geen vluchtstrook. Staat u daar stil, volg dan de aanwijzingen van de verkeerscentrale. Op de A15 bij Vaanplein is het vaak vol, dus blijf achter de vangrail tot de wagen er is.
+spots: The Maastunnel is narrow with no hard shoulder. If you break down there, follow traffic-control instructions. On the A15 at Vaanplein it is often packed — stay behind the guardrail until we arrive.
 area: Charlois, Feijenoord, IJsselmonde, Katendrecht, Pendrecht, Lombardijen, Carnisse, Heijplaat, Pernis, Rhoon
 near: rotterdam, barendrecht, ridderkerk
 localh: Ahoy, De Kuip en de Waalhaven
 pech: A flat battery or flat tyre in Rotterdam-Zuid can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A15 tussand the Beneluxtunnel en knooppunt Vaanplein
+road: A15 tussand the Beneluxtunnel and junction Vaanplein
 road: A29 vanaf Vaanplein towards de Hoeksche Waard
-road: Maastunnel en Erasmusbrug naar het centrum
-road: Groene Kruisweg towards Hoogvliet en Spijkenisse
-road: Stadionweg en Varkenoordseviaduct bij De Kuip
-local: Bij een concert in Ahoy of een wedstrijd in De Kuip staat het hele gebied rond Zuidplein en de Stadionweg vast. Krijgt u juist dan pech, zeg het ons, want dan plannen we een andere aanrijroute of spreken we een later tijdstip af.
-local: Rond de Waalhaven en op Heijplaat rijden vooral bedrijfsbussen. Noem daar het bedrijf en de kade, want de navigatie stuurt een wagen er anders snel de verkeerde kant op.
-local: In wijken als Afrikaanderwijk, Bloemhof en Carnisse staan de auto's dicht op elkaar. Moet uw auto uit een krappe parkeerplek, geef dat dan vooraf door. Dan kan de wagen er rekening mee houden.
+road: Maastunnel and Erasmusbrug to het centrum
+road: Groene Kruisweg towards Hoogvliet and Spijkenisse
+road: Stadionweg and Varkenoordseviaduct bij De Kuip
+local: At an Ahoy concert or a De Kuip match the whole area around Zuidplein and Stadionweg locks up. Broken down then? Tell us — we plan another approach or a later time.
+local: Around Waalhaven and on Heijplaat it is mostly company vans. Name the company and quay — otherwise satnav sends the truck the wrong way.
+local: In neighbourhoods like Afrikaanderwijk, Bloemhof and Carnisse cars park tight. Need the car out of a tight bay? Say so up front so the truck can plan for it.
 faq: How quickly can you be in Rotterdam-Zuid? :: We check which truck is closest. On the phone you get an arrival estimate for Rotterdam-Zuid, depending on your exact location and traffic.
 faq: What does a tow in Rotterdam-Zuid cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -34,19 +34,19 @@ geo: 4.40 51.92
 title: Towing Schiedam 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Schiedam 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Schiedam? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Schiedam and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: De Beneluxtunnel is een van de drukste tunnels van het land. Staat u daarin stil, blijf dan bij de auto, zet de motor uit en volg de aanwijzingen. Op het Kethelplein is weinig ruimte, dus wacht altijd achter de vangrail.
+spots: The Beneluxtunnel is one of the busiest in the country. Stuck inside? Stay with the car, switch the engine off and follow instructions. At Kethelplein there is little space — always wait behind the guardrail.
 area: Centrum, Nieuwland, Groenoord, Kethel, Woudhoek, Spaland, Oost, Sveaparken, Overschie, Pernis
 near: vlaardingen, rotterdam, maassluis
 localh: Spaland, de havens en de oude binnenstad
 pech: A flat battery or flat tyre in Schiedam can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A20 tussen Kethelplein en Vlaardingen
-road: A4 door de Beneluxtunnel towards Pernis
-road: A4 towards Delft en Den Haag
-road: Rotterdamsedijk and the Nieuwe Damlaan door de stad
+road: A20 tussen Kethelplein and Vlaardingen
+road: A4 through the Benelux Tunnel towards Pernis
+road: A4 towards Delft and Den Haag
+road: Rotterdamsedijk and the Nieuwe Damlaan through the stad
 local: On business parks around Schiedam, give the company name and street so we find you faster.
-local: De binnenstad rond de Lange Haven en de Korte Haven heeft smalle kades, bruggetjes en de bekende hoge molens. Een plateauwagen kan er niet overal komen. Zeg daarom aan welke kade u staat, dan zoeken we de beste plek om te laden.
-local: In Kethel en Woudhoek gaat het meestal om een auto die bij huis niet meer start. Dan rijden we naar de voordeur en kijken we eerst of u on the spot weer op weg kunt.
+local: The centre around Lange Haven and Korte Haven has narrow quays, small bridges and the famous tall mills. A flatbed cannot go everywhere. Say which quay you are on so we pick the best loading spot.
+local: In Kethel and Woudhoek it is usually a car that will not start at home. We drive to the front door and first see if we can get you going on the spot.
 faq: How quickly can you be in Schiedam? :: We check which truck is closest. On the phone you get an arrival estimate for Schiedam, depending on your exact location and traffic.
 faq: What does a tow in Schiedam cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -59,19 +59,19 @@ geo: 4.53 51.86
 title: Towing Barendrecht 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Barendrecht 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Barendrecht? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Barendrecht and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: In de Heinenoordtunnel en op Vaanplein is weinig ruimte om veilig te stoppen. Rijd als het even kan door tot de eerstvolgende afrit, of blijf bij gevaar met de gordel om zitten en bel 112.
+spots: In the Heinenoordtunnel and at Vaanplein there is little room to stop safely. Drive on to the next exit if you can, or stay belted in and call 112 if you are in danger.
 area: Carnisselande, Portland, Centrum, Smitshoek, Binnenland, Bijdorp, Rhoon, Heerjansdam, IJsselmonde, Ridderkerk
 near: rotterdam-zuid, ridderkerk, oud-beijerland
 localh: Carnisselande, Smitshoek en de bedrijven
 pech: A flat battery or flat tyre in Barendrecht can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A15 tussen Vaanplein en Ridderkerk
+road: A15 tussen Vaanplein and Ridderkerk
 road: A29 towards de Heinenoordtunnel
 road: Dierensteinweg and the Middeldijk door het dorp
 road: Oude Maas and the Heinenoordbrug towards Hoeksche Waard
-local: In Carnisselande en Portland staan veel gezinsauto's, en daar bellen mensen ons vaak omdat de auto voor de deur niet start. Geef straat en huisnummer door, dan is de wagen zo bij u.
+local: In Carnisselande and Portland there are many family cars; people often call because the car will not start at the door. Give street and house number — we will be there quickly.
 local: On business parks around Barendrecht, give the company name and street so we find you faster.
-local: Bij P+R Smitshoek parkeren forenzen die verder gaan met de metro. Start uw auto daar 's avonds niet meer, zeg dan in welk vak u staat. We kunnen hem ook naar uw eigen garage brengen.
+local: At P+R Smitshoek commuters park to continue by metro. Car will not start in the evening? Say which bay. We can also take it to your own garage.
 faq: How quickly can you be in Barendrecht? :: We check which truck is closest. On the phone you get an arrival estimate for Barendrecht, depending on your exact location and traffic.
 faq: What does a tow in Barendrecht cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -84,18 +84,18 @@ geo: 4.34 51.91
 title: Towing Vlaardingen 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Vlaardingen 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Vlaardingen? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Vlaardingen and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de A20 bij Vlaardingen is de vluchtstrook niet overal breed en rijdt het verkeer er hard. Wacht altijd achter de vangrail en loop niet langs de rijbaan terug naar de afrit.
+spots: On the A20 near Vlaardingen the hard shoulder is not wide everywhere and traffic is fast. Always wait behind the guardrail — do not walk along the live lane back to the exit.
 area: Centrum, Holy, Westwijk, Ambacht, Babberspolder, Broekpolder, Vettenoordse Polder, Vlaardinger-Ambacht, Maasland, Schipluiden
 near: schiedam, maassluis, botlek-maasvlakte
 localh: Oude Haven, Holy en de Vergulde Hand
 pech: A flat battery or flat tyre in Vlaardingen can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A20 towards Kethelplein en Rotterdam
-road: A20 towards Maassluis en Hoek van Holland
-road: Marathonweg and the Burgemeester Pruissingel door de stad
+road: A20 towards Kethelplein and Rotterdam
+road: A20 towards Maassluis and Hoek van Holland
+road: Marathonweg and the Burgemeester Pruissingel through the stad
 road: Maasboulevard langs de Nieuwe Maas
-local: Rond de Oude Haven en de Koningin Wilhelminahaven is de ruimte beperkt. Geef bij het bellen door of de auto op de kade staat, zodat we weten welke wagen er kan komen.
-local: In de Westwijk en Holy staan veel flats met parkeerplaatsen achter de gebouwen. Noem het portiek of de straat achter de flat, dan zoekt de chauffeur niet aan de verkeerde kant.
+local: Around the Oude Haven and Koningin Wilhelminahaven space is tight. When you call, say if the car is on the quay so we know which truck can get in.
+local: In Westwijk and Holy many flats have parking behind the buildings. Name the entrance or the street behind the block so the driver does not look on the wrong side.
 local: On business parks around Vlaardingen, give the company name and street so we find you faster.
 faq: How quickly can you be in Vlaardingen? :: We check which truck is closest. On the phone you get an arrival estimate for Vlaardingen, depending on your exact location and traffic.
 faq: What does a tow in Vlaardingen cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
@@ -109,19 +109,19 @@ geo: 4.25 51.92
 title: Towing Maassluis 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Maassluis 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Maassluis? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Maassluis and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de weg richting Hoek van Holland rijden veel vrachtwagens met haast voor de boot. Zet uw auto zover mogelijk van de rijbaan en blijf achter de auto weg. Bij de veerpont zelf geldt: meld pech bij het personeel.
+spots: On the road to Hoek van Holland many trucks hurry for the ferry. Put your car as far from the live lane as you can and stay clear of it. At the ferry terminal itself, report the breakdown to staff.
 area: Centrum, Sluispolder, Steendijkpolder, Kapelpolder, Koningshoek, Vlaardingen, Hoek van Holland, Maasland, De Lier, Rozenburg
 near: vlaardingen, schiedam, botlek-maasvlakte
 localh: Van de haven tot de glastuinbouw
 pech: A flat battery or flat tyre in Maassluis can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A20 towards Vlaardingen en Rotterdam
+road: A20 towards Vlaardingen and Rotterdam
 road: N220 towards Hoek van Holland and the Maeslantkering
 road: Burgemeester de Jonghkade langs het water
 road: De veerverbinding Maassluis-Rozenburg
-local: In de oude haven van Maassluis liggen de kades smal tussen de huizen en de bruggen. Staat uw auto daar, dan is het handig als u weet aan welke kant van het water u staat.
-local: Bij winkelcentrum Koningshoek is het op zaterdag druk op het parkeerdek. Start de auto daar niet, geef dan de verdieping door en noem of de wagen via de hellingbaan kan.
-local: Richting Maasland en De Lier begint de glastuinbouw met smalle polderwegen en veel transport. Pech daar op een smalle dijk? Noem de naam van de kas of het bedrijf, want huisnummers lopen er niet altijd logisch.
+local: In Maassluis old harbour the quays are narrow between houses and bridges. Car there? It helps if you know which side of the water you are on.
+local: At shopping centre Koningshoek the deck is busy on Saturdays. Car will not start there? Give the level and whether the truck can use the ramp.
+local: Towards Maasland and De Lier glasshouse farming means narrow polder roads and lots of transport. Broken down on a narrow dyke? Name the greenhouse or company — house numbers are not always logical there.
 faq: How quickly can you be in Maassluis? :: We check which truck is closest. On the phone you get an arrival estimate for Maassluis, depending on your exact location and traffic.
 faq: What does a tow in Maassluis cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -134,19 +134,19 @@ geo: 4.58 51.93
 title: Towing Capelle aan den IJssel 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Capelle aan den IJssel 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Capelle aan den IJssel? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Capelle aan den IJssel and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de Algerabrug is geen vluchtstrook en de brug kan openstaan voor de scheepvaart. Blijf bij pech met de gordel om zitten en de alarmlichten aan, en bel 112 als u gevaar loopt.
+spots: The Algerabrug has no hard shoulder and can open for shipping. If you break down, stay belted in with hazard lights on and call 112 if you are in danger.
 area: Schollevaar, Oostgaarde, Middelwatering, 's-Gravenland, Fascinatio, Rivium, Krimpen aan den IJssel, Nieuwerkerk aan den IJssel, Kralingen, Prins Alexander
 near: rotterdam, ridderkerk, rotterdam-zuid
 localh: Rivium, Fascinatio en de woonwijken
 pech: A flat battery or flat tyre in Capelle aan den IJssel can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A20 towards Gouda en Terbregseplein
+road: A20 towards Gouda and Terbregseplein
 road: A16 and the Van Brienenoordbrug
-road: Algeraweg with the Algerabrug naar Krimpen
-road: Hoofdweg and the Abram van Rijckevorselweg door de stad
+road: Algeraweg with the Algerabrug to Krimpen
+road: Hoofdweg and the Abram van Rijckevorselweg through the stad
 local: In multi-storey car parks tell us the level — a flatbed may not fit under a low ceiling.
-local: In Schollevaar en Oostgaarde staan rijen flats en parkeerhavens. Daar gaat het meestal om een auto die 's morgens niet meer wil. Noem de naam van de flat of het portiek, dan vindt de chauffeur u sneller.
-local: Bij Middelwatering en 's-Gravenland ligt de dijk van de Hollandsche IJssel, waar het smal en bochtig is. Staat u op de Kanaalweg of de dijk zelf, zet dan de alarmlichten aan en wacht in de berm.
+local: In Schollevaar and Oostgaarde there are rows of flats and parking bays. Usually it is a car that will not start in the morning. Name the block or entrance so the driver finds you faster.
+local: Near Middelwatering and 's-Gravenland the Hollandsche IJssel dyke is narrow and bendy. On Kanaalweg or the dyke itself, switch on hazard lights and wait on the verge.
 faq: How quickly can you be in Capelle aan den IJssel? :: We check which truck is closest. On the phone you get an arrival estimate for Capelle aan den IJssel, depending on your exact location and traffic.
 faq: What does a tow in Capelle aan den IJssel cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -159,19 +159,19 @@ geo: 4.60 51.87
 title: Towing Ridderkerk 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Ridderkerk 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Ridderkerk? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Ridderkerk and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op knooppunt Ridderkerk wisselt het verkeer snel van rijstrook. Daar is stoppen gevaarlijk, dus rol als het kan door tot de volgende afrit. Lukt dat niet, ga dan zo snel mogelijk achter de vangrail staan en bel ons pas daarna.
+spots: At junction Ridderkerk traffic changes lanes fast. Stopping there is dangerous — roll on to the next exit if you can. If not, get behind the guardrail as soon as possible and only then call us.
 area: Bolnes, Slikkerveer, Drievliet, Rijsoord, Oostendam, Donkersloot, Cornelisland, Alblasserdam, Barendrecht, IJsselmonde
 near: barendrecht, rotterdam-zuid, hendrik-ido-ambacht
 localh: Cornelisland, Nieuw-Reijerwaard en de dorpskernen
 pech: A flat battery or flat tyre in Ridderkerk can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
-road: A15 towards Vaanplein en Gorinchem
-road: A16 towards de Van Brienenoordbrug en Dordrecht
+road: A15 towards Vaanplein and Gorinchem
+road: A16 towards de Van Brienenoordbrug and Dordrecht
 road: A38 tussand the A15 and the A16
 road: Rotterdamseweg langs de Noord and the Nieuwe Maas
 local: On business parks around Ridderkerk, give the company name and street so we find you faster.
-local: Rijsoord en Oostendam hebben smalle dijkwegen waar een lange wagen niet zomaar kan keren. Zeg het als de auto op een dijk of op een smalle weg staat, dan past de chauffeur zijn route daarop aan.
-local: In Bolnes en Slikkerveer lopen de woonstraten dicht langs het water. Bij de waterbus aan de Noord is het soms druk met forenzen die hun auto bij de halte hebben neergezet en bij terugkomst merken dat hij niet meer start.
+local: Rijsoord and Oostendam have narrow dyke roads where a long truck cannot easily turn. Say if the car is on a dyke or narrow road so the driver adjusts the route.
+local: In Bolnes and Slikkerveer residential streets run close to the water. At the waterbus on the Noord it can be busy with commuters who parked at the stop and find the car will not start on return.
 faq: How quickly can you be in Ridderkerk? :: We check which truck is closest. On the phone you get an arrival estimate for Ridderkerk, depending on your exact location and traffic.
 faq: What does a tow in Ridderkerk cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -184,7 +184,7 @@ geo: 4.13 51.83
 title: Towing Hellevoetsluis 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Hellevoetsluis 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Hellevoetsluis? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Hellevoetsluis and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: Op de Haringvlietdam waait het hard en is er weinig beschutting. Blijf bij harde wind niet naast de auto staan, maar zoek de berm aan de veilige kant en zet de alarmlichten aan. Bij gevaar belt u 112.
+spots: On the Haringvlietdam it blows hard with little shelter. In strong wind do not stand beside the car — use the verge on the safe side and switch on hazard lights. Call 112 if you are in danger.
 area: Vesting, Nieuw-Helvoet, Nieuwenhoorn, Kickersbloem, De Struyten, Ravense Hoek, Rockanje, Oudenhoorn, Zuidland, Stellendam
 near: spijkenisse, botlek-maasvlakte, oud-beijerland
 localh: Vesting, jachthavens en de zomerdrukte
@@ -194,9 +194,9 @@ road: N57 towards Brielle and the Haringvlietdam
 road: De provinciale weg towards Spijkenisse and the A15
 road: Rijksstraatweg door Nieuwenhoorn
 road: Haringvlietdam towards Goeree-Overflakkee
-local: In de oude vesting zijn de straten smal en de bruggen niet overal geschikt voor een grote wagen. Staat uw auto bij de Koningshaven of het Droogdok, noem dat dan aan de telefoon.
-local: Bij de jachthavens en de campings langs het Haringvliet staan in de zomer veel auto's met trailers en caravans. Zeg vooraf wat er achter uw auto hangt, dan kijken we of auto en aanhanger in één keer mee kunnen.
-local: In Kickersbloem en De Struyten gaat het meestal om een gewoon startprobleem voor de deur. Hier is het rustig, dus we komen dan gewoon bij u voorrijden.
+local: In the old fortress streets are narrow and bridges are not always suited to a large truck. Car at Koningshaven or the Droogdok? Say so on the phone.
+local: At marinas and campsites along the Haringvliet summers bring many cars with trailers and caravans. Say in advance what is behind the car so we can see if car and trailer can go in one go.
+local: In Kickersbloem and De Struyten it is usually a simple start problem at the door. It is quiet here, so we simply drive to you.
 faq: How quickly can you be in Hellevoetsluis? :: We check which truck is closest. On the phone you get an arrival estimate for Hellevoetsluis, depending on your exact location and traffic.
 faq: What does a tow in Hellevoetsluis cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
@@ -209,18 +209,18 @@ geo: 4.41 51.82
 title: Towing Oud-Beijerland 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Oud-Beijerland 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
 intro: Broken down or in an accident in Oud-Beijerland? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Oud-Beijerland and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
-spots: In de Heinenoordtunnel en op de Haringvlietbrug is stoppen gevaarlijk. Op de vele dijkwegen is de berm vaak smal. Zet de auto daar zo ver mogelijk aan de kant en blijf niet op de rijbaan staan.
+spots: In the Heinenoordtunnel and on the Haringvliet Bridge stopping is dangerous. On many dyke roads the verge is narrow. Put the car as far aside as you can and do not stand in the roadway.
 area: Oud-Beijerland, Mijnsheerenland, Klaaswaal, Numansdorp, Strijen, Maasdam, Puttershoek, 's-Gravendeel, Zuid-Beijerland, Heinenoord
 near: barendrecht, dordrecht, spijkenisse
 localh: De Hoeksche Waard: eiland met eigen regels
 pech: A flat battery or flat tyre in Oud-Beijerland can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
 trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
 road: A29 with the Heinenoordtunnel towards Rotterdam
-road: A29 over de Haringvlietbrug towards Zeeland en Brabant
+road: A29 over the Haringvlietbrug towards Zeeland and Brabant
 road: N217 and the Kiltunnel towards Dordrecht
-road: N489 door de Hoeksche Waard
-local: Het eiland heeft maar een paar uitgangen. Staat de Heinenoordtunnel vast, dan moet een wagen via de Kiltunnel komen. Daarom vragen we altijd waar u precies staat, zodat we de snelste route kiezen.
-local: De dijken zijn smal en lang, met weinig plek om te keren. Noem aan welke dijk u staat en bij welk huisnummer of welke boerderij. Zo komt de chauffeur niet aan de verkeerde kant van de polder uit.
+road: N489 through the Hoeksche Waard
+local: The island has only a few exits. If the Heinenoordtunnel is jammed, a truck must come via the Kiltunnel. That is why we always ask exactly where you are so we pick the fastest route.
+local: The dykes are long and narrow with little room to turn. Name which dyke and which house number or farm — so the driver does not end up on the wrong side of the polder.
 local: On business parks around Oud-Beijerland, give the company name and street so we find you faster.
 faq: How quickly can you be in Oud-Beijerland? :: We check which truck is closest. On the phone you get an arrival estimate for Oud-Beijerland, depending on your exact location and traffic.
 faq: What does a tow in Oud-Beijerland cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
@@ -241,7 +241,7 @@ localh: Truck broken down at a terminal or on a port site
 pech: For passenger cars and vans a jump start or tyre change can usually be done on the spot. For trucks it depends on the fault: sometimes a mechanic is enough, sometimes recovery is needed. Tell us what the vehicle is doing. More about <a href="/en/vrachtwagen-pechhulp/">truck roadside assistance</a> in Botlek and on the Maasvlakte.
 trans: We take a car or van to the garage you choose. Trucks and trailers go via our partner to a truck dealer or depot in the region. You hear in advance who is coming and what was agreed.
 road: A15 with the Botlekbrug and the Botlektunnel
-road: Calandbrug towards Rozenburg en Europoort
+road: Calandbrug towards Rozenburg and Europoort
 road: Maasvlakteweg towards Maasvlakte 2
 road: N57 and the Hartelbrug towards Brielle
 road: N15 towards Europoort and the Maasvlakte
@@ -268,12 +268,12 @@ pech: A jump start or tyre change often works on the spot for light vehicles. Fo
 trans: We take your car or van to the garage you choose. Trucks go to a truck dealer or depot in the region. We agree the price up front.
 road: N15 and the Calandbrug towards Rozenburg
 road: A15 towards the Botlek Bridge and Rotterdam
-road: Verbindingen naar Maasvlakte en Maasvlakte 2
-road: Toegangswegen naar terminals en tankparken
+road: Links to Maasvlakte and Maasvlakte 2
+road: Access roads to terminals and tank farms
 local: Name the terminal, gate number and contact person. Without permission a tow truck cannot enter the site.
 local: For a loaded trailer or ADR load call 112 first if there is danger. Then call us with the number plate, weight and fault.
 local: Passenger cars and vans go on a flatbed. Trucks go via a partner with heavy recovery equipment.
-faq: Do you also help trucks in Europoort? :: Yes, via partners with heavy equipment. You call the same number and hear in advance who is coming.
+faq: Do you also help trucks in Europoort? :: Yes, via partners with heavy equipment. You call the same number and hear in advance who is coming. See also <a href="/en/vrachtwagen-pechhulp/">truck roadside assistance</a>.
 faq: Can the tow truck enter the site? :: Only with permission. Tell the gatekeeper that a tow truck or recovery vehicle is arriving.
 faq: What does roadside assistance in Europoort cost? :: It depends on the vehicle, distance and time. You hear the price before anyone sets off.
 
@@ -291,10 +291,10 @@ near: botlek-maasvlakte, europoort, rotterdam-zuid
 localh: Refinery, businesses and A4
 pech: Flat battery or flat tyre? We often fix that on the spot. No membership needed. You only pay for this job. For trucks see also <a href="/en/vrachtwagen-pechhulp/">truck roadside assistance</a>.
 trans: To a garage, home or body shop in Rotterdam or Hoogvliet: you give the address and hear the price up front.
-road: A4 door de Beneluxtunnel
+road: A4 through the Beneluxtunnel
 road: A15 towards Botlek and Europoort
-road: Verbindingen naar Hoogvliet en Rotterdam-Zuid
-road: Bedrijfswegen rond raffinaderij en haventerreinen
+road: Verbindingen to Hoogvliet and Rotterdam-Zuid
+road: Bedrijfswegen rond raffinaderij and haventerreinen
 local: On closed sites tell the gatekeeper a tow truck is coming. Otherwise share your live location via WhatsApp.
 local: For trucks we work with a partner. Give the number plate, type and whether the trailer is loaded.
 local: In the residential streets of Pernis it is more often a car that will not start. Then we first check whether a jump start is enough.
@@ -316,10 +316,10 @@ near: rotterdam, schiedam, botlek-maasvlakte
 localh: Neighbourhoods and access
 pech: Flat battery or flat tyre? Often fixed on the spot. No roadside-assistance membership needed.
 trans: We take the car to your garage, home or body shop in Rotterdam. You hear the price before we leave.
-road: A20 towards Kethelplein en Centrum
-road: Mathenesserlaan en Nieuwe Binnenweg
-road: Coolhaven en Westzeedijk
-road: Verbindingen naar Schiedam en Rotterdam Centrum
+road: A20 towards Kethelplein and Centrum
+road: Mathenesserlaan and Nieuwe Binnenweg
+road: Coolhaven and Westzeedijk
+road: Verbindingen to Schiedam and Rotterdam Centrum
 local: We collect cars in Middelland, Oud-Mathenesse, Spangen, Bospolder, Tussendijken and Nieuwe Westen as well as Delfshaven itself.
 local: Multi-storey car parks can be too low for a flatbed — tell us the level and height limit.
 faq: Can you get a car out of a narrow street in Delfshaven? :: Usually yes. Say how narrow it is. Sometimes the car must be moved a short distance first.
