@@ -121,3 +121,37 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 ## 2026-11-06 (night) – richer areaServed; custom 404
 - Home + EN home JSON-LD `areaServed`: 8/5 → **43** real city pages (no invented places). Rotterdam (+EN) AutomotiveBusiness areaServed = Rotterdam + near city pages (not neighbourhoods-as-City). No hasMap (no public map URL on site).
 - Custom `404.html` (NL, bilingual tip) + `en/404.html`. GH Pages serves root 404 for unknown paths.
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 (night) – near-list areaServed hubs; EN home parity
+- `build-en.pl` `home_en` areaServed = all %PLACE names (43), matching NL.
+- City AutomotiveBusiness areaServed = self + real `near` city pages (not neighbourhoods). EXTRA hubs (Rotterdam, Dordrecht, Breda, Tilburg, Den Bosch, Gorinchem, Spijkenisse, Goes) patched the same way; town pages via `near_city_names`.
