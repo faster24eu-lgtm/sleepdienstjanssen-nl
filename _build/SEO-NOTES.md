@@ -117,3 +117,7 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 ## 2026-11-06 (night) – sitemap stubs out; werkgebied hub links
 - Removed noindex soft-redirect stubs `/diensten/`, `/contact/` (+ `/en/`) from sitemap.xml (pages kept for old URL redirects). Crawl: 122→118 indexable URLs; all sitemap URLs 200.
 - Werkgebied intro now links Rotterdam, Botlek/Maasvlakte, Europoort, vrachtwagenberging/pechhulp (hub ↔ high-value pages).
+
+## 2026-11-06 (night) – richer areaServed; custom 404
+- Home + EN home JSON-LD `areaServed`: 8/5 → **43** real city pages (no invented places). Rotterdam (+EN) AutomotiveBusiness areaServed = Rotterdam + near city pages (not neighbourhoods-as-City). No hasMap (no public map URL on site).
+- Custom `404.html` (NL, bilingual tip) + `en/404.html`. GH Pages serves root 404 for unknown paths.

@@ -431,6 +431,9 @@ wr('privacy/index.html', patch_footer(rd("$ROOT/privacy/index.html")));
   my $sec = qq(<!--alle-diensten--><section class="section area"><div class="container"><h2 class="title center">Al onze <span class="hl">diensten</span></h2><div class="cities-grid near">$svc</div></div></section><!--/alle-diensten-->\n);
   $h =~ s{<!--alle-diensten-->.*?<!--/alle-diensten-->\s*}{}s;
   $h =~ s{(<section class="section steps-sec")}{$sec$1} or die 'home steps';
+  my $area = join ', ', map { '{"@type": "City", "name": '.js($PLACE{$_}{name}).'}' }
+    sort { $PLACE{$a}{name} cmp $PLACE{$b}{name} } keys %PLACE;
+  $h =~ s{("areaServed": )\[.*?\]}{$1[$area]}s or warn 'home areaServed patch skipped';
   wr('index.html', patch_footer($h));
 }
 
