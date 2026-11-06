@@ -249,9 +249,9 @@ H
   my $schema = '{"@context": "https://schema.org", "@graph": ['
     .$BIZ->($raw, split /, /, $c->{area}).', {"@type": "Service", "name": '.js("Sleepdienst $raw").', "serviceType": "Sleepdienst en pechhulp", "provider": {"@id": '.js("$SITE/#business").'}, "areaServed": {"@type": "City", "name": '.js($raw).'}}, '
     .faq_ld(@faqs).', '.crumb_ld("Sleepdienst $raw", $path).']}';
-  my $title = $c->{title} // "Sleepdienst $raw 24/7 | Takeldienst en pechhulp | Janssen";
-  $title = "Sleepdienst $raw 24/7 | Pechhulp | Janssen" if !defined $c->{title} && length($title) > 65;
-  my $desc  = $c->{desc} // "Sleepdienst $raw 24/7: pechhulp, takeldienst, berging en autotransport. De prijs spreken we vooraf af. Bel $DISP.";
+  my $title = $c->{title} // "Sleepdienst $raw 24/7 | prijs vooraf | Janssen";
+  $title = "Sleepdienst $raw 24/7 | Janssen" if !defined $c->{title} && length($title) > 60;
+  my $desc  = $c->{desc} // "Sleepdienst $raw 24/7: pechhulp en auto slepen. Vaste prijs vooraf, geen abonnement. Bel $DISP.";
   page(title => $title, desc => $desc, path => $path, body => $body, schema => $schema, crumb => "Sleepdienst $raw");
 }
 
