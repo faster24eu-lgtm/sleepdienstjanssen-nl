@@ -98,7 +98,7 @@ my $ART = rd("$ROOT/src/art-truck.svg"); $ART =~ s/\s+$//;
 my $BIZ = sub {
   my @area = @_;
   '{"@type": "AutomotiveBusiness", "@id": '.js("$SITE/#business").', "name": '.js($NAME).', "url": '.js("$SITE/")
-  .', "telephone": '.js($TEL).', "email": "info@sleepdienstjanssen.nl", "openingHours": "Mo-Su 00:00-23:59", "areaServed": ['
+  .', "image": '.js("$SITE/assets/og-janssen-1200x630.png").', "telephone": '.js($TEL).', "email": "info@sleepdienstjanssen.nl", "openingHours": "Mo-Su 00:00-23:59", "areaServed": ['
   .join(', ', map { '{"@type": "City", "name": '.js($_).'}' } @area).']}';
 };
 sub faq_ld {
@@ -128,10 +128,16 @@ sub page {
   $h =~ s{<meta property="og:title" content=".*?">}{<meta property="og:title" content="$t">};
   $h =~ s{<meta property="og:description" content=".*?">}{<meta property="og:description" content="$d">};
   $h =~ s{<meta property="og:url" content=".*?">}{<meta property="og:url" content="$u">};
-  my $ogi = qq(<meta property="og:image" content="$SITE/assets/og-janssen-1200x630.png">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:image" content="$SITE/assets/og-janssen-1200x630.png">);
-  $h =~ s{<meta property="og:image" content=".*?">\s*}{}g;
+  my $ogi = qq(<meta property="og:image" content="$SITE/assets/og-janssen-1200x630.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Sleepdienst Janssen — 24/7 sleepdienst en pechhulp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="$SITE/assets/og-janssen-1200x630.png">
+<meta name="twitter:image:alt" content="Sleepdienst Janssen — 24/7 sleepdienst en pechhulp">);
+  $h =~ s{<meta property="og:image(?::\w+)?" content=".*?">\s*}{}g;
   $h =~ s{<meta name="twitter:card" content=".*?">\s*}{}g;
-  $h =~ s{<meta name="twitter:image" content=".*?">\s*}{}g;
+  $h =~ s{<meta name="twitter:image(?::alt)?" content=".*?">\s*}{}g;
   $h =~ s{<meta property="og:url" content=".*?">}{$&\n$ogi};
   my $ld = $a{schema};
   $h =~ s{<script type="application/ld\+json">.*?</script>}{<script type="application/ld+json">$ld</script>}s or die 'ld';

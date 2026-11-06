@@ -217,7 +217,7 @@ sub split_faq { map { my ($q, $a) = split / :: /, $_, 2; defined $a or die "faq 
 sub biz {
   my @area = @_;
   '{"@type": "AutomotiveBusiness", "@id": '.js("$SITE/#business").', "name": '.js($NAME_NL).', "alternateName": '.js($NAME).', "url": '.js("$SITE/")
-  .', "telephone": '.js($TEL).', "email": "info@sleepdienstjanssen.nl", "openingHours": "Mo-Su 00:00-23:59", "areaServed": ['
+  .', "image": '.js("$SITE/assets/og-janssen-1200x630.png").', "telephone": '.js($TEL).', "email": "info@sleepdienstjanssen.nl", "openingHours": "Mo-Su 00:00-23:59", "areaServed": ['
   .join(', ', map { '{"@type": "City", "name": '.js($_).'}' } @area).']}';
 }
 
@@ -248,10 +248,16 @@ sub page_en {
   $h =~ s{<meta property="og:description" content=".*?">}{<meta property="og:description" content="$d">};
   $h =~ s{<meta property="og:url" content=".*?">}{<meta property="og:url" content="$u">};
   $h =~ s{<meta property="og:locale" content=".*?">}{<meta property="og:locale" content="en_GB">};
-  my $ogi = qq(<meta property="og:image" content="$SITE/assets/og-janssen-1200x630.png">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:image" content="$SITE/assets/og-janssen-1200x630.png">);
-  $h =~ s{<meta property="og:image" content=".*?">\s*}{}g;
+  my $ogi = qq(<meta property="og:image" content="$SITE/assets/og-janssen-1200x630.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Sleepdienst Janssen — 24/7 sleepdienst en pechhulp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="$SITE/assets/og-janssen-1200x630.png">
+<meta name="twitter:image:alt" content="Sleepdienst Janssen — 24/7 sleepdienst en pechhulp">);
+  $h =~ s{<meta property="og:image(?::\w+)?" content=".*?">\s*}{}g;
   $h =~ s{<meta name="twitter:card" content=".*?">\s*}{}g;
-  $h =~ s{<meta name="twitter:image" content=".*?">\s*}{}g;
+  $h =~ s{<meta name="twitter:image(?::alt)?" content=".*?">\s*}{}g;
   $h =~ s{<meta property="og:locale" content=".*?">}{$&\n$ogi};
   # insert hreflang before </head> (strip any leftover from template)
   $h =~ s{<link rel="alternate" hreflang="[^"]+" href="[^"]+">\s*}{}g;
