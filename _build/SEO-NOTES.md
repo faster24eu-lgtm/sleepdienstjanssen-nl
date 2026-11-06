@@ -157,15 +157,19 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 - City AutomotiveBusiness areaServed = self + real `near` city pages (not neighbourhoods). EXTRA hubs (Rotterdam, Dordrecht, Breda, Tilburg, Den Bosch, Gorinchem, Spijkenisse, Goes) patched the same way; town pages via `near_city_names`.
 
 ## 2026-11-06 (night) – MORNING 08:00 DIGEST (mention these)
-Facts only from shipped work tonight — no invented GSC numbers:
-- **EN mirror `/en/`** live (home, services, towns/hubs, guides, privacy, werkgebied); hreflang nl↔en + x-default; NL|EN switcher.
-- **Sitemap 118** indexable URLs (stubs `/diensten/` + `/contact/` removed from sitemap; pages kept as soft redirects).
+Facts only from shipped work tonight — **no invented GSC numbers**:
+- **CTR / haven landings**: titles/meta wave; new landings `/vrachtwagen-pechhulp/`, `/sleepdienst-europoort/`, `/sleepdienst-pernis/`, `/sleepdienst-delfshaven/` (GSC query themes; no rank claims).
+- **EN mirror `/en/`** live (home, services, towns/hubs, guides, privacy, werkgebied); hreflang `nl-NL`↔`en` + `x-default`; NL|EN switcher; EN intro naturalization (shared small-town + hub intros).
+- **Sitemap 118** indexable URLs (stubs `/diensten/` + `/contact/` soft-redirect, kept out of sitemap).
 - **www → apex 301** OK; CNAME apex; canonicals apex.
+- **Uniqueness / EN QA**: Dutch leaks cleaned; Europoort FAQ ↔ truck pechhulp; no mass new towns late wave.
 - **OG card** `/assets/og-janssen-1200x630.png` sitewide + twitter:image; width/height/alt.
-- **areaServed**: NL+EN home = **43** real city-page names; hub near-lists (Rotterdam, Dordrecht, Breda, Tilburg, Den Bosch, Gorinchem, Spijkenisse, Goes) = self + real near cities (NL EXTRA + EN `towns-hub.txt` aligned). `build-en.pl` home uses all `%PLACE` so EN won’t drift on rebuild.
+- **areaServed**: NL+EN home = **43** real city-page names; hub near-lists aligned (Rotterdam, Dordrecht, Breda, Tilburg, Den Bosch, Gorinchem, Spijkenisse, Goes).
 - **Custom 404** (NL + `en/404.html`).
-- **Uniqueness / EN QA**: Dutch leaks cleaned in EN sources; Europoort FAQ ↔ truck pechhulp; no mass new towns this late wave.
-- **Hero LCP**: CSS/SVG truck art — no photo preload (skipped).
+- **CWV / fonts**: PSI API 429; local LH mobile — `/` perf 99 LCP **1.1s** after self-host Poppins latin woff2 (no `fonts.googleapis.com`); glyph QA OK for Dutch accents; weight remap 500→400 / 600→700.
+- **a11y**: verified contrast (`--blue` `#1565c0`); logo aria-label removed; footer `h4`→`h2.foot-h`; LH a11y **1.0**. Skip-link “Ga naar inhoud” / “Skip to content” → `#content` (EN pages also gained missing `<body>`).
+- **Truck FAQ**: trekker/oplegger vs bestelbus/personenauto on `/vrachtwagen-pechhulp/` + EN + Botlek (NL/EN).
+- **Regression (morning)**: sitemap crawl **118/118** HTTP 200, titles non-empty, `</body>` present all `/en/`; spot-checks hreflang/skip/fonts/OG/FAQ JSON-LD/’s-Hertogenbosch OK — **no breakages**.
 - Re-check CTR/indexing for new EN URLs + haven landings in GSC after ~2–3 weeks.
 
 ## 2026-11-06 (night, late) – EN intro naturalization
@@ -219,3 +223,6 @@ Results emphasize pay-per-use framing: Spoedsleepdienst, Sleepdienst Roermond, A
 
 ## 2026-11-06 (night) – truck FAQ: trekker/oplegger vs bestelbus
 Added FAQ on `/vrachtwagen-pechhulp/` + `/en/vrachtwagen-pechhulp/` and Botlek pages (already truck-focused): clarifies personenauto/bestelbus (~3.5 t, own flatbed) vs trekker/oplegger/zware truck (partner + same phone, arrangement up front). No new prices/capabilities. Sources: `src/pages/diensten.txt`, `towns-rijnmond.txt` + EN mirrors; HTML+FAQPage schema patched.
+
+## 2026-11-06 (morning) – Regression crawl
+Read-only sitemap crawl + spot-checks. Janssen **118/118** HTTP 200; all titles non-empty; all pages have `<body>`/`</body>` (incl. `/en/`). Spot-checks: hreflang 5 pairs OK; skip-link home NL/EN; Poppins self-host (no googleapis; woff2 200); OG 200; FAQPage JSON-LD on vrachtwagen-pechhulp NL+EN parses; ’s-Hertogenbosch OK. **No breakages fixed.**
