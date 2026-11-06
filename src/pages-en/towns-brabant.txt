@@ -7,7 +7,7 @@ region: Brabant
 geo: 5.47 51.44
 title: Towing Eindhoven 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Eindhoven 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Eindhoven? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Eindhoven and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Eindhoven? We help 24/7 with roadside assistance and flatbed towing in and around Eindhoven. You hear the price and when we can be there before we set off.
 spots: On the Randweg near Ekkersweijer and Leenderheide traffic changes lanes quickly. Stopping there is dangerous. Drive on to an exit or emergency bay if you can; otherwise stand behind the guardrail. Call 112 if you are on a live lane.
 area: Woensel, Strijp, Gestel, Stratum, Tongelre, Meerhoven, Acht, Best, Nuenen, Waalre
 near: veldhoven, helmond, tilburg
@@ -33,7 +33,7 @@ region: Brabant
 geo: 5.66 51.48
 title: Towing Helmond 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Helmond 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Helmond? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Helmond and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Helmond? We help 24/7 with roadside assistance and flatbed towing in and around Helmond. You hear the price and when we can be there before we set off.
 spots: The N279 has no hard shoulder and a lot of freight traffic. Put the car as far into the verge as you can and wait on the ditch side — not between the car and the road.
 area: Brandevoort, Rijpelberg, Stiphout, Dierdonk, Mierlo-Hout, Brouwhuis, Binnenstad, Mierlo, Nuenen, Aarle-Rixtel
 near: eindhoven, veldhoven, oss
@@ -58,7 +58,7 @@ region: Brabant
 geo: 4.86 51.64
 title: Towing Oosterhout 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Oosterhout 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Oosterhout? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Oosterhout and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Oosterhout? We help 24/7 with roadside assistance and flatbed towing in and around Oosterhout. You hear the price and when we can be there before we set off.
 spots: The A27 north of Oosterhout is often busy. If you break down, always stand behind the guardrail. On the bridges over the Wilhelminakanaal you can get stuck briefly even without a breakdown of your own.
 area: Oosterheide, Zuiderhout, Vrachelen, Arkendonk, Dommelbergen, Slotjes, Den Hout, Dorst, Oosteind, Teteringen
 near: breda, waalwijk, etten-leur
@@ -83,7 +83,7 @@ region: Brabant
 geo: 5.07 51.69
 title: Towing Waalwijk 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Waalwijk 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Waalwijk? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Waalwijk and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Waalwijk? We help 24/7 with roadside assistance and flatbed towing in and around Waalwijk. You hear the price and when we can be there before we set off.
 spots: On the A59 between Waalwijk and Den Bosch many trucks run to and from the Haven. Do not stop on the hard shoulder if you can still reach an exit. If not, stand behind the guardrail and call us.
 area: Besoijen, Baardwijk, Sprang-Capelle, Waspik, Drunen, Kaatsheuvel, Loon op Zand, Heusden, Vlijmen, Elshout
 near: oosterhout, tilburg, den-bosch
@@ -108,7 +108,7 @@ region: Brabant
 geo: 4.47 51.53
 title: Towing Roosendaal 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Roosendaal 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Roosendaal? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Roosendaal and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Roosendaal? We help 24/7 with roadside assistance and flatbed towing in and around Roosendaal. You hear the price and when we can be there before we set off.
 spots: Around junction De Stok there are many trucks and exits are close together. Do not stop on the slip road. Drive on to the exit if you can; otherwise stand behind the guardrail and call 112 if you are in danger.
 area: Kalsdonk, Kroeven, Langdonk, Tolberg, Westrand, Wouw, Heerle, Nispen, Wouwse Plantage, Essen
 near: bergen-op-zoom, etten-leur, breda
@@ -133,7 +133,7 @@ region: Brabant
 geo: 4.29 51.49
 title: Towing Bergen op Zoom 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Bergen op Zoom 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Bergen op Zoom? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Bergen op Zoom and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Bergen op Zoom? We help 24/7 with roadside assistance and flatbed towing in and around Bergen op Zoom. You hear the price and when we can be there before we set off.
 spots: Around junction Zoomland traffic changes lanes quickly. Stopping there is dangerous. If you break down, stand behind the guardrail at once. In summer there are many caravans — tell us in advance if you are stuck with a caravan or trailer.
 area: Centrum, Gageldonk, Warande, Noordgeest, Halsteren, Lepelstraat, Hoogerheide, Woensdrecht, Ossendrecht, Tholen
 near: roosendaal, goes, etten-leur
@@ -158,7 +158,7 @@ region: Brabant
 geo: 4.64 51.57
 title: Towing Etten-Leur 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Etten-Leur 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Etten-Leur? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Etten-Leur and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Etten-Leur? We help 24/7 with roadside assistance and flatbed towing in and around Etten-Leur. You hear the price and when we can be there before we set off.
 spots: On the A58 near Etten-Leur many trucks run to and from Antwerp and Vlissingen. If you break down, stand behind the guardrail at once. The N640 has no hard shoulder — put the car as far into the verge as you can.
 area: Centrum, Grauwe Polder, Schoonhout, Banakkers, Baai, Hoeven, Sprundel, Rijsbergen, Prinsenbeek, Zundert
 near: breda, roosendaal, moerdijk
@@ -183,7 +183,7 @@ region: Brabant
 geo: 4.60 51.68
 title: Towing Moerdijk 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Moerdijk 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Moerdijk? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Moerdijk and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Moerdijk? We help 24/7 with roadside assistance and flatbed towing in and around Moerdijk. You hear the price and when we can be there before we set off.
 spots: On the Moerdijk Bridge it often blows hard and stopping is dangerous. Drive past the bridge if you can. If not, stay belted in the car, switch on hazard lights and call 112.
 area: Zevenbergen, Klundert, Willemstad, Fijnaart, Zevenbergschen Hoek, Standdaarbuiten, Noordhoek, Langeweg, Heijningen, Moerdijk dorp
 near: dordrecht, breda, etten-leur
@@ -208,7 +208,7 @@ region: Brabant
 geo: 5.52 51.77
 title: Towing Oss 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Oss 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Oss? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Oss and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Oss? We help 24/7 with roadside assistance and flatbed towing in and around Oss. You hear the price and when we can be there before we set off.
 spots: Around junction Paalgraven there is a lot of merging traffic. Do not stop here — drive on if you can. If you are stuck, stand on the safe side of the guardrail and call 112 if you are in danger.
 area: Centrum, Ruwaard, Schadewijk, Krinkelhoek, Oss-Oost, Berghem, Lith, Megen, Geffen, Nistelrode
 near: den-bosch, zaltbommel, helmond
@@ -233,7 +233,7 @@ region: Brabant
 geo: 5.40 51.42
 title: Towing Veldhoven 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Veldhoven 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Veldhoven? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Veldhoven and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Veldhoven? We help 24/7 with roadside assistance and flatbed towing in and around Veldhoven. You hear the price and when we can be there before we set off.
 spots: On the A2 and A67 rush hour is busy here, with sudden lane changes. Prefer a car park or exit. If that is not possible, stand behind the guardrail and call 112 if you are in danger.
 area: Zilverackers, Cobbeek, D'Ekker, Heikant, Oerle, Zeelst, Meerveldhoven, Wintelre, Vessem, Eersel
 near: eindhoven, helmond, tilburg
