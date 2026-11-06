@@ -214,6 +214,22 @@ sub crumb_ld {
 }
 sub split_faq { map { my ($q, $a) = split / :: /, $_, 2; defined $a or die "faq missing answer: $_\n"; [$q, $a] } @_ }
 
+
+sub near_city_names {
+  my ($self, $near_csv) = @_;
+  my @out; my %seen;
+  my $push = sub {
+    my $slug = shift;
+    return unless $slug && $PLACE{$slug} && $PLACE{$slug}{name};
+    my $n = $PLACE{$slug}{name};
+    return if $seen{$n}++;
+    push @out, $n;
+  };
+  $push->($self);
+  for my $slug (split /\s*,\s*/, ($near_csv // '')) { $push->($slug) }
+  @out ? @out : ($PLACE{$self}{name} // $self);
+}
+
 sub biz {
   my @area = @_;
   '{"@type": "AutomotiveBusiness", "@id": '.js("$SITE/#business").', "name": '.js($NAME_NL).', "alternateName": '.js($NAME).', "url": '.js("$SITE/")
@@ -368,7 +384,7 @@ H
   my $nl_path = "/sleepdienst-$s/";
   my $path = "/en/sleepdienst-$s/";
   my $schema = '{"@context": "https://schema.org", "@graph": ['
-    .biz($raw, split /, /, ($c->{area} // $raw)).', {"@type": "Service", "name": '.js("Towing $raw").', "serviceType": "Towing and roadside assistance", "provider": {"@id": '.js("$SITE/#business").'}, "areaServed": {"@type": "City", "name": '.js($raw).'}}, '
+    .biz(near_city_names($s, $c->{near})).', {"@type": "Service", "name": '.js("Towing $raw").', "serviceType": "Towing and roadside assistance", "provider": {"@id": '.js("$SITE/#business").'}, "areaServed": {"@type": "City", "name": '.js($raw).'}}, '
     .faq_ld(@faqs).', '.crumb_ld("Towing $raw", $path).']}';
   my $title = $c->{title} // "Towing $raw 24/7 | Janssen";
   my $desc  = $c->{desc} // "Towing $raw 24/7: roadside assistance and car towing. Price agreed up front, no membership. Call $DISP.";
@@ -536,7 +552,7 @@ $EN_STEPS
 </section>
 H
   my $path = '/en/';
-  my $schema = '{"@context": "https://schema.org", "@graph": ['.biz(qw(Rotterdam Dordrecht Breda Tilburg Eindhoven)).', '.crumb_ld('Home', $path).']}';
+  my $schema = '{"@context": "https://schema.org", "@graph": ['.biz(sort map { $_->{name} } values %PLACE).', '.crumb_ld('Home', $path).']}';
   # home has no mid crumb really — still ok
   page_en(title => "Towing & roadside assistance 24/7 | Janssen Towing",
     desc => "Towing and roadside assistance in Rotterdam, the port, Brabant and Zeeland. 24/7, price agreed up front, English spoken. Call $DISP.",

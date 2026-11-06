@@ -101,6 +101,23 @@ my $BIZ = sub {
   .', "image": '.js("$SITE/assets/og-janssen-1200x630.png").', "telephone": '.js($TEL).', "email": "info@sleepdienstjanssen.nl", "openingHours": "Mo-Su 00:00-23:59", "areaServed": ['
   .join(', ', map { '{"@type": "City", "name": '.js($_).'}' } @area).']}';
 };
+
+# AutomotiveBusiness areaServed: self + real near city pages (not neighbourhoods).
+sub near_city_names {
+  my ($self, $near_csv) = @_;
+  my @out;
+  my %seen;
+  my $push = sub {
+    my $slug = shift;
+    return unless $slug && $PLACE{$slug} && $PLACE{$slug}{name};
+    my $n = $PLACE{$slug}{name};
+    return if $seen{$n}++;
+    push @out, $n;
+  };
+  $push->($self);
+  for my $slug (split /\s*,\s*/, ($near_csv // '')) { $push->($slug) }
+  @out ? @out : ($PLACE{$self}{name} // $self);
+}
 sub faq_ld {
   my @f = @_;
   '{"@type": "FAQPage", "mainEntity": ['.join(', ', map {
@@ -263,7 +280,7 @@ H
   $body =~ s/\s+$//;
   my $path = "/sleepdienst-$s/";
   my $schema = '{"@context": "https://schema.org", "@graph": ['
-    .$BIZ->($raw, split /, /, $c->{area}).', {"@type": "Service", "name": '.js("Sleepdienst $raw").', "serviceType": "Sleepdienst en pechhulp", "provider": {"@id": '.js("$SITE/#business").'}, "areaServed": {"@type": "City", "name": '.js($raw).'}}, '
+    .$BIZ->(near_city_names($s, $c->{near})).', {"@type": "Service", "name": '.js("Sleepdienst $raw").', "serviceType": "Sleepdienst en pechhulp", "provider": {"@id": '.js("$SITE/#business").'}, "areaServed": {"@type": "City", "name": '.js($raw).'}}, '
     .faq_ld(@faqs).', '.crumb_ld("Sleepdienst $raw", $path).']}';
   my $title = $c->{title} // "Sleepdienst $raw 24/7 | prijs vooraf | Janssen";
   $title = "Sleepdienst $raw 24/7 | Janssen" if !defined $c->{title} && length($title) > 60;
@@ -399,6 +416,9 @@ for my $s (sort keys %OLD) {
   my $near = join '', map { card($_) } split /, /, $e->{near};
   $h =~ s{<div class="cities-grid near">.*?</div>(?:<!--hub-->.*?<!--/hub-->)?}{<div class="cities-grid near">$near</div><!--hub--><p style="margin-top:22px;text-align:center"><a href="/werkgebied/">Bekijk ons hele werkgebied</a></p><!--/hub-->}s or die "$s: near";
   $h =~ s{(<div class="cities">)(.*?)(</div>)}{$1.link_chips($2, $s).$3}se or die "$s: chips";
+  my $area = join ', ', map { '{"@type": "City", "name": '.js($_).'}' } near_city_names($s, $e->{near});
+  $h =~ s{("openingHours": "Mo-Su 00:00-23:59")(?:, "areaServed": \[.*?\])?,?}{$1, "areaServed": [$area]}s
+    or warn "$s: areaServed patch skipped";
   wr($f, patch_footer($h));
 }
 sub town_links {
@@ -433,7 +453,8 @@ wr('privacy/index.html', patch_footer(rd("$ROOT/privacy/index.html")));
   $h =~ s{(<section class="section steps-sec")}{$sec$1} or die 'home steps';
   my $area = join ', ', map { '{"@type": "City", "name": '.js($PLACE{$_}{name}).'}' }
     sort { $PLACE{$a}{name} cmp $PLACE{$b}{name} } keys %PLACE;
-  $h =~ s{("areaServed": )\[.*?\]}{$1[$area]}s or warn 'home areaServed patch skipped';
+  $h =~ s{("openingHours": "Mo-Su 00:00-23:59")(?:, "areaServed": \[.*?\])?,?}{$1, "areaServed": [$area]}s
+    or warn 'home areaServed patch skipped';
   wr('index.html', patch_footer($h));
 }
 
