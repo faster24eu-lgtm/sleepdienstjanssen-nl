@@ -167,3 +167,8 @@ Facts only from shipped work tonight — no invented GSC numbers:
 - **Uniqueness / EN QA**: Dutch leaks cleaned in EN sources; Europoort FAQ ↔ truck pechhulp; no mass new towns this late wave.
 - **Hero LCP**: CSS/SVG truck art — no photo preload (skipped).
 - Re-check CTR/indexing for new EN URLs + haven landings in GSC after ~2–3 weeks.
+
+## 2026-11-06 (night, late) – EN intro naturalization
+- Shared small-town body intro → `Need a tow in {city}? We help 24/7…` (31 towns; sources towns-rijnmond/drecht/brabant/zeeland).
+- Shared EN town hero → `Car broken down in {city}?…` (builder once).
+- Hub body intros customized: Rotterdam/Dordrecht/Breda/Botlek (earlier) + Tilburg, Den Bosch, Gorinchem, Spijkenisse, Goes (this pass). Flatbed DOES phrasing + home “We tow…” retained.
