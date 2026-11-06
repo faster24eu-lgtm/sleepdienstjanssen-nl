@@ -7,3 +7,5 @@ Not published by GitHub Pages (underscore folder / not linked).
 - New landings from GSC haven/truck query themes (no invented numbers): `/vrachtwagen-pechhulp/`, `/sleepdienst-europoort/`, `/sleepdienst-pernis/`, `/sleepdienst-delfshaven/`. Linked from Rotterdam, footer, sitemap (`lastmod` 2026-11-06).
 - Default town title formula shortened to `Sleepdienst <plaats> 24/7 | prijs vooraf | Janssen`; several service titles shortened; vrachtwagen-pechhulp body enriched (haven storingen / verwachting).
 - Re-check Search Console CTR and new-URL impressions after indexing.
+
+Deploy note: tip commit after night polish for GitHub Pages queue.
