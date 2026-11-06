@@ -208,6 +208,7 @@ html: <p><a href="/en/sleepdienst-botlek-maasvlakte/">Towing Botlek &amp; Maasvl
 faq: Do you help on the Maasvlakte? :: Yes, via heavy-recovery partners. Same phone number.
 faq: Is membership required? :: No. You pay per job with the price agreed up front.
 faq: How fast can you be there? :: We check the nearest available unit and give you an estimate on the phone.
+faq: Do you help tractor-trailers, vans and cars? :: Passenger cars and vans (roughly up to 3.5 t) we handle ourselves with roadside help or a flatbed. For a tractor unit, semi-trailer or heavier truck we send a partner with heavy equipment — same number (0970 1022 9095), and you hear up front who is coming and the arrangement. Always say what type of vehicle it is.
 
 @@service wat-kost-een-sleepdienst
 crumb: What does a tow cost?

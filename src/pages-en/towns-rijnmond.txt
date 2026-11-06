@@ -251,6 +251,7 @@ local: For a van or passenger car a standard flatbed is enough. If you work on t
 faq: Do you also do truck roadside assistance on the Maasvlakte? :: Yes, via partners with heavy equipment. You call the same number, give the terminal or gate, number plate and fault, and you hear who is coming and what was agreed.
 faq: My trailer is loaded. Can it come too? :: That depends on the weight and the load. Give the weight and type of cargo. For hazardous goods call 112 first.
 faq: Can a tow truck just enter the port site? :: No, permission is required. Tell the gatekeeper or site manager that a tow truck is coming so it can go straight through.
+faq: Tractor-trailer or a van — who comes? :: A car or van usually goes on our own flatbed. For a tractor unit, semi-trailer or heavy truck we send a partner with heavy equipment. Same phone number; say the vehicle type, whether the trailer is loaded, and the terminal or gate.
 
 @@town europoort
 name: Europoort

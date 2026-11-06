@@ -233,6 +233,7 @@ trans: Een auto of bestelbus brengen we naar de garage die u kiest. Trucks en op
 faq: Doen jullie ook vrachtwagen pechhulp op de Maasvlakte? :: Ja, via partners met zwaar materieel. U belt hetzelfde nummer, noemt de terminal of poort, het kenteken en de storing, en u hoort wie er komt en wat de afspraak is.
 faq: Mijn oplegger is geladen. Kan die ook mee? :: Dat hangt af van het gewicht en de lading. Geef het gewicht en het soort lading door. Gaat het om gevaarlijke stoffen, bel dan eerst 112.
 faq: Mag een sleepwagen zomaar het haventerrein op? :: Nee, daar is toestemming voor nodig. Meld bij de portier of de beheerder dat er een sleepwagen komt, dan kan de wagen meteen door.
+faq: Trekker met oplegger of een bestelbus — wie komt er? :: Een personenauto of bestelbus gaat meestal met onze eigen plateauwagen. Voor een trekker, oplegger of zware truck zetten we een partner met zwaar materieel in. U belt hetzelfde nummer; noem het type voertuig, of de oplegger geladen is, en de terminal of poort.
 
 # Extra landings op Search Console-queries: Europoort, Pernis, Delfshaven
 @@town europoort

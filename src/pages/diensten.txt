@@ -264,6 +264,7 @@ faq: Helpen jullie vrachtwagen pechhulp op de Maasvlakte? :: Ja. Noem terminal, 
 faq: Is dit hetzelfde als berging? :: Niet altijd. Eerst kijken we of pechhulp ter plaatse kan. Anders volgt berging.
 faq: Heb ik een apart abonnement nodig? :: Nee. U belt ons, hoort de prijs of afspraak, en betaalt per inzet.
 faq: Komen jullie ook in Pernis en Europoort? :: Ja. Meld bij de portier dat er hulp aankomt, zodat de slagboom openstaat.
+faq: Helpt u trekker/oplegger, bestelbus of personenauto? :: Personenauto's en bestelbussen (tot ongeveer 3,5 ton) helpen we zelf met pechhulp of een plateauwagen. Voor een trekker, oplegger of zwaardere truck zetten we een partner met zwaar materieel in. U belt hetzelfde nummer (0970 1022 9095) en hoort vooraf wie er komt en wat de afspraak is. Noem altijd het type voertuig.
 
 # auto wegslepen kosten 320, sleepdienst kosten 110
 @@service wat-kost-een-sleepdienst
