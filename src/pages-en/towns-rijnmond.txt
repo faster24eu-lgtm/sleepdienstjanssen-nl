@@ -227,7 +227,7 @@ faq: What does a tow in Oud-Beijerland cost? :: It depends on distance, vehicle 
 faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
 
 @@town botlek-maasvlakte
-name: Botlek en Maasvlakte
+name: Botlek & Maasvlakte
 prov: Zuid-Holland
 region: Rijnmond
 geo: 4.20 51.90
@@ -267,7 +267,7 @@ localh: Terminals, tank farms and gates
 pech: A jump start or tyre change often works on the spot for light vehicles. For trucks it depends on the fault: sometimes a mechanic, sometimes recovery. Tell us what the vehicle is doing. See also <a href="/en/vrachtwagen-pechhulp/">truck roadside assistance</a>.
 trans: We take your car or van to the garage you choose. Trucks go to a truck dealer or depot in the region. We agree the price up front.
 road: N15 and the Calandbrug towards Rozenburg
-road: A15 towards Botlekbrug en Rotterdam
+road: A15 towards the Botlek Bridge and Rotterdam
 road: Verbindingen naar Maasvlakte en Maasvlakte 2
 road: Toegangswegen naar terminals en tankparken
 local: Name the terminal, gate number and contact person. Without permission a tow truck cannot enter the site.
@@ -292,7 +292,7 @@ localh: Refinery, businesses and A4
 pech: Flat battery or flat tyre? We often fix that on the spot. No membership needed. You only pay for this job. For trucks see also <a href="/en/vrachtwagen-pechhulp/">truck roadside assistance</a>.
 trans: To a garage, home or body shop in Rotterdam or Hoogvliet: you give the address and hear the price up front.
 road: A4 door de Beneluxtunnel
-road: A15 towards Botlek en Europoort
+road: A15 towards Botlek and Europoort
 road: Verbindingen naar Hoogvliet en Rotterdam-Zuid
 road: Bedrijfswegen rond raffinaderij en haventerreinen
 local: On closed sites tell the gatekeeper a tow truck is coming. Otherwise share your live location via WhatsApp.

@@ -44,7 +44,7 @@ my @SERVICES = parse('src/pages-en', 'diensten.txt');
 my %PLACE = map { $_->{slug} => $_ } @TOWNS;
 
 my @FOOT_TOWNS = qw(rotterdam eindhoven barendrecht breda dordrecht tilburg den-bosch schiedam rotterdam-zuid gorinchem);
-my $ART = rd("$ROOT/src/art-truck.svg"); $ART =~ s/\s+$//;
+my $ART = rd("$ROOT/src/art-truck.svg"); $ART =~ s/\s+$//; $ART =~ s{aria-label="[^"]*"}{aria-label="Janssen Towing flatbed with a car on the deck"};
 my $WAVE = '<svg class="wave" viewBox="0 0 1440 120" preserveAspectRatio="none" aria-hidden="true"><path d="M0 70 C 240 130, 480 10, 760 50 S 1220 120, 1440 30 L1440 120 L0 120Z" fill="#fff"/></svg>';
 
 sub en_path {
