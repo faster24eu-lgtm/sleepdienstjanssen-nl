@@ -93,3 +93,13 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 
 ## 2026-11-06 – EN tiny polish / QA
 - Wave A/B follow-up: aria already English via build-en; JSON-LD City names are official Dutch toponyms (kept). No schema Dutch service labels. Broken-link scan: only `#` anchors (intentional).
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 (night) – EN leak scan clean; og:image sitewide
+- Full `src/pages-en` + built `/en/` scan: no leftover Dutch section labels (kept official toponyms/brand/slugs).
+- Added `og:image` (`/assets/icon-512.png`) via build.pl / build-en.pl + shell/home + hand-maintained hubs; 118 HTML pages now have it.
