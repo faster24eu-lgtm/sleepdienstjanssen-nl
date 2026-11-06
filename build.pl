@@ -128,9 +128,11 @@ sub page {
   $h =~ s{<meta property="og:title" content=".*?">}{<meta property="og:title" content="$t">};
   $h =~ s{<meta property="og:description" content=".*?">}{<meta property="og:description" content="$d">};
   $h =~ s{<meta property="og:url" content=".*?">}{<meta property="og:url" content="$u">};
-  my $ogi = qq(<meta property="og:image" content="$SITE/assets/icon-512.png">);
-  if ($h =~ /property="og:image"/) { $h =~ s{<meta property="og:image" content=".*?">}{$ogi}; }
-  else { $h =~ s{<meta property="og:url" content=".*?">}{$&\n$ogi}; }
+  my $ogi = qq(<meta property="og:image" content="$SITE/assets/og-janssen-1200x630.png">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:image" content="$SITE/assets/og-janssen-1200x630.png">);
+  $h =~ s{<meta property="og:image" content=".*?">\s*}{}g;
+  $h =~ s{<meta name="twitter:card" content=".*?">\s*}{}g;
+  $h =~ s{<meta name="twitter:image" content=".*?">\s*}{}g;
+  $h =~ s{<meta property="og:url" content=".*?">}{$&\n$ogi};
   my $ld = $a{schema};
   $h =~ s{<script type="application/ld\+json">.*?</script>}{<script type="application/ld+json">$ld</script>}s or die 'ld';
   my $crumb = esc($a{crumb});

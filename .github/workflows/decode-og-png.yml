@@ -1,0 +1,23 @@
+name: Decode OG PNG
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'assets/og-janssen-1200x630.png.b64'
+jobs:
+  decode:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decode PNG
+        run: base64 -d assets/og-janssen-1200x630.png.b64 > assets/og-janssen-1200x630.png
+      - name: Commit PNG if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/og-janssen-1200x630.png
+          git diff --cached --quiet && echo "no change" && exit 0
+          git commit -m "SEO: materialize og-janssen-1200x630.png from b64"
+          git push
