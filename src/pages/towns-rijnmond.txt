@@ -247,15 +247,15 @@ road: N15 en de Calandbrug richting Rozenburg
 road: A15 richting Botlekbrug en Rotterdam
 road: Verbindingen naar Maasvlakte en Maasvlakte 2
 road: Toegangswegen naar terminals en tankparken
-spots: Op de A15 en N15 rijden veel trucks dicht op elkaar. Ga meteen achter de vangrail staan. Op een terminal volgt u de aanwijzingen van de portier of de verkeersleiding.
+spots: Europoort = terminals en tankparken. Op de N15/A15 meteen achter de vangrail; op het terrein volgt u de verkeersleider of portier, niet zelf manoeuvreren tussen containers.
 area: Europoort, Rozenburg, Botlek, Maasvlakte, Pernis, Vondelingenplaat
 near: botlek-maasvlakte, pernis, spijkenisse
-localh: Terminals, tankparken en poorten
-local: Noem de terminal, het poortnummer en de contactpersoon. Zonder toestemming komt een sleepwagen het terrein niet op.
-local: Bij een geladen oplegger of ADR-lading wilt u eerst 112 bellen bij gevaar. Daarna belt u ons met kenteken, gewicht en storing.
-local: Personenauto's en bestelbussen laden we op een plateauwagen. Trucks gaan via een partner met zwaar materieel.
-pech: Starthulp of een bandenwissel lukt bij lichte voertuigen vaak ter plaatse. Bij trucks hangt het van de storing af: soms monteur, soms berging. Zeg wat het voertuig doet. Zie ook <a href="/vrachtwagen-pechhulp/">vrachtwagen pechhulp</a>.
-trans: We brengen uw auto of bus naar de garage die u kiest. Trucks gaan naar een truckdealer of stalling in de regio. De prijs spreken we vooraf af.
+localh: Terminals, Calandbrug en N15
+local: Bij pech op een terminal noemt u poortnummer, vak of loods én de contactpersoon van de beveiliging. Zonder toestemming rijdt niemand het terrein op.
+local: ADR of een zware oplegger: bel 112 bij lekkage of brand, daarna ons met kenteken, massa en wat er precies hapert.
+local: Lichte voertuigen gaan op ons plateau. Voor trekker-oplegger regelen we een zware berger via hetzelfde nummer.
+pech: Personenauto of bestelbus met lege accu naast de N15? Vaak starthulp naast de weg. Een stilstaande truck bij de Calandbrug vraagt ander materieel — zeg lengte en of de oplegger geladen is. Zie <a href="/vrachtwagen-pechhulp/">vrachtwagen pechhulp</a>.
+trans: Auto of bus naar een garage in Rozenburg, Spijkenisse of Rotterdam; trucks naar een stalling of dealer die u noemt. Prijs vooraf.
 faq: Helpen jullie ook vrachtwagens in Europoort? :: Ja, via partners met zwaar materieel. U belt hetzelfde nummer en hoort vooraf wie er komt.
 faq: Mag de sleepwagen het terrein op? :: Alleen met toestemming. Meld bij de portier dat er een sleepwagen of berger aankomt.
 faq: Wat kost pechhulp in Europoort? :: Dat hangt af van voertuig, afstand en tijdstip. U hoort de prijs voordat iemand vertrekt.
@@ -272,15 +272,15 @@ road: A4 door de Beneluxtunnel
 road: A15 richting Botlek en Europoort
 road: Verbindingen naar Hoogvliet en Rotterdam-Zuid
 road: Bedrijfswegen rond raffinaderij en haventerreinen
-spots: In en rond de Beneluxtunnel volgt u de tunnelinstructies. Op bedrijventerreinen is een straatnaam vaak niet genoeg: noem poort of bedrijfsnaam.
+spots: Pernis = raffinaderij + woonwijk. In de Beneluxtunnel volgt u de tunnelregie; in de wijk noemt u straat en huisnummer, op het bedrijfsterrein poort of bedrijfsnaam.
 area: Pernis, Hoogvliet, Botlek, Heijplaat, Rozenburg
 near: botlek-maasvlakte, europoort, rotterdam-zuid
-localh: Raffinaderij, bedrijven en A4
-local: Op afgesloten terreinen meldt u bij de portier dat er een sleepwagen komt. Deel anders uw locatie via WhatsApp.
-local: Voor vrachtwagens werken we met een partner. Noem kenteken, type en of de oplegger geladen is.
-local: In de woonwijken van Pernis gaat het vaker om een auto die niet start. Dan kijken we eerst of starthulp genoeg is.
-pech: Lege accu of lekke band? Dat lossen we vaak ter plaatse op. Geen abonnement nodig. U betaalt alleen deze rit. Voor trucks: zie ook <a href="/vrachtwagen-pechhulp/">vrachtwagen pechhulp</a>.
-trans: Naar garage, huis of schadebedrijf in Rotterdam of Hoogvliet: u noemt het adres en hoort de prijs vooraf.
+localh: Raffinaderij, woonwijk en Beneluxtunnel
+local: Stil bij de raffinaderij of een bedrijfspoort? Meld de sleepwagen bij de portier en deel een WhatsApp-pin; huisnummers helpen daar weinig.
+local: In de woonwijken van Pernis (tussen metro en dijk) gaat het meestal om een auto die niet start — eerst starthulp, anders plateau.
+local: Trucks richting Botlek: noem kenteken, asconfiguratie en of u vóór of ná de Beneluxtunnel staat.
+pech: Accu of band in de wijk lossen we ter plaatse, zonder abonnement. Een bedrijfsbus op het raffinaderijterrein vraagt vaak eerst toestemming van de poort. Trucks: <a href="/vrachtwagen-pechhulp/">vrachtwagen pechhulp</a>.
+trans: Korte rit naar Hoogvliet, Charlois of een garage in Rotterdam-Zuid; u noemt het adres en hoort de vaste prijs vooraf.
 faq: Doen jullie vrachtwagen pechhulp in Pernis? :: Ja, via een partner met zwaar materieel. U belt 0970 1022 9095 en hoort vooraf de afspraak. Zie <a href="/vrachtwagen-pechhulp/">vrachtwagen pechhulp</a>.
 faq: Komen jullie ook 's nachts bij de raffinaderij? :: Ja, 24/7. Zorg dat de poort weet dat er een wagen aankomt.
 faq: Wat kost een sleepdienst in Pernis? :: Afstand, voertuig en tijdstip bepalen de prijs. Die hoort u voordat we vertrekken.
