@@ -4,6 +4,7 @@ on:
     paths:
       - '.github/workflows/selfhost-poppins.yml'
       - 'assets/fonts/*.woff2.b64'
+      - '_build/selfhost_poppins_apply.py'
 jobs:
   apply:
     runs-on: ubuntu-latest
@@ -11,40 +12,21 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Decode fonts + swap HTML to local preloads
+      - name: Decode fonts and rewrite HTML
         run: |
-          set -e
+          set -euo pipefail
           mkdir -p assets/fonts
+          shopt -s nullglob
           for f in assets/fonts/*.woff2.b64; do
-            [ -f "$f" ] || continue
             out="${f%.b64}"
             base64 -d "$f" > "$out"
             echo "decoded $out ($(wc -c < "$out") bytes)"
           done
           rm -f assets/fonts/*.woff2.b64
-          python3 <<'PY'
-          from pathlib import Path
-          import re
-          NEW = '''  <link rel="preload" href="/assets/fonts/poppins-400-latin.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="/assets/fonts/poppins-800-latin.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="/assets/fonts/poppins-800i-latin.woff2" as="font" type="font/woff2" crossorigin>'''
-          pat=re.compile(
-            r'\s*<link rel="preconnect" href="https://fonts\.googleapis\.com">\s*'
-            r'<link rel="preconnect" href="https://fonts\.gstatic\.com" crossorigin>\s*'
-            r'<link href="https://fonts\.googleapis\.com/css2\?family=Poppins:[^"]+" rel="stylesheet">',
-            re.S)
-          n=0
-          for f in Path('.').rglob('*.html'):
-            t=f.read_text()
-            if 'fonts.googleapis.com' not in t: continue
-            nt,c=pat.subn(NEW, t, count=1)
-            if c:
-              f.write_text(nt); n+=1
-          print('html updated', n)
-          PY
+          python3 _build/selfhost_poppins_apply.py
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A assets/fonts/ '*.html' || true
+          git add -A assets/fonts/ || true
           git add -u
           if git diff --cached --quiet; then
             echo "no changes"
