@@ -113,3 +113,7 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 - Live: `https://www.{janssen,faster}` → **301** → apex; apex **200**; CNAME = apex; canonicals already apex. `http://` both hosts return **500** (GH Pages; DNS/CDN, not fixable in-repo).
 - og:image:width/height/alt + twitter:image:alt (Janssen 1200×630; Faster 1600×1200). AutomotiveBusiness +image (Janssen). Faster JSON-LD telephone normalized to E.164 `+3197010229095` (display phone unchanged).
 - Removed temporary `og-janssen-1200x630.png.b64` + decode Action; PNG remains in assets.
+
+## 2026-11-06 (night) – sitemap stubs out; werkgebied hub links
+- Removed noindex soft-redirect stubs `/diensten/`, `/contact/` (+ `/en/`) from sitemap.xml (pages kept for old URL redirects). Crawl: 122→118 indexable URLs; all sitemap URLs 200.
+- Werkgebied intro now links Rotterdam, Botlek/Maasvlakte, Europoort, vrachtwagenberging/pechhulp (hub ↔ high-value pages).
