@@ -1,0 +1,252 @@
+# English service pages for /en/
+
+@@service pechhulp
+crumb: Roadside assistance
+cardsub: No membership needed
+title: Roadside assistance without membership 24/7 | Janssen
+desc: Broken down and no membership? Call Janssen Towing: jump start, tyre change or tow. We agree the price up front. 24/7: 0970 1022 9095.
+h1: <span>Roadside assistance</span> without membership
+hero: Broken down and no ANWB membership or insurance cover? No problem. You call, you hear what it costs, and you only pay for this job. We help day and night in Rotterdam, the Drechtsteden, Brabant and Zeeland.
+side: Broken down?
+faqh: Questions about roadside assistance
+near: rotterdam, dordrecht, breda, tilburg, eindhoven, goes
+check: No membership needed
+check: Price agreed up front
+check: Jump start and tyre change
+check: If we cannot fix it, we tow
+html: <h2>Broken down? This is what we do</h2>
+html: <p>Most breakdowns are not a disaster, but they happen at the wrong moment. Call us, tell us what the car is doing and where you are. Together we choose the best option. Often we can fix it on the spot; sometimes the car has to come with us.</p>
+html: <ul class="checks"><li><span><a href="/en/starthulp/">Jump start</a> for a flat battery</span></li><li><span>Tyre change if you have a spare wheel</span></li><li><span>Advice for <a href="/en/verkeerd-getankt/">wrong fuel</a> and transport to a garage</span></li><li><span><a href="/en/takelwagen/">Towing</a> to the garage you choose if we cannot fix it here</span></li></ul>
+html: <h2>No ANWB or breakdown cover? No problem</h2>
+html: <p>You do not need to join anything. There is no annual fee and no waiting period. You only pay for this job, and you hear the price before anyone sets off. If it is too expensive, you do not have to agree.</p>
+html: <p>If you are insured, check your policy. Many car insurance policies and credit cards cover breakdown or towing. Keep the invoice so you can claim later.</p>
+html: <h2>What to have ready when you call</h2>
+html: <ul class="checks"><li><span><b>Your location.</b> On the motorway: road number, direction of travel and kilometre marker.</span></li><li><span><b>Your number plate</b> and make/model.</span></li><li><span><b>What the car is doing.</b> No response, starts but will not run, a strange smell, smoke or a warning light.</span></li><li><span><b>Where the car should go</b> if we cannot fix it on the spot.</span></li></ul>
+html: <h2>Waiting safely</h2>
+html: <p>Switch on your hazard lights and get the car as far from the carriageway as you can. On the motorway stand behind the guardrail. If there is immediate danger, call 112. More in our guide <a href="/en/pech-op-de-snelweg/">breakdown on the motorway</a>.</p>
+faq: What does roadside assistance without membership cost? :: It depends on the location, time of day and what is needed. You hear the price on the phone and we agree it before anyone sets off.
+faq: Do I have to become a member to get help? :: No. You only pay for this job. You are not locked into anything.
+faq: How quickly can you be there? :: It depends on where you are and how busy the roads are. On the phone you get an arrival estimate.
+faq: Do you also repair on the spot? :: Small issues such as a flat battery or tyre often yes. For bigger problems we take the car to a garage.
+
+@@service autoambulance
+crumb: Flatbed recovery
+cardsub: Transport on a flatbed
+title: Flatbed recovery 24/7 | Janssen
+desc: Flatbed recovery for a broken car: 24/7 transport on a flatbed to a garage or home. Price agreed up front. Call 0970 1022 9095.
+h1: Need a <span>flatbed</span>?
+hero: Is your car broken, has it been in a crash, or is it no longer allowed on the road? A flatbed takes it safely to your garage, home or body shop. We arrange that day and night.
+side: Call for a flatbed
+faqh: Questions about flatbed recovery
+near: rotterdam, schiedam, dordrecht, breda, eindhoven, middelburg
+check: Flatbed with winch
+check: All four wheels off the ground
+check: Also cars without MOT
+check: To any address
+html: <h2>What is flatbed recovery?</h2>
+html: <p>A flatbed (sometimes called a car ambulance) is a tow truck with a deck. The car is winched onto the deck and secured with all wheels off the ground. That way it can travel safely even if it cannot drive or steer.</p>
+html: <h2>When do you call a flatbed?</h2>
+html: <ul class="checks"><li><span>After <a href="/en/bergingsbedrijf/">an accident</a>, when the car is no longer safe to drive.</span></li><li><span>Engine damage, clutch problems or a gearbox that has failed.</span></li><li><span>When you need to move a car without MOT or insurance — it may not drive on the road.</span></li><li><span>For an <a href="/en/elektrische-auto-slepen/">electric car</a> that has stopped. It belongs on a flatbed.</span></li><li><span>For a classic or sports car you do not want to tow on a cable.</span></li></ul>
+html: <h2>Where to?</h2>
+html: <p>You choose the destination: your usual garage, your home, a dealer, a body shop or a scrapyard. If it is night and your garage is closed, we look together for the best option, such as a safe place until morning.</p>
+html: <h2>How it works</h2>
+html: <p>You call with the location, number plate and destination. You hear the price and roughly when we arrive. The driver loads your car, secures it and drives to the address you gave. If there is room in the cab, you can ride along — say how many people when you call.</p>
+html: <p>If space is tight (car park or narrow street), say so up front. Then we check whether a flatbed can get in, or whether the car must be moved a short way first.</p>
+faq: What does flatbed recovery cost? :: The price depends on distance, location and time. You hear it on the phone and we agree it before the truck leaves.
+faq: Can a car without MOT go on a flatbed? :: Yes. On a flatbed your car is not driving on the road, so it can travel without MOT.
+faq: Can I ride in the tow truck? :: Usually yes, if there is room in the cab. Say how many people when you call.
+faq: Can you load a car with locked wheels? :: Often yes, but tell us in advance. With the right tools the driver can still get it on the deck.
+
+@@service autotransport
+crumb: Car transport
+cardsub: Have a car collected
+title: Car transport / collection 24/7 | Janssen
+desc: Have a car collected and delivered? Car transport on a flatbed, also without MOT, with the price agreed up front. Call 0970 1022 9095.
+h1: <span>Car transport</span>: have a car collected
+hero: Bought a car elsewhere, need one taken to a garage or to a new address? We collect it and deliver it on a flatbed. You hear the price up front — including cars that no longer drive.
+side: Have a car moved
+faqh: Questions about car transport
+near: rotterdam, dordrecht, tilburg, breda, roosendaal, goes
+check: Private and business
+check: Also without MOT or plates
+check: Cross-border possible
+check: Price agreed per trip
+html: <h2>When do you have a car transported?</h2>
+html: <ul class="checks"><li><span><b>Collect a purchase.</b> You bought a car online or at a distant dealer. We collect it and drop it at your door.</span></li><li><span><b>To the garage.</b> The car may not or cannot drive and must go to your usual garage.</span></li><li><span><b>Moving house.</b> A second car must come along, or the car must go to another address.</span></li><li><span><b>To the scrapyard.</b> The car goes to an authorised dismantler.</span></li><li><span><b>Classic or sports car.</b> Do not drive it yourself — no extra miles and less risk on the way.</span></li></ul>
+html: <h2>What we like to know in advance</h2>
+html: <p>Give the collection and delivery addresses, make and model, and whether the car can roll. Also say whether there is a key and whether the wheels turn freely. The more we know, the sharper the price and the fewer surprises on the way.</p>
+faq: What does car transport cost? :: Distance, vehicle and whether it can roll determine the price. You hear it before we set off.
+faq: Can you also collect without MOT? :: Yes. On a flatbed the car is not driven on the road.
+faq: Do you transport across the border? :: Often yes. Say so when you call so we can calculate the trip up front.
+
+@@service bergingsbedrijf
+crumb: Recovery company
+cardsub: After an accident
+title: Recovery company 24/7 after an accident | Janssen
+desc: Need a recovery company after a crash? We clear and tow your car 24/7, with the price agreed up front. Call 0970 1022 9095.
+h1: <span>Recovery company</span> after an accident
+hero: After a collision you want the car off the road safely and to the body shop you choose. We arrange recovery and towing day and night. You hear the price before we start.
+side: Recovery after a crash
+faqh: Questions about recovery
+near: rotterdam, dordrecht, breda, tilburg, eindhoven, vlissingen
+check: After accidents and breakdowns
+check: Coordination with police if needed
+check: To the body shop you choose
+check: Price agreed up front
+html: <h2>After an accident</h2>
+html: <p>Make the scene safe, call 112 if anyone is hurt or the road is blocked, and fill in the European Accident Statement. Then call us. We recover the car and take it to the body shop, garage or address you name.</p>
+html: <h2>What we need from you</h2>
+html: <p>Location, number plate, whether the car can still roll, and the destination. If the police or Rijkswaterstaat are on scene, say so — we work with them.</p>
+faq: Who pays for recovery after an accident? :: Often your insurance. Keep our invoice. You still hear our price up front.
+faq: Can you recover from a ditch or field? :: Often yes. Tell us the situation so we bring the right equipment.
+faq: Do you also recover trucks? :: Yes, via a partner with heavy equipment. See <a href="/en/vrachtwagen-berging/">truck recovery</a>.
+
+@@service takelwagen
+crumb: Tow truck
+cardsub: Tow truck and recovery
+title: Need a tow truck? 24/7 | Janssen Towing
+desc: Need a tow truck for a broken car or van? Janssen Towing is available 24/7 with a flatbed. Price agreed up front. Call 0970 1022 9095.
+h1: Need a <span>tow truck</span>?
+hero: Looking for a tow truck near you? We come with a flatbed for cars and vans, day and night. You hear the price before the truck leaves — no membership required.
+side: Call a tow truck
+faqh: Questions about the tow truck
+near: rotterdam, barendrecht, schiedam, dordrecht, breda, goes
+check: Flatbed up to 3,500 kg
+check: Cars and vans
+check: 24/7 including weekends
+check: Price agreed up front
+html: <h2>Tow truck or roadside assistance?</h2>
+html: <p>Sometimes a jump start or tyre change is enough. If the car cannot drive safely, it goes on the flatbed. You do not need to know which in advance — tell us what is wrong and we choose the right approach.</p>
+html: <h2>What fits on our truck</h2>
+html: <p>Passenger cars, SUVs and vans (including long-wheelbase) up to 3,500 kg. Electric cars always go fully on the flatbed. For trucks see <a href="/en/vrachtwagen-pechhulp/">truck roadside assistance</a>.</p>
+faq: How much does a tow truck cost? :: Distance, vehicle and time of day. You hear the price before we leave.
+faq: Do you also come at night? :: Yes, 24/7 including weekends and public holidays.
+faq: Can you tow an electric car? :: Yes, always on a flatbed. See <a href="/en/elektrische-auto-slepen/">towing an electric car</a>.
+
+@@service starthulp
+crumb: Jump start
+cardsub: Flat battery
+title: Jump start: flat battery? We come to you | Janssen
+desc: Flat battery? Janssen jump-starts your car on the spot 24/7, or tows it if needed. Price agreed up front. Call 0970 1022 9095.
+h1: <span>Jump start</span> for a flat battery
+hero: Car will not start after a cold night or because the lights stayed on? We come with jump-start equipment. If the battery is finished, we can tow the car to a garage.
+side: Flat battery?
+faqh: Questions about jump starts
+near: rotterdam, capelle-aan-den-ijssel, dordrecht, breda, tilburg, middelburg
+check: On-site jump start
+check: Also in car parks
+check: Tow if it will not hold
+check: No membership needed
+html: <h2>When a jump start helps</h2>
+html: <p>If the lights are weak or you hear clicking when you turn the key, the 12 V battery is often empty. A jump start gets you going. If the car dies again quickly, the battery or charging system needs a garage.</p>
+html: <h2>Electric cars</h2>
+html: <p>The 12 V battery in an EV can also go flat (locks and electronics). We can jump-start that. If the high-voltage pack is empty, the car must go on a <a href="/en/elektrische-auto-slepen/">flatbed</a> to a charge point or dealer.</p>
+faq: What does a jump start cost? :: You hear the price on the phone before we set off.
+faq: What if the car will not keep running? :: Then more is wrong than an empty battery. We can tow it to your garage straight away.
+faq: Do I need a membership? :: No.
+
+@@service motor-vervoeren
+crumb: Motorcycle transport
+cardsub: Motorcycle transport
+title: Motorcycle transport 24/7 | Janssen Towing
+desc: Motorcycle broken down or need it moved? We transport motorcycles safely 24/7. Price agreed up front. Call 0970 1022 9095.
+h1: <span>Motorcycle</span> transport
+hero: Bike will not start, after a crash, or needs to go to a dealer? We transport motorcycles with the right straps on a suitable vehicle. Price agreed up front.
+side: Transport a motorcycle
+faqh: Questions about motorcycle transport
+near: rotterdam, dordrecht, breda, tilburg, eindhoven, goes
+check: Secure straps for bikes
+check: To dealer or home
+check: Also after an accident
+check: Price agreed up front
+html: <h2>How we move a motorcycle</h2>
+html: <p>A motorcycle needs different straps and care than a car. Tell us the make, whether it can roll, and the destination. We load it safely and take it where you want.</p>
+faq: What does motorcycle transport cost? :: Distance and situation. You hear the price before we leave.
+faq: Can you collect after a crash? :: Yes. Make the scene safe first; call 112 if needed.
+
+@@service vrachtwagen-berging
+crumb: Truck recovery
+cardsub: Trucks and buses
+title: Truck recovery 24/7 | Janssen Towing
+desc: Truck or bus recovery 24/7 in Rotterdam port and the region via heavy-equipment partners. Price agreed up front. Call 0970 1022 9095.
+h1: <span>Truck recovery</span>
+hero: Truck, trailer or bus stuck? We coordinate heavy recovery through partners. You call one number and hear who is coming and what was agreed.
+side: Truck recovery
+faqh: Questions about truck recovery
+near: botlek-maasvlakte, rotterdam, moerdijk, breda, dordrecht, spijkenisse
+check: Heavy recovery partners
+check: Port and motorway
+check: One phone number
+check: Price agreed up front
+html: <h2>Heavy recovery via partners</h2>
+html: <p>Janssen arranges truck recovery with specialised partners. You call us, give the location, number plate, weight and load type. We organise the right truck and you hear the arrangement before work starts.</p>
+html: <h2>Port and industrial sites</h2>
+html: <p>In Botlek, Europoort, Maasvlakte and Pernis, always arrange gate access. See also <a href="/en/vrachtwagen-pechhulp/">truck roadside assistance</a> and our harbour pages.</p>
+faq: Do you recover loaded trailers? :: Often yes — give weight and cargo type. Hazardous goods: call 112 first.
+faq: Can recovery enter a terminal? :: Only with permission. Inform the gatekeeper.
+
+@@service vrachtwagen-pechhulp
+crumb: Truck roadside assistance
+cardsub: Truck stuck? One number
+title: Truck roadside assistance 24/7 Botlek & port | Janssen
+desc: Truck roadside assistance in Botlek, Europoort, Maasvlakte and the region 24/7. One number, heavy partners, price agreed up front. Call 0970 1022 9095.
+h1: <span>Truck roadside assistance</span>
+hero: Truck broken down at a terminal, on the A15 or in the port? Call Janssen. We coordinate help and heavy recovery through partners — one number, clear price up front.
+side: Truck broken down?
+faqh: Questions about truck roadside assistance
+near: botlek-maasvlakte, europoort, pernis, rotterdam, moerdijk, spijkenisse
+check: Port and A15
+check: Partners with heavy gear
+check: One phone number
+check: Price agreed up front
+html: <h2>Trucks in the Rotterdam port</h2>
+html: <p>Botlek, Europoort, Maasvlakte and Pernis are tough places to break down: gates, terminals and heavy traffic. Call us with the terminal or gate, number plate and fault. We send the right help.</p>
+html: <h2>What to tell us</h2>
+html: <ul class="checks"><li><span>Exact location (terminal, gate, kilometre marker)</span></li><li><span>Number plate, truck type, loaded or empty</span></li><li><span>Hazardous goods? Call 112 first if there is danger</span></li><li><span>Whether the tractor can uncouple</span></li></ul>
+html: <h2>Related pages</h2>
+html: <p><a href="/en/sleepdienst-botlek-maasvlakte/">Towing Botlek &amp; Maasvlakte</a>, <a href="/en/sleepdienst-europoort/">Europoort</a>, <a href="/en/sleepdienst-pernis/">Pernis</a>, <a href="/en/vrachtwagen-berging/">truck recovery</a>.</p>
+faq: Do you help on the Maasvlakte? :: Yes, via heavy-recovery partners. Same phone number.
+faq: Is membership required? :: No. You pay per job with the price agreed up front.
+faq: How fast can you be there? :: We check the nearest available unit and give you an estimate on the phone.
+
+@@service wat-kost-een-sleepdienst
+crumb: What does a tow cost?
+cardsub: What the price depends on
+title: What does a tow cost? Price up front | Janssen
+desc: What does a tow cost at Janssen? You hear the fixed price before we leave: distance, vehicle and time. No surprises afterwards. Call 0970 1022 9095.
+h1: What does a <span>tow</span> cost?
+hero: You hear the price on the phone or WhatsApp before anyone sets off. Only when you agree does the truck roll. No membership, no surprise extras afterwards.
+side: Ask for the price
+faqh: Questions about towing prices
+near: rotterdam, dordrecht, breda, tilburg, eindhoven, goes
+check: Price before departure
+check: No membership
+check: Clear about surcharges
+check: You choose the destination
+html: <h2>What the price depends on</h2>
+html: <ul class="checks"><li><span><b>Distance</b> from breakdown to destination</span></li><li><span><b>Vehicle</b> — car, van, EV or truck</span></li><li><span><b>Situation</b> — car park, hard shoulder, soft ground</span></li><li><span><b>Time</b> — night, weekend or public holiday may differ; you hear that up front</span></li></ul>
+html: <h2>No membership</h2>
+html: <p>You pay per job. Compare that with annual breakdown cover if you rarely need help. More about calling without cover under <a href="/en/pechhulp/">roadside assistance</a>.</p>
+faq: Are there hidden costs? :: No. The price we agree is what you pay, unless you change the destination or the situation changes and we agree a new price first.
+faq: Do you give the price before arriving? :: Yes. That is how we work.
+
+@@service verkeerd-getankt
+crumb: Wrong fuel
+cardsub: Petrol in diesel or vice versa
+title: Wrong fuel? What to do now | Janssen Towing
+desc: Put petrol in a diesel or the other way round? Do not start the engine. We tow the car to a garage that can drain the tank. Call 0970 1022 9095.
+h1: <span>Wrong fuel</span>?
+hero: Realised too late that you grabbed the wrong nozzle? Do not start the engine. Call us — we take the car on a flatbed to a garage that can empty and flush the system.
+side: Wrong fuel in the tank
+faqh: Questions about wrong fuel
+near: rotterdam, barendrecht, dordrecht, breda, tilburg, goes
+check: Do not start the engine
+check: Flatbed to a specialist garage
+check: Price agreed up front
+check: 24/7
+html: <h2>Do this now</h2>
+html: <ol class="checks"><li><span>Do <b>not</b> start the engine.</span></li><li><span>If it is already running, switch it off as soon as it is safe.</span></li><li><span>Call us with your location and what you put in.</span></li><li><span>We tow to a garage that can drain the tank.</span></li></ol>
+html: <h2>Why you should not drive</h2>
+html: <p>Wrong fuel can damage the injection system and catalytic converter. Towing is almost always cheaper than repairing that damage.</p>
+faq: I already started the engine. Now what? :: Switch off if safe and call us. Tell the garage how far you drove.
+faq: What does towing after wrong fuel cost? :: You hear the price before we leave.

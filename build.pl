@@ -1,5 +1,6 @@
 #!/usr/bin/perl
 # Bouwt de uitbreiding van Sleepdienst Janssen: stadspagina's, dienstpagina's en /werkgebied/.
+# Daarna: Engelse /en/ mirror via build-en.pl (hreflang + sitemap NL+EN).
 #
 #   perl build.pl
 #
@@ -423,10 +424,8 @@ wr("sleepdienst-$_->{slug}/index.html", town_page($_)) for @TOWNS;
 wr("$_->{slug}/index.html", service_page($_)) for @SERVICES;
 wr('werkgebied/index.html', werkgebied());
 
-# ===== Sitemap =====
-my @urls = ('/', '/werkgebied/', (map { "/$_->{slug}/" } @SERVICES), (map { "/sleepdienst-$_/" } (qw(rotterdam dordrecht breda tilburg den-bosch gorinchem spijkenisse goes), map { $_->{slug} } @TOWNS)),
-  '/pech-op-de-snelweg/', '/elektrische-auto-slepen/', '/privacy/');
-wr('sitemap.xml', qq(<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n)
-  .join('', map { "  <url><loc>$SITE$_</loc><lastmod>$TODAY</lastmod></url>\n" } @urls)."</urlset>\n");
+printf "Gebouwd: %d nieuwe plaatsen, %d diensten, werkgebied.\n", scalar @TOWNS, scalar @SERVICES;
 
-printf "Gebouwd: %d nieuwe plaatsen, %d diensten, werkgebied. Sitemap: %d URL's\n", scalar @TOWNS, scalar @SERVICES, scalar @urls;
+# Engelse /en/ mirror, hreflang op NL, volledige sitemap (NL+EN)
+my $en = system($^X, "$ROOT/build-en.pl");
+die "build-en.pl mislukt\n" if $en != 0;

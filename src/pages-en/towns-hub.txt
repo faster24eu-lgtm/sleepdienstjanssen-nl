@@ -1,0 +1,160 @@
+# English pages for hub towns that are hand-maintained in NL HTML
+
+@@town rotterdam
+name: Rotterdam
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.48 51.92
+title: Towing Rotterdam 24/7 | roadside assistance | Janssen
+desc: Towing and roadside assistance in Rotterdam 24/7. Ring road, tunnels, port and city centre. Price agreed up front. Call 0970 1022 9095.
+intro: Rotterdam never sleeps: the ring, the tunnels, the port and dense city streets. If your car or van breaks down, Janssen Towing helps 24/7. You hear the price before anyone sets off — no membership required.
+spots: On the ring or in a tunnel follow the emergency instructions and call 112 if you are on a live lane. Share the kilometre marker or a clear landmark. In the port give the terminal or gate name.
+area: Centrum, Kralingen, Feijenoord, Charlois, IJsselmonde, Hillegersberg, Prins Alexander, Overschie, Delfshaven, Hoogvliet, Schiedam, Capelle aan den IJssel, Barendrecht, Ridderkerk
+near: rotterdam-zuid, schiedam, delfshaven, botlek-maasvlakte, europoort, pernis
+localh: City, tunnels and port
+pech: A flat battery or puncture is often fixed on the spot. If not, the car goes on the flatbed to the garage you choose.
+trans: We take your car to your garage, home or body shop. You name the address and hear the price up front.
+road: A15 towards the port and Botlek
+road: A16 / A20 ring roads
+road: Maastunnel and Benelux Tunnel
+road: City streets and harbour access roads
+local: We cover Rotterdam centre, South, Delfshaven and the harbour approaches.
+local: For trucks in Botlek, Europoort or Pernis see our dedicated harbour pages and truck roadside assistance.
+faq: Can you collect a car from the port? :: Yes. Name the terminal or gate and arrange access.
+faq: Do you tow without ANWB membership? :: Yes. You pay per job with the price agreed up front.
+
+@@town dordrecht
+name: Dordrecht
+prov: Zuid-Holland
+region: Drechtsteden
+geo: 4.67 51.81
+title: Towing Dordrecht 24/7 | Janssen
+desc: Towing Dordrecht 24/7. Roadside assistance and flatbed recovery, price agreed up front. Call 0970 1022 9095.
+intro: Broken down in Dordrecht or the Drechtsteden? We help 24/7 with roadside assistance and towing. Call and hear when we can be there and what it costs.
+spots: On the A16 stand behind the guardrail with the kilometre marker ready.
+area: Dordrecht, Zwijndrecht, Papendrecht, Sliedrecht
+near: zwijndrecht, papendrecht, rotterdam
+localh: Drechtsteden
+pech: Jump start and tyre changes often on the spot. No membership needed.
+trans: To your garage or home in the Drechtsteden — price agreed up front.
+road: A16
+road: N3
+road: City centre and industrial areas
+local: We also cover Zwijndrecht, Papendrecht and Sliedrecht.
+faq: Do you cover the Drechtsteden? :: Yes.
+
+@@town breda
+name: Breda
+prov: Noord-Brabant
+region: Brabant
+geo: 4.78 51.59
+title: Towing Breda 24/7 | Janssen
+desc: Towing Breda 24/7. Roadside assistance and car transport, price agreed up front. Call 0970 1022 9095.
+intro: Broken down in Breda? Janssen helps 24/7 across the city and the A16/A27/A58. Price agreed up front, no membership.
+spots: On the motorway give direction of travel and kilometre marker.
+area: Breda, Oosterhout, Etten-Leur
+near: oosterhout, etten-leur, tilburg, roosendaal
+localh: City and business parks
+pech: Often fixed on the spot for a flat battery or tyre.
+trans: To your garage or home — you hear the price first.
+road: A16
+road: A27
+road: A58
+local: We collect cars across Breda and nearby towns.
+faq: Do you also cover Oosterhout? :: Yes.
+
+@@town tilburg
+name: Tilburg
+prov: Noord-Brabant
+region: Brabant
+geo: 5.09 51.56
+title: Towing Tilburg 24/7 | Janssen
+desc: Towing Tilburg 24/7 on the A58/A65. Price agreed up front. Call 0970 1022 9095.
+intro: Broken down in Tilburg? We tow 24/7 across the city and the A58/A65. No membership, price agreed up front.
+spots: On the A58 give the interchange direction and kilometre marker.
+area: Tilburg, Goirle, Berkel-Enschot
+near: eindhoven, breda, waalwijk
+localh: Districts and industrial areas
+pech: Jump start and tyre change where safe.
+trans: To your garage in Tilburg or further — price first.
+road: A58
+road: A65
+local: We also cover Goirle and Berkel-Enschot.
+faq: Do you cover Goirle? :: Yes.
+
+@@town den-bosch
+name: 's-Hertogenbosch
+prov: Noord-Brabant
+region: Brabant
+geo: 5.30 51.70
+title: Towing 's-Hertogenbosch 24/7 | Janssen
+desc: Towing Den Bosch 24/7. Roadside assistance, price agreed up front. Call 0970 1022 9095.
+intro: Broken down in 's-Hertogenbosch? We help 24/7 on the A2/A59 and in the city. Price agreed up front.
+spots: On the A2 stand behind the guardrail.
+area: 's-Hertogenbosch, Vught, Rosmalen
+near: oss, tilburg, eindhoven
+localh: City and surroundings
+pech: Often fixed on the spot.
+trans: To your garage or home — price agreed up front.
+road: A2
+road: A59
+local: We also cover Rosmalen and Vught.
+faq: Do you cover Rosmalen? :: Yes.
+
+@@town gorinchem
+name: Gorinchem
+prov: Zuid-Holland
+region: Drechtsteden
+geo: 4.97 51.83
+title: Towing Gorinchem 24/7 | Janssen
+desc: Towing Gorinchem 24/7 on the A15/A27. Price agreed up front. Call 0970 1022 9095.
+intro: Broken down in Gorinchem? 24/7 towing and roadside assistance. Call for the price before we set off.
+spots: On the A15 give kilometre marker and direction.
+area: Gorinchem, Hardinxveld, Arkel
+near: dordrecht, leerdam, zaltbommel
+localh: River area
+pech: Jump start and tyre change where possible.
+trans: To your garage — price first.
+road: A15
+road: A27
+local: We cover the town and nearby villages.
+faq: Do you cover the A15? :: Yes.
+
+@@town spijkenisse
+name: Spijkenisse
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.33 51.85
+title: Towing Spijkenisse 24/7 | Janssen
+desc: Towing Spijkenisse 24/7. Roadside assistance Voorne-Putten, price agreed up front. Call 0970 1022 9095.
+intro: Broken down in Spijkenisse or on Voorne-Putten? We help 24/7. Price agreed up front, no membership.
+spots: Name the district or metro stop if the street is unclear.
+area: Spijkenisse, Hoogvliet, Hellevoetsluis
+near: hellevoetsluis, botlek-maasvlakte, rotterdam
+localh: Voorne-Putten
+pech: Often fixed on the spot.
+trans: To your garage — price agreed up front.
+road: A15
+road: N218
+road: Metro and harbour links
+local: We also cover Hellevoetsluis and Hoogvliet.
+faq: Do you cover Hellevoetsluis? :: Yes.
+
+@@town goes
+name: Goes
+prov: Zeeland
+region: Zeeland
+geo: 3.89 51.50
+title: Towing Goes 24/7 | Janssen
+desc: Towing Goes 24/7 in Zeeland. Price agreed up front. Call 0970 1022 9095.
+intro: Broken down in Goes or on Zuid-Beveland? We tow 24/7 across Zeeland. Price agreed up front.
+spots: On the A58 give kilometre marker and direction.
+area: Goes, Kapelle, Yerseke
+near: middelburg, vlissingen, zierikzee
+localh: Zuid-Beveland
+pech: Jump start and tyre change where safe.
+trans: To your garage in Zeeland — price first.
+road: A58
+road: N256
+local: We cover Goes and surrounding villages.
+faq: Do you cover Yerseke? :: Yes.
