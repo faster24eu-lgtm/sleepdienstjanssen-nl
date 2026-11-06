@@ -115,7 +115,7 @@ my $EN_HEADER = qq(<header class="navwrap" id="nav">
   <nav class="container">
     <a class="logo" href="/en/">
       <svg><use href="#i-logo"/></svg>
-      <span><b>janssen <em>towing</em></b><small>When you need us</small></span>
+      <span><b>janssen <em>towing</em></b></span>
     </a>
     <ul class="navlinks" id="navlinks">
       <li><a href="/en/#services">Services</a></li>
@@ -126,7 +126,7 @@ my $EN_HEADER = qq(<header class="navwrap" id="nav">
     </ul>
     <div class="navcta">
       LANGSWITCH
-      <a class="btn btn-yellow" href="tel:$TEL"><svg class="ico"><use href="#i-phone"/></svg>Call: $DISP</a>
+      <a class="btn btn-yellow" href="tel:$TEL"><svg class="ico"><use href="#i-phone"/></svg>Call now</a>
       <a class="btn btn-navy" href="#contact">Request help</a>
     </div>
     <button class="burger" id="burger" aria-label="Open menu" aria-expanded="false" aria-controls="navlinks">

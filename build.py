@@ -207,7 +207,7 @@ def page(*, title, desc, path, body, schema, crumbs=None):
   <nav class="container">
     <a class="logo" href="/">
       <svg><use href="#i-logo"/></svg>
-      <span><b>sleepdienst <em>janssen</em></b><small>Wanneer u ons nodig heeft</small></span>
+      <span><b>sleepdienst <em>janssen</em></b></span>
     </a>
     <ul class="navlinks" id="navlinks">
       <li><a href="/#diensten">Diensten</a></li>
@@ -217,7 +217,7 @@ def page(*, title, desc, path, body, schema, crumbs=None):
       <li><a href="#contact">Contact</a></li>
     </ul>
     <div class="navcta">
-      <a class="btn btn-yellow" href="tel:{PHONE_TEL}"><svg class="ico"><use href="#i-phone"/></svg>Bel: {PHONE_DISPLAY}</a>
+      <a class="btn btn-yellow" href="tel:{PHONE_TEL}"><svg class="ico"><use href="#i-phone"/></svg>Bel nu</a>
       <a class="btn btn-navy" href="#contact">Hulp aanvragen</a>
     </div>
     <button class="burger" id="burger" aria-label="Menu openen" aria-expanded="false" aria-controls="navlinks">
