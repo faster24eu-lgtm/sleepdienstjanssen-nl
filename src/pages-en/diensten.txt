@@ -27,7 +27,7 @@ html: <p>Switch on your hazard lights and get the car as far from the carriagewa
 faq: What does roadside assistance without membership cost? :: It depends on the location, time of day and what is needed. You hear the price on the phone and we agree it before anyone sets off.
 faq: Do I have to become a member to get help? :: No. You only pay for this job. You are not locked into anything.
 faq: How quickly can you be there? :: It depends on where you are and how busy the roads are. On the phone you get an arrival estimate.
-faq: Do you also repair on the spot? :: Small issues such as a flat battery or tyre often yes. For bigger problems we take the car to a garage.
+faq: Do you also repair on the spot? :: Often yes for small issues such as a flat battery or a flat tyre. For bigger problems we take the car to a garage.
 
 @@service autoambulance
 crumb: Flatbed recovery

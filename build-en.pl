@@ -299,7 +299,7 @@ my $DOES = sub {
   .qq(        <li><span><a href="/en/autotransport/">Car transport</a> to garage, home or scrapyard</span></li>\n)
   .qq(        <li><span><a href="/en/bergingsbedrijf/">Recovery</a> after an accident, also <a href="/en/vrachtwagen-pechhulp/">truck roadside assistance</a> and <a href="/en/vrachtwagen-berging/">truck recovery</a> via a partner</span></li>\n)
   .qq(        <li><span><a href="/en/elektrische-auto-slepen/">Electric car transport</a> on a flatbed</span></li>\n)
-  .qq(        <li><span><a href="/en/autoambulance/">Flatbed recovery</a> for cars that may not or cannot drive, and <a href="/en/motor-vervoeren/">motorcycle transport</a></span></li>\n)
+  .qq(        <li><span><a href="/en/autoambulance/">Flatbed recovery</a> for cars that cannot be driven or are not allowed on the road, and <a href="/en/motor-vervoeren/">motorcycle transport</a></span></li>\n)
   .qq(        <li><span>Help with <a href="/en/verkeerd-getankt/">wrong fuel</a>, and <a href="/en/wat-kost-een-sleepdienst/">what a tow costs</a></span></li>\n      </ul>);
 };
 
@@ -508,7 +508,7 @@ sub home_en {
   <div class="container hero-grid">
     <div>
       <h1>Towing &amp; roadside assistance <span>24/7</span></h1>
-      <p>Broken down in Rotterdam, the port, Brabant or Zeeland? $NAME tows cars and vans on a flatbed, helps on the spot when we can, and agrees the price before we leave. No membership. Tourists and expats: we work in English.</p>
+      <p>Broken down in Rotterdam, the port, Brabant or Zeeland? We tow cars and vans on a flatbed, help on the spot when we can, and agree the price before we leave. No membership. Tourists and expats: we work in English.</p>
       <div class="actions">
         <a class="btn btn-yellow" href="tel:$TEL"><svg class="ico"><use href="#i-phone"/></svg>Call $DISP</a>
         <a class="btn btn-navy" href="$WA?text=Hello%20Janssen%2C%20I%20need%20a%20tow.%20My%20location%3A%20">WhatsApp</a>
@@ -544,7 +544,7 @@ $EN_STEPS
     <h2 class="title center">Frequently asked <span class="hl">questions</span></h2>
     <div class="faq narrow">
       <details open><summary>Do I need an ANWB membership?</summary><p>No. You call us per job and hear the price before we set off.</p></details>
-      <details><summary>Do you speak English?</summary><p>Yes. Especially useful in Amsterdam and Rotterdam city centre for tourists and expats. Call or WhatsApp in English.</p></details>
+      <details><summary>Do you speak English?</summary><p>Yes. Tourists and expats can call or WhatsApp in English — handy in Rotterdam and the port.</p></details>
       <details><summary>Can you help with a truck in the port?</summary><p>Yes, via partners with heavy equipment. See <a href="/en/vrachtwagen-pechhulp/">truck roadside assistance</a> and our Botlek, Europoort and Pernis pages.</p></details>
       <details><summary>What does a tow cost?</summary><p>It depends on distance, vehicle and time. You always hear the price up front. More on <a href="/en/wat-kost-een-sleepdienst/">what a tow costs</a>.</p></details>
     </div>
