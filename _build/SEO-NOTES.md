@@ -185,3 +185,7 @@ Post-fix live check (same LH mobile simulate on `/`): fonts/googleapis+gstatic t
 
 ## 2026-11-06 (night) – self-host Poppins
 Removed Google Fonts (preconnect + stylesheet). Self-host latin `400/700/800/800i` under `/assets/fonts/` (~32KB total), `@font-face` in `style.css`, preload 400+800+800i. Eliminates fonts.googleapis.com/gstatic round-trips.
+Live after self-host (Lighthouse 13.6 mobile simulate, same night):
+- Janssen `/`: perf **99**, LCP **1.1s** (was 1.6s), CLS **0**, font transfer **33044 B** (was 50155 B)
+- Janssen `/en/`: perf **100**, LCP **0.8s** (was 1.7s), CLS **0**, font transfer **32890 B**
+Tip after Action: `c080d955`. Fonts live 200 OK (~7.8–8.7KB each). No Google Fonts requests.
