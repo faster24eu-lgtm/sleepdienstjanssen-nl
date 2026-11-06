@@ -7,7 +7,7 @@ region: Rijnmond
 geo: 4.50 51.88
 title: Towing Rotterdam-Zuid 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Rotterdam-Zuid 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Rotterdam-Zuid? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Rotterdam-Zuid and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Rotterdam-Zuid? We help 24/7 with roadside assistance and flatbed towing in and around Rotterdam-Zuid. You hear the price and when we can be there before we set off.
 spots: The Maastunnel is narrow with no hard shoulder. If you break down there, follow traffic-control instructions. On the A15 at Vaanplein it is often packed — stay behind the guardrail until we arrive.
 area: Charlois, Feijenoord, IJsselmonde, Katendrecht, Pendrecht, Lombardijen, Carnisse, Heijplaat, Pernis, Rhoon
 near: rotterdam, barendrecht, ridderkerk
@@ -33,7 +33,7 @@ region: Rijnmond
 geo: 4.40 51.92
 title: Towing Schiedam 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Schiedam 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Schiedam? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Schiedam and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Schiedam? We help 24/7 with roadside assistance and flatbed towing in and around Schiedam. You hear the price and when we can be there before we set off.
 spots: The Beneluxtunnel is one of the busiest in the country. Stuck inside? Stay with the car, switch the engine off and follow instructions. At Kethelplein there is little space — always wait behind the guardrail.
 area: Centrum, Nieuwland, Groenoord, Kethel, Woudhoek, Spaland, Oost, Sveaparken, Overschie, Pernis
 near: vlaardingen, rotterdam, maassluis
@@ -58,7 +58,7 @@ region: Rijnmond
 geo: 4.53 51.86
 title: Towing Barendrecht 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Barendrecht 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Barendrecht? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Barendrecht and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Barendrecht? We help 24/7 with roadside assistance and flatbed towing in and around Barendrecht. You hear the price and when we can be there before we set off.
 spots: In the Heinenoordtunnel and at Vaanplein there is little room to stop safely. Drive on to the next exit if you can, or stay belted in and call 112 if you are in danger.
 area: Carnisselande, Portland, Centrum, Smitshoek, Binnenland, Bijdorp, Rhoon, Heerjansdam, IJsselmonde, Ridderkerk
 near: rotterdam-zuid, ridderkerk, oud-beijerland
@@ -83,7 +83,7 @@ region: Rijnmond
 geo: 4.34 51.91
 title: Towing Vlaardingen 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Vlaardingen 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Vlaardingen? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Vlaardingen and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Vlaardingen? We help 24/7 with roadside assistance and flatbed towing in and around Vlaardingen. You hear the price and when we can be there before we set off.
 spots: On the A20 near Vlaardingen the hard shoulder is not wide everywhere and traffic is fast. Always wait behind the guardrail — do not walk along the live lane back to the exit.
 area: Centrum, Holy, Westwijk, Ambacht, Babberspolder, Broekpolder, Vettenoordse Polder, Vlaardinger-Ambacht, Maasland, Schipluiden
 near: schiedam, maassluis, botlek-maasvlakte
@@ -108,7 +108,7 @@ region: Rijnmond
 geo: 4.25 51.92
 title: Towing Maassluis 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Maassluis 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Maassluis? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Maassluis and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Maassluis? We help 24/7 with roadside assistance and flatbed towing in and around Maassluis. You hear the price and when we can be there before we set off.
 spots: On the road to Hoek van Holland many trucks hurry for the ferry. Put your car as far from the live lane as you can and stay clear of it. At the ferry terminal itself, report the breakdown to staff.
 area: Centrum, Sluispolder, Steendijkpolder, Kapelpolder, Koningshoek, Vlaardingen, Hoek van Holland, Maasland, De Lier, Rozenburg
 near: vlaardingen, schiedam, botlek-maasvlakte
@@ -133,7 +133,7 @@ region: Rijnmond
 geo: 4.58 51.93
 title: Towing Capelle aan den IJssel 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Capelle aan den IJssel 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Capelle aan den IJssel? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Capelle aan den IJssel and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Capelle aan den IJssel? We help 24/7 with roadside assistance and flatbed towing in and around Capelle aan den IJssel. You hear the price and when we can be there before we set off.
 spots: The Algerabrug has no hard shoulder and can open for shipping. If you break down, stay belted in with hazard lights on and call 112 if you are in danger.
 area: Schollevaar, Oostgaarde, Middelwatering, 's-Gravenland, Fascinatio, Rivium, Krimpen aan den IJssel, Nieuwerkerk aan den IJssel, Kralingen, Prins Alexander
 near: rotterdam, ridderkerk, rotterdam-zuid
@@ -158,7 +158,7 @@ region: Rijnmond
 geo: 4.60 51.87
 title: Towing Ridderkerk 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Ridderkerk 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Ridderkerk? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Ridderkerk and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Ridderkerk? We help 24/7 with roadside assistance and flatbed towing in and around Ridderkerk. You hear the price and when we can be there before we set off.
 spots: At junction Ridderkerk traffic changes lanes fast. Stopping there is dangerous — roll on to the next exit if you can. If not, get behind the guardrail as soon as possible and only then call us.
 area: Bolnes, Slikkerveer, Drievliet, Rijsoord, Oostendam, Donkersloot, Cornelisland, Alblasserdam, Barendrecht, IJsselmonde
 near: barendrecht, rotterdam-zuid, hendrik-ido-ambacht
@@ -183,7 +183,7 @@ region: Rijnmond
 geo: 4.13 51.83
 title: Towing Hellevoetsluis 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Hellevoetsluis 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Hellevoetsluis? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Hellevoetsluis and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Hellevoetsluis? We help 24/7 with roadside assistance and flatbed towing in and around Hellevoetsluis. You hear the price and when we can be there before we set off.
 spots: On the Haringvlietdam it blows hard with little shelter. In strong wind do not stand beside the car — use the verge on the safe side and switch on hazard lights. Call 112 if you are in danger.
 area: Vesting, Nieuw-Helvoet, Nieuwenhoorn, Kickersbloem, De Struyten, Ravense Hoek, Rockanje, Oudenhoorn, Zuidland, Stellendam
 near: spijkenisse, botlek-maasvlakte, oud-beijerland
@@ -208,7 +208,7 @@ region: Rijnmond
 geo: 4.41 51.82
 title: Towing Oud-Beijerland 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Oud-Beijerland 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Oud-Beijerland? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Oud-Beijerland and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Oud-Beijerland? We help 24/7 with roadside assistance and flatbed towing in and around Oud-Beijerland. You hear the price and when we can be there before we set off.
 spots: In the Heinenoordtunnel and on the Haringvliet Bridge stopping is dangerous. On many dyke roads the verge is narrow. Put the car as far aside as you can and do not stand in the roadway.
 area: Oud-Beijerland, Mijnsheerenland, Klaaswaal, Numansdorp, Strijen, Maasdam, Puttershoek, 's-Gravendeel, Zuid-Beijerland, Heinenoord
 near: barendrecht, dordrecht, spijkenisse

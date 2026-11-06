@@ -7,7 +7,7 @@ region: Drechtsteden
 geo: 4.63 51.82
 title: Towing Zwijndrecht 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Zwijndrecht 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Zwijndrecht? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Zwijndrecht and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Zwijndrecht? We help 24/7 with roadside assistance and flatbed towing in and around Zwijndrecht. You hear the price and when we can be there before we set off.
 spots: There is nowhere to stop in the Drechttunnel. If you break down, follow the tunnel instructions. On the Zwijndrecht bridge switch on hazard lights and call 112 if you are in danger. The bridge can also open for shipping — allow for that.
 area: Walburg, Kort Ambacht, Heer Oudelands Ambacht, Noord, Nederhoven, Lindtsedijk, Heerjansdam, Groote Lindt, Hendrik-Ido-Ambacht, Dordrecht
 near: dordrecht, hendrik-ido-ambacht, ridderkerk
@@ -32,7 +32,7 @@ region: Drechtsteden
 geo: 4.69 51.83
 title: Towing Papendrecht 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Papendrecht 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Papendrecht? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Papendrecht and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Papendrecht? We help 24/7 with roadside assistance and flatbed towing in and around Papendrecht. You hear the price and when we can be there before we set off.
 spots: The Papendrecht bridge has no hard shoulder. If you break down there, stay belted in, switch on hazard lights and call 112 if you are in danger. After that we can get the car off the bridge.
 area: Oostpolder, Westpolder, Molenvliet, Wilgendonk, Kraaihoek, Middelland, Oud-Alblas, Sliedrecht, Alblasserdam, Dordrecht
 near: sliedrecht, alblasserdam, dordrecht
@@ -57,7 +57,7 @@ region: Drechtsteden
 geo: 4.77 51.82
 title: Towing Sliedrecht 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Sliedrecht 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Sliedrecht? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Sliedrecht and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Sliedrecht? We help 24/7 with roadside assistance and flatbed towing in and around Sliedrecht. You hear the price and when we can be there before we set off.
 spots: The A15 near Sliedrecht is busy with freight towards Gorinchem and the Betuwe. If you break down, drive on to the exit if you can. On the Rivierdijk the road is narrow and cyclists and cars share little space.
 area: Sliedrecht-Oost, Sliedrecht-West, Baanhoek, Kerkbuurt, Hardinxveld-Giessendam, Papendrecht, Molenaarsgraaf, Wijngaarden, Giessenburg, Oud-Alblas
 near: papendrecht, gorinchem, dordrecht
@@ -82,7 +82,7 @@ region: Drechtsteden
 geo: 4.66 51.87
 title: Towing Alblasserdam 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Alblasserdam 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Alblasserdam? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Alblasserdam and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Alblasserdam? We help 24/7 with roadside assistance and flatbed towing in and around Alblasserdam. You hear the price and when we can be there before we set off.
 spots: The Noordtunnel is short but has nowhere to stop. Follow the instructions if you break down. On the narrow dyke at Kinderdijk turning is hard — say exactly where you are before the truck leaves.
 area: Centrum, Kinderdijk, Souburgh, Vinkenpolder, Blokweer, Nieuw-Lekkerland, Bleskensgraaf, Oud-Alblas, Papendrecht, Hendrik-Ido-Ambacht
 near: papendrecht, hendrik-ido-ambacht, ridderkerk
@@ -107,7 +107,7 @@ region: Drechtsteden
 geo: 4.64 51.84
 title: Towing Hendrik-Ido-Ambacht 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Hendrik-Ido-Ambacht 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Hendrik-Ido-Ambacht? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Hendrik-Ido-Ambacht and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Hendrik-Ido-Ambacht? We help 24/7 with roadside assistance and flatbed towing in and around Hendrik-Ido-Ambacht. You hear the price and when we can be there before we set off.
 spots: The bridge to Alblasserdam often opens for shipping and has no hard shoulder. If you break down there, switch on hazard lights and stay seated. On the A16 always stand behind the guardrail.
 area: De Volgerlanden, Centrum, Antoniapolder, Krommeweg, Sandeling, Heerjansdam, Rijsoord, Zwijndrecht, Ridderkerk, Alblasserdam
 near: zwijndrecht, ridderkerk, alblasserdam
@@ -132,7 +132,7 @@ region: Drechtsteden
 geo: 5.09 51.89
 title: Towing Leerdam 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Leerdam 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Leerdam? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Leerdam and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Leerdam? We help 24/7 with roadside assistance and flatbed towing in and around Leerdam. You hear the price and when we can be there before we set off.
 spots: The Lingedijk is scenic but narrow. Broken down there? Switch on hazard lights and do not stand in the roadway. Inside the fortress streets are tight — say exactly where the car is.
 area: Centrum, Leerdam-West, Schoonrewoerd, Kedichem, Oosterwijk, Hei- en Boeicop, Asperen, Heukelum, Arkel, Vianen
 near: gorinchem, zaltbommel, tiel
@@ -157,7 +157,7 @@ region: Rivierenland
 geo: 5.43 51.89
 title: Towing Tiel 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Tiel 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Tiel? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Tiel and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Tiel? We help 24/7 with roadside assistance and flatbed towing in and around Tiel. You hear the price and when we can be there before we set off.
 spots: On the A15 near Tiel there are many trucks. If you break down, switch on hazard lights and stand behind the guardrail at once. Trucks run close together here — stay well clear of the live lane.
 area: Binnenstad, Passewaay, Tiel-Oost, Tiel-West, Medel, Wadenoijen, Drumpt, Kapel-Avezaath, Ophemert, Kerk-Avezaath
 near: zaltbommel, gorinchem, leerdam
@@ -182,7 +182,7 @@ region: Rivierenland
 geo: 5.25 51.81
 title: Towing Zaltbommel 24/7 | roadside assistance | Janssen
 desc: Towing and roadside assistance in Zaltbommel 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
-intro: Broken down or in an accident in Zaltbommel? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Zaltbommel and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+intro: Need a tow in Zaltbommel? We help 24/7 with roadside assistance and flatbed towing in and around Zaltbommel. You hear the price and when we can be there before we set off.
 spots: On the Martinus Nijhoff Bridge traffic is heavy and stopping is dangerous. Try to roll past the bridge. If not, stay behind the guardrail and call 112 first if it is not safe.
 area: Binnenstad, Gameren, Nieuwaal, Bruchem, Kerkwijk, Delwijnen, Waardenburg, Hedel, Rossum, Ammerzoden
 near: den-bosch, tiel, gorinchem
