@@ -320,7 +320,7 @@ sub town_page_en {
   <div class="container hero-grid">
     <div>
       <h1>Towing <span>$n</span></h1>
-      <p>Broken down or in an accident in $n? $NAME helps you 24/7 with roadside assistance, towing and car transport in $n and the surrounding area. Call us and you hear straight away when we can be there and what it costs.</p>
+      <p>Car broken down in $n? We help 24/7 with roadside assistance and flatbed towing. You hear the price and when we can be there before we set off.</p>
       <div class="actions">
         <a class="btn btn-yellow" href="tel:$TEL"><svg class="ico"><use href="#i-phone"/></svg>Call now: $DISP</a>
         <a class="btn btn-navy" href="#contact">Request help</a>
