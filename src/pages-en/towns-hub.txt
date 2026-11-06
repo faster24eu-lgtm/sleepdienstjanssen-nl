@@ -33,7 +33,7 @@ desc: Towing Dordrecht 24/7. Roadside assistance and flatbed recovery, price agr
 intro: Broken down in Dordrecht or the Drechtsteden? We help 24/7 with roadside assistance and towing. Call and hear when we can be there and what it costs.
 spots: On the A16 stand behind the guardrail with the kilometre marker ready.
 area: Dordrecht, Zwijndrecht, Papendrecht, Sliedrecht
-near: zwijndrecht, papendrecht, rotterdam
+near: zwijndrecht, papendrecht, hendrik-ido-ambacht, sliedrecht, gorinchem, moerdijk
 localh: Drechtsteden
 pech: Jump start and tyre changes often on the spot. No membership needed.
 trans: To your garage or home in the Drechtsteden — price agreed up front.
@@ -53,7 +53,7 @@ desc: Towing Breda 24/7. Roadside assistance and car transport, price agreed up 
 intro: Broken down in Breda? Janssen helps 24/7 across the city and the A16/A27/A58. Price agreed up front, no membership.
 spots: On the motorway give direction of travel and kilometre marker.
 area: Breda, Oosterhout, Etten-Leur
-near: oosterhout, etten-leur, tilburg, roosendaal
+near: etten-leur, oosterhout, tilburg, roosendaal, moerdijk, dordrecht
 localh: City and business parks
 pech: Often fixed on the spot for a flat battery or tyre.
 trans: To your garage or home — you hear the price first.
@@ -73,7 +73,7 @@ desc: Towing Tilburg 24/7 on the A58/A65. Price agreed up front. Call 0970 1022 
 intro: Broken down in Tilburg? We tow 24/7 across the city and the A58/A65. No membership, price agreed up front.
 spots: On the A58 give the interchange direction and kilometre marker.
 area: Tilburg, Goirle, Berkel-Enschot
-near: eindhoven, breda, waalwijk
+near: waalwijk, oosterhout, breda, eindhoven, den-bosch, veldhoven
 localh: Districts and industrial areas
 pech: Jump start and tyre change where safe.
 trans: To your garage in Tilburg or further — price first.
@@ -92,7 +92,7 @@ desc: Towing Den Bosch 24/7. Roadside assistance, price agreed up front. Call 09
 intro: Broken down in 's-Hertogenbosch? We help 24/7 on the A2/A59 and in the city. Price agreed up front.
 spots: On the A2 stand behind the guardrail.
 area: 's-Hertogenbosch, Vught, Rosmalen
-near: oss, tilburg, eindhoven
+near: oss, zaltbommel, waalwijk, tilburg, gorinchem, veldhoven
 localh: City and surroundings
 pech: Often fixed on the spot.
 trans: To your garage or home — price agreed up front.
@@ -111,7 +111,7 @@ desc: Towing Gorinchem 24/7 on the A15/A27. Price agreed up front. Call 0970 102
 intro: Broken down in Gorinchem? 24/7 towing and roadside assistance. Call for the price before we set off.
 spots: On the A15 give kilometre marker and direction.
 area: Gorinchem, Hardinxveld, Arkel
-near: dordrecht, leerdam, zaltbommel
+near: leerdam, sliedrecht, dordrecht, zaltbommel, tiel, den-bosch
 localh: River area
 pech: Jump start and tyre change where possible.
 trans: To your garage — price first.
@@ -130,7 +130,7 @@ desc: Towing Spijkenisse 24/7. Roadside assistance Voorne-Putten, price agreed u
 intro: Broken down in Spijkenisse or on Voorne-Putten? We help 24/7. Price agreed up front, no membership.
 spots: Name the district or metro stop if the street is unclear.
 area: Spijkenisse, Hoogvliet, Hellevoetsluis
-near: hellevoetsluis, botlek-maasvlakte, rotterdam
+near: botlek-maasvlakte, hellevoetsluis, rotterdam-zuid, rotterdam, vlaardingen, oud-beijerland
 localh: Voorne-Putten
 pech: Often fixed on the spot.
 trans: To your garage — price agreed up front.
@@ -150,7 +150,7 @@ desc: Towing Goes 24/7 in Zeeland. Price agreed up front. Call 0970 1022 9095.
 intro: Broken down in Goes or on Zuid-Beveland? We tow 24/7 across Zeeland. Price agreed up front.
 spots: On the A58 give kilometre marker and direction.
 area: Goes, Kapelle, Yerseke
-near: middelburg, vlissingen, zierikzee
+near: middelburg, vlissingen, zierikzee, terneuzen, bergen-op-zoom, breda
 localh: Zuid-Beveland
 pech: Jump start and tyre change where safe.
 trans: To your garage in Zeeland — price first.
