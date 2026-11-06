@@ -155,3 +155,15 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 ## 2026-11-06 (night) – near-list areaServed hubs; EN home parity
 - `build-en.pl` `home_en` areaServed = all %PLACE names (43), matching NL.
 - City AutomotiveBusiness areaServed = self + real `near` city pages (not neighbourhoods). EXTRA hubs (Rotterdam, Dordrecht, Breda, Tilburg, Den Bosch, Gorinchem, Spijkenisse, Goes) patched the same way; town pages via `near_city_names`.
+
+## 2026-11-06 (night) – MORNING 08:00 DIGEST (mention these)
+Facts only from shipped work tonight — no invented GSC numbers:
+- **EN mirror `/en/`** live (home, services, towns/hubs, guides, privacy, werkgebied); hreflang nl↔en + x-default; NL|EN switcher.
+- **Sitemap 118** indexable URLs (stubs `/diensten/` + `/contact/` removed from sitemap; pages kept as soft redirects).
+- **www → apex 301** OK; CNAME apex; canonicals apex.
+- **OG card** `/assets/og-janssen-1200x630.png` sitewide + twitter:image; width/height/alt.
+- **areaServed**: NL+EN home = **43** real city-page names; hub near-lists (Rotterdam, Dordrecht, Breda, Tilburg, Den Bosch, Gorinchem, Spijkenisse, Goes) = self + real near cities (NL EXTRA + EN `towns-hub.txt` aligned). `build-en.pl` home uses all `%PLACE` so EN won’t drift on rebuild.
+- **Custom 404** (NL + `en/404.html`).
+- **Uniqueness / EN QA**: Dutch leaks cleaned in EN sources; Europoort FAQ ↔ truck pechhulp; no mass new towns this late wave.
+- **Hero LCP**: CSS/SVG truck art — no photo preload (skipped).
+- Re-check CTR/indexing for new EN URLs + haven landings in GSC after ~2–3 weeks.
