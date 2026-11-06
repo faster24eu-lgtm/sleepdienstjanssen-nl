@@ -52,3 +52,32 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 - hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
 - Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
 - Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 – EN QA polish
+- Translated leftover Dutch `spots`/`local`/`road` on EN town sources (Rijnmond/Drecht/Brabant/Zeeland).
+- Europoort FAQ (NL+EN) now links to `/vrachtwagen-pechhulp/` / `/en/vrachtwagen-pechhulp/`.
+- Live QA: home, Rotterdam, Botlek, truck pechhulp, Europoort/Pernis/Delfshaven, pechhulp, EV — phone/WhatsApp OK; robots.txt → sitemap with EN URLs.
