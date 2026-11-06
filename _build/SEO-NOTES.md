@@ -90,3 +90,6 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 
 ## 2026-11-06 – EN live + tonight's QA
 - EN mirror live under `/en/` (61 pages); Wave A: translated Dutch `localh` headings; lang=en, og:locale en_GB, hreflang OK; no body Dutch leaks; Europoort FAQ ↔ truck pechhulp.
+
+## 2026-11-06 – EN tiny polish / QA
+- Wave A/B follow-up: aria already English via build-en; JSON-LD City names are official Dutch toponyms (kept). No schema Dutch service labels. Broken-link scan: only `#` anchors (intentional).
