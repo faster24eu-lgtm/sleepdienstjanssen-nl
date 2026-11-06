@@ -216,3 +216,6 @@ SERP skews to **trailer/workshop B2B** (Botlek Trailer Service, TIP Group 24h / 
 
 ### Query: “sleepdienst zonder abonnement”
 Results emphasize pay-per-use framing: Spoedsleepdienst, Sleepdienst Roermond, AKCA, **sleepdienstfaster.nl** (observed among listed results), NH Sleepdienst. Shared copy patterns: geen lidmaatschap, prijs vooraf, 24/7, ±30 min, WhatsApp/bel CTA. Gap: keep dedicated “zonder abonnement” intent in titles/FAQ already shipped — don’t spawn duplicate URLs; reinforce vs ANWB-style membership mental model in existing copy only if editing later.
+
+## 2026-11-06 (night) – truck FAQ: trekker/oplegger vs bestelbus
+Added FAQ on `/vrachtwagen-pechhulp/` + `/en/vrachtwagen-pechhulp/` and Botlek pages (already truck-focused): clarifies personenauto/bestelbus (~3.5 t, own flatbed) vs trekker/oplegger/zware truck (partner + same phone, arrangement up front). No new prices/capabilities. Sources: `src/pages/diensten.txt`, `towns-rijnmond.txt` + EN mirrors; HTML+FAQPage schema patched.
