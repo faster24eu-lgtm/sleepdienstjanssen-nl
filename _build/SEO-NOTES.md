@@ -34,3 +34,21 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 - hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
 - Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
 - Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
+
+## 2026-11-06 – English site /en/
+- Full English mirror under `/en/` (home, services, all towns/hubs, motorway + EV guides, privacy, werkgebied).
+- hreflang nl-NL ↔ en + x-default; NL|EN switcher in header/footer.
+- Content: `src/pages-en/`; build: `perl build-en.pl` (after `perl build.pl`).
+- Phone/WhatsApp unchanged: 0970 1022 9095.
