@@ -210,6 +210,8 @@ faq: Kunnen jullie ook na een ongeval op de N217 komen? :: Ja, zodra de hulpdien
 
 @@town botlek-maasvlakte
 name: Botlek en Maasvlakte
+title: Sleepdienst Botlek & Maasvlakte | vrachtwagen pechhulp
+desc: Vrachtwagen pechhulp of sleepdienst in Botlek, Europoort en Maasvlakte 24/7. Prijs vooraf via partner met zwaar materieel. Bel 0970 1022 9095.
 prov: Zuid-Holland
 region: Rijnmond
 geo: 4.20 51.90
@@ -221,7 +223,7 @@ road: N57 en de Hartelbrug richting Brielle
 road: N15 richting Europoort en de Maasvlakte
 spots: Op de A15 door het havengebied rijden vooral vrachtwagens. Wacht dus nooit op de vluchtstrook, maar achter de vangrail. Op de Botlekbrug en in de Botlektunnel volgt u de aanwijzingen van de verkeerscentrale.
 area: Botlek, Europoort, Maasvlakte, Maasvlakte 2, Pernis, Rozenburg, Hoogvliet, Vondelingenplaat, Oostvoorne, Spijkenisse
-near: spijkenisse, rotterdam, vlaardingen
+near: europoort, pernis, spijkenisse, rotterdam
 localh: Vrachtwagen stil bij de terminal of op een haventerrein
 local: Op terminals en terreinen kom je niet zomaar binnen. Noem daarom de naam van de terminal, de poort en de contactpersoon. Meld bij de portier dat er een sleepwagen komt. Dat scheelt wachten bij de slagboom.
 local: Bij een truck met oplegger willen we vooraf weten of de oplegger geladen is, of er gevaarlijke stoffen in zitten en of de trekker nog kan loskoppelen. Bij gevaarlijke lading belt u altijd eerst 112. Met die gegevens kiest de partner de juiste berger.
@@ -231,3 +233,79 @@ trans: Een auto of bestelbus brengen we naar de garage die u kiest. Trucks en op
 faq: Doen jullie ook vrachtwagen pechhulp op de Maasvlakte? :: Ja, via partners met zwaar materieel. U belt hetzelfde nummer, noemt de terminal of poort, het kenteken en de storing, en u hoort wie er komt en wat de afspraak is.
 faq: Mijn oplegger is geladen. Kan die ook mee? :: Dat hangt af van het gewicht en de lading. Geef het gewicht en het soort lading door. Gaat het om gevaarlijke stoffen, bel dan eerst 112.
 faq: Mag een sleepwagen zomaar het haventerrein op? :: Nee, daar is toestemming voor nodig. Meld bij de portier of de beheerder dat er een sleepwagen komt, dan kan de wagen meteen door.
+
+# Extra landings op Search Console-queries: Europoort, Pernis, Delfshaven
+@@town europoort
+name: Europoort
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.15 51.94
+title: Sleepdienst Europoort 24/7 | pechhulp haven | Janssen
+desc: Sleepdienst en pechhulp in Europoort 24/7. Auto, bestelbus of vrachtwagen stil bij terminal of A15? Prijs vooraf. Bel 0970 1022 9095.
+intro: Europoort is het westelijke havengebied tussen Rozenburg en de Maasvlakte, met terminals, tankopslag en veel vrachtverkeer. Valt uw auto, bestelbus of truck stil bij een poort, op de N15 of langs de A15? Bel ons. Voor zwaar materieel zetten we een partner in.
+road: N15 en de Calandbrug richting Rozenburg
+road: A15 richting Botlekbrug en Rotterdam
+road: Verbindingen naar Maasvlakte en Maasvlakte 2
+road: Toegangswegen naar terminals en tankparken
+spots: Op de A15 en N15 rijden veel trucks dicht op elkaar. Ga meteen achter de vangrail staan. Op een terminal volgt u de aanwijzingen van de portier of de verkeersleiding.
+area: Europoort, Rozenburg, Botlek, Maasvlakte, Pernis, Vondelingenplaat
+near: botlek-maasvlakte, pernis, spijkenisse
+localh: Terminals, tankparken en poorten
+local: Noem de terminal, het poortnummer en de contactpersoon. Zonder toestemming komt een sleepwagen het terrein niet op.
+local: Bij een geladen oplegger of ADR-lading wilt u eerst 112 bellen bij gevaar. Daarna belt u ons met kenteken, gewicht en storing.
+local: Personenauto's en bestelbussen laden we op een plateauwagen. Trucks gaan via een partner met zwaar materieel.
+pech: Starthulp of een bandenwissel lukt bij lichte voertuigen vaak ter plaatse. Bij trucks hangt het van de storing af: soms monteur, soms berging. Zeg wat het voertuig doet.
+trans: We brengen uw auto of bus naar de garage die u kiest. Trucks gaan naar een truckdealer of stalling in de regio. De prijs spreken we vooraf af.
+faq: Helpen jullie ook vrachtwagens in Europoort? :: Ja, via partners met zwaar materieel. U belt hetzelfde nummer en hoort vooraf wie er komt.
+faq: Mag de sleepwagen het terrein op? :: Alleen met toestemming. Meld bij de portier dat er een sleepwagen of berger aankomt.
+faq: Wat kost pechhulp in Europoort? :: Dat hangt af van voertuig, afstand en tijdstip. U hoort de prijs voordat iemand vertrekt.
+
+@@town pernis
+name: Pernis
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.38 51.88
+title: Sleepdienst Pernis 24/7 | pechhulp haven | Janssen
+desc: Sleepdienst Pernis 24/7: pechhulp voor auto, bestelbus en vrachtwagen bij raffinaderij en A4/A15. Prijs vooraf. Bel 0970 1022 9095.
+intro: Pernis ligt tussen de Beneluxtunnel, de A4 en het havengebied. Hier rijden forenzen, bedrijfsbussen en trucks van en naar de raffinaderij en de Botlek. Valt u stil bij een bedrijfspoort, in de wijk of op de snelweg? Wij komen 24/7.
+road: A4 door de Beneluxtunnel
+road: A15 richting Botlek en Europoort
+road: Verbindingen naar Hoogvliet en Rotterdam-Zuid
+road: Bedrijfswegen rond raffinaderij en haventerreinen
+spots: In en rond de Beneluxtunnel volgt u de tunnelinstructies. Op bedrijventerreinen is een straatnaam vaak niet genoeg: noem poort of bedrijfsnaam.
+area: Pernis, Hoogvliet, Botlek, Heijplaat, Rozenburg
+near: botlek-maasvlakte, europoort, rotterdam-zuid
+localh: Raffinaderij, bedrijven en A4
+local: Op afgesloten terreinen meldt u bij de portier dat er een sleepwagen komt. Deel anders uw locatie via WhatsApp.
+local: Voor vrachtwagens werken we met een partner. Noem kenteken, type en of de oplegger geladen is.
+local: In de woonwijken van Pernis gaat het vaker om een auto die niet start. Dan kijken we eerst of starthulp genoeg is.
+pech: Lege accu of lekke band? Dat lossen we vaak ter plaatse op. Geen abonnement nodig. U betaalt alleen deze rit.
+trans: Naar garage, huis of schadebedrijf in Rotterdam of Hoogvliet: u noemt het adres en hoort de prijs vooraf.
+faq: Doen jullie vrachtwagen pechhulp in Pernis? :: Ja, via een partner met zwaar materieel. U belt 0970 1022 9095 en hoort vooraf de afspraak.
+faq: Komen jullie ook 's nachts bij de raffinaderij? :: Ja, 24/7. Zorg dat de poort weet dat er een wagen aankomt.
+faq: Wat kost een sleepdienst in Pernis? :: Afstand, voertuig en tijdstip bepalen de prijs. Die hoort u voordat we vertrekken.
+
+@@town delfshaven
+name: Delfshaven
+prov: Zuid-Holland
+region: Rijnmond
+geo: 4.45 51.91
+title: Sleepdienst Delfshaven 24/7 | Rotterdam-West | Janssen
+desc: Sleepdienst Delfshaven 24/7: pechhulp en auto slepen in Delfshaven, Middelland en Oud-Mathenesse. Prijs vooraf. Bel 0970 1022 9095.
+intro: Delfshaven is Rotterdam-West: smalle straten, kades en drukke toegangswegen naar het centrum en Schiedam. Staat uw auto stil aan de Nieuwe Binnenweg, bij de Coolhaven of in een parkeergarage? Bel ons. We komen 24/7 en u hoort de prijs vooraf.
+road: A20 richting Kethelplein en Centrum
+road: Mathenesserlaan en Nieuwe Binnenweg
+road: Coolhaven en Westzeedijk
+road: Verbindingen naar Schiedam en Rotterdam Centrum
+spots: In smalle straten en onder lage bruggen past niet elke plateauwagen. Zeg waar de auto staat. In een garage moet de auto vaak eerst naar buiten.
+area: Delfshaven, Middelland, Oud-Mathenesse, Spangen, Bospolder, Tussendijken, Nieuwe Westen
+near: rotterdam, schiedam, rotterdam-zuid
+localh: Kades, garages en smalle straten
+local: Historische kades en paaltjes maken laden lastiger. Noem de straat en of er ruimte is voor een sleepwagen.
+local: Ondergrondse garages: vraag de beheerder of de auto naar de uitgang mag. Wij laden hem daarna op.
+local: Voor bedrijfsbussen bij panden aan de Coolhaven geeft u bedrijfsnaam en huisnummer door.
+pech: Accu leeg of band lek? Vaak ter plaatse opgelost. Geen pechhulp-abonnement nodig.
+trans: We brengen de auto naar uw garage in Rotterdam-West, Schiedam of elders. Prijs vooraf afgesproken.
+faq: Kunnen jullie een auto uit een smalle straat in Delfshaven halen? :: Meestal wel. Zeg hoe smal het is. Soms moet de auto eerst een stukje worden verplaatst.
+faq: Helpen jullie ook zonder ANWB-lidmaatschap? :: Ja. U belt ons rechtstreeks en betaalt per keer, met prijs vooraf.
+faq: Wat kost slepen in Delfshaven? :: Hangt af van afstand en voertuig. U hoort het bedrag voordat de wagen rijdt.

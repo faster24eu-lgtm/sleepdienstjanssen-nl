@@ -144,7 +144,8 @@ sub map_for {
 
 # Plaatsnamen in "Wij helpen ook in" worden een link als die plaats een eigen pagina heeft.
 my %CHIP = (map({ esc($PLACE{$_}{name}) => $_ } keys %PLACE),
-  Botlek => 'botlek-maasvlakte', Maasvlakte => 'botlek-maasvlakte',
+  Botlek => 'botlek-maasvlakte', Maasvlakte => 'botlek-maasvlakte', Europoort => 'europoort',
+  Pernis => 'pernis', Delfshaven => 'delfshaven',
   Charlois => 'rotterdam-zuid', Feijenoord => 'rotterdam-zuid', IJsselmonde => 'rotterdam-zuid');
 sub link_chips {
   my ($html, $self) = @_;
@@ -159,7 +160,7 @@ my $DOES = sub {
   .qq(        <li><span><a href="/takelwagen/">Auto slepen</a> na pech of een ongeval</span></li>\n)
   .qq(        <li><span><a href="/pechhulp/">Pechhulp</a> ter plaatse: <a href="/starthulp/">starthulp</a>, lege accu, band wisselen</span></li>\n)
   .qq(        <li><span><a href="/autotransport/">Autotransport</a> naar garage, huis of demontagebedrijf</span></li>\n)
-  .qq(        <li><span><a href="/bergingsbedrijf/">Berging</a> na een ongeval, ook van <a href="/vrachtwagen-berging/">vrachtwagens</a> via een partner</span></li>\n)
+  .qq(        <li><span><a href="/bergingsbedrijf/">Berging</a> na een ongeval, ook <a href="/vrachtwagen-pechhulp/">vrachtwagen pechhulp</a> en <a href="/vrachtwagen-berging/">berging</a> via een partner</span></li>\n)
   .qq(        <li><span><a href="/elektrische-auto-slepen/">Transport van elektrische auto&#x27;s</a> op een plateauwagen</span></li>\n)
   .qq(        <li><span><a href="/autoambulance/">Autoambulance</a> voor auto&#x27;s die niet meer mogen of kunnen rijden, en <a href="/motor-vervoeren/">motoren vervoeren</a></span></li>\n)
   .qq(        <li><span>Hulp bij <a href="/verkeerd-getankt/">verkeerd getankt</a>, en uitleg over <a href="/wat-kost-een-sleepdienst/">wat een sleepdienst kost</a></span></li>\n      </ul>);
@@ -248,9 +249,9 @@ H
   my $schema = '{"@context": "https://schema.org", "@graph": ['
     .$BIZ->($raw, split /, /, $c->{area}).', {"@type": "Service", "name": '.js("Sleepdienst $raw").', "serviceType": "Sleepdienst en pechhulp", "provider": {"@id": '.js("$SITE/#business").'}, "areaServed": {"@type": "City", "name": '.js($raw).'}}, '
     .faq_ld(@faqs).', '.crumb_ld("Sleepdienst $raw", $path).']}';
-  my $title = "Sleepdienst $raw 24/7 | Takeldienst en pechhulp | Janssen";
-  $title = "Sleepdienst $raw 24/7 | Pechhulp | Janssen" if length($title) > 65;
-  my $desc  = "Sleepdienst $raw 24/7: pechhulp, takeldienst, berging en autotransport. De prijs spreken we vooraf af. Bel $DISP.";
+  my $title = $c->{title} // "Sleepdienst $raw 24/7 | Takeldienst en pechhulp | Janssen";
+  $title = "Sleepdienst $raw 24/7 | Pechhulp | Janssen" if !defined $c->{title} && length($title) > 65;
+  my $desc  = $c->{desc} // "Sleepdienst $raw 24/7: pechhulp, takeldienst, berging en autotransport. De prijs spreken we vooraf af. Bel $DISP.";
   page(title => $title, desc => $desc, path => $path, body => $body, schema => $schema, crumb => "Sleepdienst $raw");
 }
 

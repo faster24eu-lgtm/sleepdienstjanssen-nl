@@ -211,13 +211,13 @@ h1: <span>Vrachtwagen</span> berging en pechhulp
 hero: Een truck, oplegger of bus die stilvalt, kost tijd en geld. U belt één nummer. Wij zetten een partner met een zware berger in en u hoort vooraf wie er komt en wat de afspraak is. Dag en nacht, van de Maasvlakte tot Zeeland en Brabant.
 side: Truck stil?
 faqh: Vragen over vrachtwagen berging
-near: botlek-maasvlakte, rotterdam, moerdijk, waalwijk, roosendaal, oosterhout
+near: botlek-maasvlakte, europoort, pernis, rotterdam, moerdijk, waalwijk
 check: Een nummer, 24/7
 check: Zware berging via partners
 check: Haven, terminal en snelweg
 check: Afspraak vooraf
 html: <h2>Wij werken met partners voor zwaar werk</h2>
-html: <p>Voor vrachtwagens, opleggers, bussen en andere voertuigen vanaf 3,5 ton zetten we gespecialiseerde partners in. Zij hebben het materieel en de ervaring. U hoeft maar één keer te bellen en u heeft één aanspreekpunt.</p>
+html: <p>Voor vrachtwagens, opleggers, bussen en andere voertuigen vanaf 3,5 ton zetten we gespecialiseerde partners in. Zij hebben het materieel en de ervaring. U hoeft maar één keer te bellen en u heeft één aanspreekpunt. Zoekt u eerst pechhulp ter plaatse? Zie <a href="/vrachtwagen-pechhulp/">vrachtwagen pechhulp</a>.</p>
 html: <h2>Waar we vaak gebeld worden</h2>
 html: <p><strong>Haven en Rijnmond.</strong> Op de A15, in de <a href="/sleepdienst-botlek-maasvlakte/">Botlek, Europoort en op de Maasvlakte</a>, in Pernis en <a href="/sleepdienst-schiedam/">Schiedam</a>.</p>
 html: <p><strong>Brabant.</strong> Op <a href="/sleepdienst-waalwijk/">Haven Waalwijk</a>, Weststad bij <a href="/sleepdienst-oosterhout/">Oosterhout</a>, op <a href="/sleepdienst-moerdijk/">Moerdijk</a> en bij Borchwerf in <a href="/sleepdienst-roosendaal/">Roosendaal</a>.</p>
@@ -230,6 +230,36 @@ faq: Helpen jullie ook 's nachts bij een truck op de snelweg? :: Ja. We zijn 24/
 faq: Hebben jullie zelf zware bergers? :: Nee. Daarvoor werken we samen met gespecialiseerde partners, die we dag en nacht kunnen inzetten. U hoort vooraf wie er komt.
 faq: Komen jullie ook naar de Maasvlakte? :: Ja. Noem de terminal, de poort en de contactpersoon, en meld bij de portier dat er een berger komt.
 faq: Wat kost het bergen van een vrachtwagen? :: Dat hangt sterk af van het voertuig, de lading, de plek en het tijdstip. U hoort het vooraf zo goed mogelijk. Vraag ook uw verzekeraar of de berging is gedekt.
+
+# GSC: vrachtwagen pechhulp Botlek / Maasvlakte / Pernis
+@@service vrachtwagen-pechhulp
+crumb: Vrachtwagen pechhulp
+cardsub: Truck stil? Eén nummer
+title: Vrachtwagen pechhulp 24/7 Botlek & haven | Janssen
+desc: Vrachtwagen pechhulp in Botlek, Maasvlakte, Europoort en Pernis. 24/7 via partner met zwaar materieel. Prijs vooraf. Bel 0970 1022 9095.
+h1: <span>Vrachtwagen pechhulp</span> 24/7
+hero: Truck, trekker of bus stil in de haven of op de A15? U belt één nummer. Wij zetten een partner met pechhulp of zware berging in. U hoort vooraf wie er komt en wat de afspraak is — ook 's nachts.
+side: Truck pech?
+faqh: Vragen over vrachtwagen pechhulp
+near: botlek-maasvlakte, europoort, pernis, rotterdam, moerdijk, waalwijk
+check: Eén nummer, 24/7
+check: Botlek, Maasvlakte, Europoort, Pernis
+check: Pechhulp of berging via partners
+check: Afspraak en prijs vooraf
+html: <h2>Pechhulp voor trucks, niet alleen berging</h2>
+html: <p>Soms hoeft een stilgevallen vrachtwagen niet meteen weggesleept te worden. Een monteur of pechhulp ter plaatse kan genoeg zijn. Lukt dat niet, dan schakelen we berging in. U belt <strong>0970 1022 9095</strong> en houdt één aanspreekpunt.</p>
+html: <h2>Waar we dit vaak doen</h2>
+html: <p><strong><a href="/sleepdienst-botlek-maasvlakte/">Botlek en Maasvlakte</a>.</strong> Terminals, A15, Botlekbrug en Maasvlakteweg.</p>
+html: <p><strong><a href="/sleepdienst-europoort/">Europoort</a> en <a href="/sleepdienst-pernis/">Pernis</a>.</strong> Raffinaderij, tankparken en bedrijfspoorten.</p>
+html: <p><strong>Snelwegen.</strong> A15, A16, A4/Beneluxtunnel en verder richting Brabant en Zeeland.</p>
+html: <h2>Wat u doorgeeft</h2>
+html: <ul class="checks"><li><span><b>Locatie.</b> Hectometerpaaltje en rijrichting, of terminal + poort + contactpersoon.</span></li><li><span><b>Voertuig.</b> Kenteken, type, met/zonder oplegger, geschat gewicht.</span></li><li><span><b>Storing.</b> Start niet, luchtlek, remmen, elektronica — hoe meer detail, hoe sneller de juiste hulp.</span></li><li><span><b>Lading.</b> Leeg of geladen? Bij gevaarlijke stoffen eerst 112.</span></li></ul>
+html: <h2>Verschil met vrachtwagen berging</h2>
+html: <p>Pechhulp probeert u weer rijdend te krijgen of veilig te stellen. Is berging nodig, dan leest u meer op <a href="/vrachtwagen-berging/">vrachtwagen berging</a>. Beide lopen via hetzelfde nummer.</p>
+faq: Helpen jullie vrachtwagen pechhulp op de Maasvlakte? :: Ja. Noem terminal, poort, kenteken en storing. Wij zetten de juiste partner in.
+faq: Is dit hetzelfde als berging? :: Niet altijd. Eerst kijken we of pechhulp ter plaatse kan. Anders volgt berging.
+faq: Heb ik een apart abonnement nodig? :: Nee. U belt ons, hoort de prijs of afspraak, en betaalt per inzet.
+faq: Komen jullie ook in Pernis en Europoort? :: Ja. Meld bij de portier dat er hulp aankomt, zodat de slagboom openstaat.
 
 # auto wegslepen kosten 320, sleepdienst kosten 110
 @@service wat-kost-een-sleepdienst

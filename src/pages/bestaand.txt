@@ -2,8 +2,8 @@
 
 @@extra rotterdam
 pech: Op een gewone dag gaat het in Rotterdam vaker om een lege accu aan de Westersingel of een lekke band op de Boezemlaan dan om een echte sleep. Dat lukt meestal ter plaatse. Bent u geen lid van een pechhulpdienst, dan betaalt u alleen deze ene keer.
-trans: Auto of bestelbus naar de garage, naar huis of naar een demontagebedrijf? Noem het adres, dan spreken we de prijs af. Zoekt u een bergingsbedrijf na een aanrijding op de ring, dan brengen we uw auto naar het schadebedrijf dat u kiest. Op <a href="/sleepdienst-rotterdam-zuid/">Rotterdam-Zuid</a> en in de <a href="/sleepdienst-botlek-maasvlakte/">Botlek en op de Maasvlakte</a> rijden we ook.
-near: rotterdam-zuid, schiedam, barendrecht, capelle-aan-den-ijssel, botlek-maasvlakte, spijkenisse
+trans: Auto of bestelbus naar de garage, naar huis of naar een demontagebedrijf? Noem het adres, dan spreken we de prijs af. Zoekt u een bergingsbedrijf na een aanrijding op de ring, dan brengen we uw auto naar het schadebedrijf dat u kiest. Op <a href="/sleepdienst-rotterdam-zuid/">Rotterdam-Zuid</a>, in <a href="/sleepdienst-delfshaven/">Delfshaven</a> en in de <a href="/sleepdienst-botlek-maasvlakte/">Botlek</a>, <a href="/sleepdienst-europoort/">Europoort</a> en <a href="/sleepdienst-pernis/">Pernis</a> rijden we ook. Voor trucks: <a href="/vrachtwagen-pechhulp/">vrachtwagen pechhulp</a>.
+near: rotterdam-zuid, schiedam, delfshaven, botlek-maasvlakte, europoort, pernis
 
 @@extra dordrecht
 pech: In wijken als Sterrenburg, Krispijn en Dubbeldam gaat het vaak om een auto die niet start. Met starthulp of een bandenwissel bent u meestal zo weer op weg. U hoeft nergens lid van te zijn en u hoort vooraf wat het kost.
