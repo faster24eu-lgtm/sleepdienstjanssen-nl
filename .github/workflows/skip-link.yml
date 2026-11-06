@@ -1,0 +1,24 @@
+name: skip-link
+on:
+  push:
+    paths:
+      - '.github/workflows/skip-link.yml'
+      - '_build/skip_link_apply.py'
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Add skip links
+        run: |
+          set -euo pipefail
+          python3 _build/skip_link_apply.py
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -u
+          if git diff --cached --quiet; then echo "no changes"; else
+            git commit -m "a11y: skip link Ga naar inhoud / Skip to content → #content"
+            git push
+          fi
