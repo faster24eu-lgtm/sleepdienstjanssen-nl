@@ -14,3 +14,7 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 - Botlek near: + Delfshaven; pech copy links `/vrachtwagen-pechhulp/`.
 - Europoort pech copy links `/vrachtwagen-pechhulp/`.
 - Home/Rotterdam already linked Europoort/Pernis/Delfshaven + vrachtwagen-pechhulp (prior).
+
+## 2026-11-06 (night) – Pernis pech → vrachtwagen-pechhulp
+- `/sleepdienst-pernis/` pech copy now links `/vrachtwagen-pechhulp/` (same treatment as Botlek/Europoort).
+- Orphan check: home + footer still link Europoort/Pernis/Delfshaven + vrachtwagen-pechhulp (HTTP 200).
