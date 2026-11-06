@@ -1,0 +1,101 @@
+# English town content — generated for /en/ pages. Edit here; run perl build.pl
+
+@@town middelburg
+name: Middelburg
+prov: Zeeland
+region: Zeeland
+geo: 3.61 51.50
+title: Towing Middelburg 24/7 | roadside assistance | Janssen
+desc: Towing and roadside assistance in Middelburg 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
+intro: Broken down or in an accident in Middelburg? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Middelburg and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+spots: De bruggen over het Kanaal door Walcheren staan vaak open voor schepen. Staat u er stil door pech, dan blijft u zitten met de alarmlichten aan, want er is weinig ruimte. Op de A58 gaat u altijd achter de vangrail staan.
+area: Binnenstad, Dauwendaele, Griffioen, Stromenwijk, Arnemuiden, Nieuw- en Sint Joosland, Veere, Koudekerke, Oostkapelle, Domburg
+near: vlissingen, goes, zierikzee
+localh: Binnenstad, Arnestein en de kust
+pech: A flat battery or flat tyre in Middelburg can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
+trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
+road: A58 towards Goes en Bergen op Zoom
+road: N57 towards Veere en het Veerse Meer
+road: De provinciale weg towards Domburg and the kust
+road: Kanaal door Walcheren with the bruggen bij Middelburg
+local: In multi-storey car parks tell us the level — a flatbed may not fit under a low ceiling.
+local: On business parks around Middelburg, give the company name and street so we find you faster.
+local: Op de campings en parkeerterreinen bij Domburg en Oostkapelle staan in de zomer veel auto's en caravans met een buitenlands kenteken. Bel ons gerust, ook met een buitenlands kenteken.
+faq: How quickly can you be in Middelburg? :: We check which truck is closest. On the phone you get an arrival estimate for Middelburg, depending on your exact location and traffic.
+faq: What does a tow in Middelburg cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
+faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
+
+@@town vlissingen
+name: Vlissingen
+prov: Zeeland
+region: Zeeland
+geo: 3.57 51.45
+title: Towing Vlissingen 24/7 | roadside assistance | Janssen
+desc: Towing and roadside assistance in Vlissingen 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
+intro: Broken down or in an accident in Vlissingen? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Vlissingen and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+spots: De Sloeweg richting de Westerscheldetunnel heeft weinig plek om te stoppen. Staat u in de tunnel zelf stil, volg dan de aanwijzingen van de tunnelbeheerder en bel 112. Bij harde wind op de Boulevard houdt u ook rekening met opspattend water.
+area: Oud-Vlissingen, Lammerenburg, Paauwenburg, Bossenburg, Groot Lammerenburg, Oost-Souburg, West-Souburg, Ritthem, Biggekerke, Zoutelande
+near: middelburg, goes, terneuzen
+localh: Boulevard, Scheldepoort en Vlissingen-Oost
+pech: A flat battery or flat tyre in Vlissingen can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
+trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
+road: A58 towards Middelburg en Goes
+road: Sloeweg towards Vlissingen-Oost and the Westerscheldetunnel
+road: Boulevards langs de Westerschelde
+road: Kanaalstraat and the wegen door de stad
+local: Op de Boulevard Evertsen en de Boulevard De Ruyter is het in de zomer lastig parkeren, en de straten erachter zijn smal. Noem bij het bellen de straat en het huisnummer, of de strandopgang als u daar staat.
+local: On closed sites tell the gatekeeper that a tow truck is coming. Otherwise share your location via WhatsApp.
+local: In Oost-Souburg en West-Souburg gaat het meestal om een gewone woonstraat. Daar kunnen we goed bij uw auto komen en is het vaak snel opgelost.
+faq: How quickly can you be in Vlissingen? :: We check which truck is closest. On the phone you get an arrival estimate for Vlissingen, depending on your exact location and traffic.
+faq: What does a tow in Vlissingen cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
+faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
+
+@@town terneuzen
+name: Terneuzen
+prov: Zeeland
+region: Zeeland
+geo: 3.83 51.33
+title: Towing Terneuzen 24/7 | roadside assistance | Janssen
+desc: Towing and roadside assistance in Terneuzen 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
+intro: Broken down or in an accident in Terneuzen? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Terneuzen and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+spots: In de Westerscheldetunnel en de Sluiskiltunnel stopt u alleen in nood. Volg de aanwijzingen van de tunnel en bel bij gevaar 112. Bij een brug of sluis op het kanaal kunt u soms lang wachten: zet de motor dan uit en blijf in de auto.
+area: Oud-Terneuzen, Zuiderkwartier, Sluiskil, Hoek, Axel, Biervliet, Philippine, Sas van Gent, Zaamslag, Westdorpe
+near: vlissingen, goes, middelburg
+localh: Dow, Valuepark en het Kanaal Gent-Terneuzen
+pech: A flat battery or flat tyre in Terneuzen can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
+trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
+road: N62 towards de Westerscheldetunnel en Goes
+road: N62 and the Sluiskiltunnel towards Sluiskil en Sas van Gent
+road: N61 towards Schoondijke en Breskens
+road: N258 towards Axel en Hulst
+local: On closed sites tell the gatekeeper that a tow truck is coming. Otherwise share your location via WhatsApp.
+local: Over de grens bij Zelzate en Gent rijdt veel woon-werkverkeer. Moet uw auto naar huis in België? Dat kan. We noemen vooraf de prijs voor de hele rit.
+local: In multi-storey car parks tell us the level — a flatbed may not fit under a low ceiling.
+faq: How quickly can you be in Terneuzen? :: We check which truck is closest. On the phone you get an arrival estimate for Terneuzen, depending on your exact location and traffic.
+faq: What does a tow in Terneuzen cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
+faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
+
+@@town zierikzee
+name: Zierikzee
+prov: Zeeland
+region: Zeeland
+geo: 3.92 51.65
+title: Towing Zierikzee 24/7 | roadside assistance | Janssen
+desc: Towing and roadside assistance in Zierikzee 24/7. Price agreed up front, no membership. Call 0970 1022 9095.
+intro: Broken down or in an accident in Zierikzee? Janssen Towing helps you 24/7 with roadside assistance, towing and car transport in Zierikzee and the surrounding area. Call us and you will hear straight away when we can be there and what it costs.
+spots: Op de Zeelandbrug en de Oosterscheldekering waait het hard. Valt u daar stil, blijf dan in de auto zitten met de alarmlichten aan en bel 112 als u op de rijbaan staat. Stap niet uit aan de kant van het verkeer.
+area: Binnenstad, Malta, Noordgouwe, Ouwerkerk, Nieuwerkerk, Bruinisse, Renesse, Burgh-Haamstede, Scharendijke, Dreischor
+near: goes, middelburg, hellevoetsluis
+localh: Binnenstad, stranden en de dorpen
+pech: A flat battery or flat tyre in Zierikzee can often be fixed on the spot. No membership needed — you only pay for this job. If we cannot fix it here, the vehicle goes on the flatbed.
+trans: We take your car or van to the garage, home or body shop you choose. You hear the price for the whole trip before we set off.
+road: N256 with the Zeelandbrug towards Goes
+road: N59 towards Bruinisse and the Grevelingendam
+road: N59 towards Renesse and the Brouwersdam
+road: N57 over de Oosterscheldekering towards Walcheren
+local: De binnenstad van Zierikzee met het Havenpark, de Oude Haven en de Sint Lievensmonstertoren is krap en autoluw. Noem bij het bellen de straat, zodat we vooraf weten hoe we uw auto bereiken.
+local: Bij Renesse en Burgh-Haamstede staan in de zomer lange rijen auto's op de parkeerplaatsen bij de strandopgangen. Noem de strandopgang en het nummer van het parkeervak. Zo weet de wagen meteen waar hij moet zijn.
+local: Bij Bruinisse en aan de Grevelingen zijn veel jachthavens en vakantieparken. Staat er een boottrailer of caravan achter uw auto? Noem dat vooraf.
+faq: How quickly can you be in Zierikzee? :: We check which truck is closest. On the phone you get an arrival estimate for Zierikzee, depending on your exact location and traffic.
+faq: What does a tow in Zierikzee cost? :: It depends on distance, vehicle and time of day. You hear the price on the phone and we agree it before anyone sets off.
+faq: Do I need an ANWB membership? :: No. You call us per job and pay only when you need us.
