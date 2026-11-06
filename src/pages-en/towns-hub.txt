@@ -30,7 +30,7 @@ region: Drechtsteden
 geo: 4.67 51.81
 title: Towing Dordrecht 24/7 | Janssen
 desc: Towing Dordrecht 24/7. Roadside assistance and flatbed recovery, price agreed up front. Call 0970 1022 9095.
-intro: Broken down in Dordrecht or the Drechtsteden? We help 24/7 with roadside assistance and towing. Call and hear when we can be there and what it costs.
+intro: Dordrecht and the Drechtsteden sit on the A16 corridor toward Rotterdam. If you break down in town, on the N3 or near the bridges, we help 24/7 with roadside assistance or a flatbed — price agreed before we leave.
 spots: On the A16 stand behind the guardrail with the kilometre marker ready.
 area: Dordrecht, Zwijndrecht, Papendrecht, Sliedrecht
 near: zwijndrecht, papendrecht, hendrik-ido-ambacht, sliedrecht, gorinchem, moerdijk
@@ -50,7 +50,7 @@ region: Brabant
 geo: 4.78 51.59
 title: Towing Breda 24/7 | Janssen
 desc: Towing Breda 24/7. Roadside assistance and car transport, price agreed up front. Call 0970 1022 9095.
-intro: Broken down in Breda? Janssen helps 24/7 across the city and the A16/A27/A58. Price agreed up front, no membership.
+intro: Breda sits where the A16, A27 and A58 meet. Breakdown in the city, at a business park or on the ring? We help 24/7 with roadside assistance or flatbed towing — no membership, price agreed up front.
 spots: On the motorway give direction of travel and kilometre marker.
 area: Breda, Oosterhout, Etten-Leur
 near: etten-leur, oosterhout, tilburg, roosendaal, moerdijk, dordrecht
