@@ -70,7 +70,7 @@ region: Brabant
 geo: 5.09 51.56
 title: Towing Tilburg 24/7 | Janssen
 desc: Towing Tilburg 24/7 on the A58/A65. Price agreed up front. Call 0970 1022 9095.
-intro: Broken down in Tilburg? We tow 24/7 across the city and the A58/A65. No membership, price agreed up front.
+intro: Tilburg sits on the A58/A65 between Breda and Eindhoven. Breakdown in town or on the ring? We help 24/7 with roadside assistance or a flatbed — price agreed before we leave.
 spots: On the A58 give the interchange direction and kilometre marker.
 area: Tilburg, Goirle, Berkel-Enschot
 near: waalwijk, oosterhout, breda, eindhoven, den-bosch, veldhoven
@@ -89,7 +89,7 @@ region: Brabant
 geo: 5.30 51.70
 title: Towing 's-Hertogenbosch 24/7 | Janssen
 desc: Towing Den Bosch 24/7. Roadside assistance, price agreed up front. Call 0970 1022 9095.
-intro: Broken down in 's-Hertogenbosch? We help 24/7 on the A2/A59 and in the city. Price agreed up front.
+intro: 's-Hertogenbosch sits on the A2/A59. Stuck in the city, at Paleiskwartier or on the motorway? We help 24/7 — roadside help or flatbed, price agreed up front.
 spots: On the A2 stand behind the guardrail.
 area: 's-Hertogenbosch, Vught, Rosmalen
 near: oss, zaltbommel, waalwijk, tilburg, gorinchem, veldhoven
@@ -108,7 +108,7 @@ region: Drechtsteden
 geo: 4.97 51.83
 title: Towing Gorinchem 24/7 | Janssen
 desc: Towing Gorinchem 24/7 on the A15/A27. Price agreed up front. Call 0970 1022 9095.
-intro: Broken down in Gorinchem? 24/7 towing and roadside assistance. Call for the price before we set off.
+intro: Gorinchem sits where the A15 and A27 meet the Merwede. Breakdown in town or on the motorway? Call us 24/7 — you hear the price before we set off.
 spots: On the A15 give kilometre marker and direction.
 area: Gorinchem, Hardinxveld, Arkel
 near: leerdam, sliedrecht, dordrecht, zaltbommel, tiel, den-bosch
@@ -127,7 +127,7 @@ region: Rijnmond
 geo: 4.33 51.85
 title: Towing Spijkenisse 24/7 | Janssen
 desc: Towing Spijkenisse 24/7. Roadside assistance Voorne-Putten, price agreed up front. Call 0970 1022 9095.
-intro: Broken down in Spijkenisse or on Voorne-Putten? We help 24/7. Price agreed up front, no membership.
+intro: Spijkenisse and Voorne-Putten sit south of the port, close to the A15 and Hartelbrug. We help 24/7 with roadside assistance or a flatbed — no membership, price agreed up front.
 spots: Name the district or metro stop if the street is unclear.
 area: Spijkenisse, Hoogvliet, Hellevoetsluis
 near: botlek-maasvlakte, hellevoetsluis, rotterdam-zuid, rotterdam, vlaardingen, oud-beijerland
@@ -147,7 +147,7 @@ region: Zeeland
 geo: 3.89 51.50
 title: Towing Goes 24/7 | Janssen
 desc: Towing Goes 24/7 in Zeeland. Price agreed up front. Call 0970 1022 9095.
-intro: Broken down in Goes or on Zuid-Beveland? We tow 24/7 across Zeeland. Price agreed up front.
+intro: Goes is the hub of Zuid-Beveland on the A58. Breakdown in town or elsewhere on the peninsula? We tow 24/7 across Zeeland — price agreed up front.
 spots: On the A58 give kilometre marker and direction.
 area: Goes, Kapelle, Yerseke
 near: middelburg, vlissingen, zierikzee, terneuzen, bergen-op-zoom, breda
