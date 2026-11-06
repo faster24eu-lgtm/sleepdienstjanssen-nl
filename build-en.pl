@@ -98,6 +98,9 @@ $FOOT_SVC .= '<li><a href="/en/pech-op-de-snelweg/">Breakdown on the motorway</a
 # Shell from Dordrecht template, then rewrite chrome to EN
 my $TPL = rd("$ROOT/sleepdienst-dordrecht/index.html");
 my ($HEAD_TPL, $BODY_TOP) = $TPL =~ m{^(.*?</head>\n)(.*?)<nav class="crumbs}s or die 'shell top';
+$HEAD_TPL =~ s{<link rel="alternate" hreflang="[^"]+" href="[^"]+">\s*}{}g;
+$HEAD_TPL =~ s{<div class="lang"[^>]*>.*?</div>\s*}{}g;
+
 my ($FOOT_HTML) = $TPL =~ m{(</main>.*)$}s or die 'shell foot';
 my ($ICONS) = $BODY_TOP =~ m{(<svg width="0".*?</svg>)}s;
 
@@ -245,7 +248,8 @@ sub page_en {
   $h =~ s{<meta property="og:description" content=".*?">}{<meta property="og:description" content="$d">};
   $h =~ s{<meta property="og:url" content=".*?">}{<meta property="og:url" content="$u">};
   $h =~ s{<meta property="og:locale" content=".*?">}{<meta property="og:locale" content="en_GB">};
-  # insert hreflang before </head>
+  # insert hreflang before </head> (strip any leftover from template)
+  $h =~ s{<link rel="alternate" hreflang="[^"]+" href="[^"]+">\s*}{}g;
   my $hl = hreflang_tags($nl_path);
   $h =~ s{</head>}{$hl</head>} or die 'hreflang insert';
   my $ld = $a{schema};
