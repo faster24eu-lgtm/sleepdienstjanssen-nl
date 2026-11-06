@@ -108,3 +108,8 @@ Deploy note: tip commit after night polish for GitHub Pages queue.
 - New `/assets/og-janssen-1200x630.png` (navy/yellow brand card); wired as og:image + twitter:card/image sitewide (build.pl / build-en.pl + HTML). Hub SVG aria-labels already meaningful; no empty alts to fix. Faster: added twitter:card/image pointing at existing road photo.
 
 - PNG binary uploaded via Actions decode of `assets/og-janssen-1200x630.png.b64` (MCP cannot push binary); SVG sibling also in assets.
+
+## 2026-11-06 (night) – www/apex OK; OG dims/alt; schema polish; drop b64 workflow
+- Live: `https://www.{janssen,faster}` → **301** → apex; apex **200**; CNAME = apex; canonicals already apex. `http://` both hosts return **500** (GH Pages; DNS/CDN, not fixable in-repo).
+- og:image:width/height/alt + twitter:image:alt (Janssen 1200×630; Faster 1600×1200). AutomotiveBusiness +image (Janssen). Faster JSON-LD telephone normalized to E.164 `+3197010229095` (display phone unchanged).
+- Removed temporary `og-janssen-1200x630.png.b64` + decode Action; PNG remains in assets.
