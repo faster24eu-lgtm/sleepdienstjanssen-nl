@@ -189,3 +189,7 @@ Live after self-host (Lighthouse 13.6 mobile simulate, same night):
 - Janssen `/`: perf **99**, LCP **1.1s** (was 1.6s), CLS **0**, font transfer **33044 B** (was 50155 B)
 - Janssen `/en/`: perf **100**, LCP **0.8s** (was 1.7s), CLS **0**, font transfer **32890 B**
 Tip after Action: `c080d955`. Fonts live 200 OK (~7.8–8.7KB each). No Google Fonts requests.
+
+## 2026-11-06 (night) – Poppins glyph QA + a11y
+fonttools on self-hosted latin woff2 (400/700/800/800i): cmap **217** each. Needed Dutch glyphs **all present**: ë é ï ü ö ó á è ê î à ç € ’ ‘ “ ” (+ uppercase). Site-wide accent scan used only áéëó–— — all in font. Live `/sleepdienst-den-bosch/` retains `'s-Hertogenbosch` (no tofu, no Google Fonts). Weight remap left only **400/700/800** (no 500/600 refs).
+a11y (LH): contrast — `--blue` `#1e88e5`→`#1565c0` (verified: yellow on blue 3.73≥3; links on sky 5.11≥4.5; white on blue 5.75≥4.5); `.lang{color:#fff}`; crumbs/prose underline. Logo `aria-label` removed (name=visible text). Footer `<h4>`→`<h2 class="foot-h">`.

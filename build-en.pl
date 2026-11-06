@@ -113,7 +113,7 @@ my $EN_TOPBAR = qq(<div class="topbar"><div class="container">
 );
 my $EN_HEADER = qq(<header class="navwrap" id="nav">
   <nav class="container">
-    <a class="logo" href="/en/" aria-label="Janssen Towing — home">
+    <a class="logo" href="/en/">
       <svg><use href="#i-logo"/></svg>
       <span><b>janssen <em>towing</em></b><small>When you need us</small></span>
     </a>
@@ -171,9 +171,9 @@ my $EN_FOOT = qq(</main>
       <p>Towing, roadside assistance and car transport in Rotterdam, the Drechtsteden, Brabant and Zeeland. 24 hours a day, 7 days a week.</p>
       LANGSWITCH
     </div>
-    <div><h4>Service area</h4><ul>$FOOT_WERK</ul></div>
-    <div><h4>Services</h4><ul>$FOOT_SVC</ul></div>
-    <div><h4>Contact</h4><ul>
+    <div><h2 class="foot-h">Service area</h2><ul>$FOOT_WERK</ul></div>
+    <div><h2 class="foot-h">Services</h2><ul>$FOOT_SVC</ul></div>
+    <div><h2 class="foot-h">Contact</h2><ul>
       <li><a href="tel:$TEL">$DISP</a></li>
       <li><a href="$WA">WhatsApp</a></li>
       <li><a href="/en/privacy/">Privacy</a></li>

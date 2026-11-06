@@ -204,7 +204,7 @@ def page(*, title, desc, path, body, schema, crumbs=None):
 </div></div>
 <header class="navwrap" id="nav">
   <nav class="container">
-    <a class="logo" href="/" aria-label="{NAME} — home">
+    <a class="logo" href="/">
       <svg><use href="#i-logo"/></svg>
       <span><b>sleepdienst <em>janssen</em></b><small>Wanneer u ons nodig heeft</small></span>
     </a>
@@ -237,9 +237,9 @@ def page(*, title, desc, path, body, schema, crumbs=None):
         <a class="logo" href="/"><svg><use href="#i-logo"/></svg><span><b>sleepdienst <em>janssen</em></b><small>Wanneer u ons nodig heeft</small></span></a>
         <p>Sleepdienst, pechhulp en autotransport in {REGION}. 24 uur per dag, 7 dagen per week.</p>
       </div>
-      <div><h4>Werkgebied</h4><ul>{city_links}</ul></div>
-      <div><h4>Diensten</h4><ul><li><a href="/#diensten">Pechhulp</a></li><li><a href="/#diensten">Auto slepen</a></li><li><a href="/#diensten">Autotransport</a></li><li><a href="/#diensten">Bandenservice</a></li><li><a href="/#faq">Veelgestelde vragen</a></li><li><a href="/pech-op-de-snelweg/">Pech op de snelweg</a></li><li><a href="/elektrische-auto-slepen/">Elektrische auto slepen</a></li></ul></div>
-      <div><h4>Contact</h4><ul>
+      <div><h2 class="foot-h">Werkgebied</h2><ul>{city_links}</ul></div>
+      <div><h2 class="foot-h">Diensten</h2><ul><li><a href="/#diensten">Pechhulp</a></li><li><a href="/#diensten">Auto slepen</a></li><li><a href="/#diensten">Autotransport</a></li><li><a href="/#diensten">Bandenservice</a></li><li><a href="/#faq">Veelgestelde vragen</a></li><li><a href="/pech-op-de-snelweg/">Pech op de snelweg</a></li><li><a href="/elektrische-auto-slepen/">Elektrische auto slepen</a></li></ul></div>
+      <div><h2 class="foot-h">Contact</h2><ul>
         <li>Tel: <a href="tel:{PHONE_TEL}">{PHONE_DISPLAY}</a> (24/7)</li>
         <li><a href="mailto:{EMAIL}">{EMAIL}</a></li>
         <li><a href="https://wa.me/{WHATSAPP}" target="_blank" rel="noopener">WhatsApp</a></li>
