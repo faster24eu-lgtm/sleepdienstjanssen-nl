@@ -233,3 +233,9 @@ nav.crumbs{display:block;min-height:0;font-size:.82rem;color:var(--muted);paddin
 .cta .actions .btn{min-width:200px}
 @media(max-width:1000px){.city-grid{grid-template-columns:1fr}.side{position:static}.steps{grid-template-columns:1fr 1fr}.cities-grid.near{grid-template-columns:1fr 1fr}.hero-city .hero-art{margin:10px auto 0}}
 @media(max-width:640px){.steps,.cities-grid,.cities-grid.near{grid-template-columns:1fr}.cta .actions{flex-direction:column}.cta .actions .btn{width:100%}}
+
+/* lang-switch */
+.lang{display:inline-flex;align-items:center;gap:4px;font-size:13px;font-weight:600;margin-right:10px}
+.lang a{color:inherit;text-decoration:none;opacity:.85}
+.lang a:hover{opacity:1;text-decoration:underline}
+.navcta{display:flex;align-items:center;flex-wrap:wrap;gap:8px}
