@@ -182,3 +182,6 @@ Local Lighthouse 13.6 mobile (simulate) — real runs this night:
 - Janssen `/en/`: perf **99**, LCP **1.7s**, CLS **0.014**, TBT **0ms**
 Live transfer (approx): Faster CSS ~15KB + JS ~0.7KB; Janssen CSS ~17KB + Poppins Google Fonts. Fix: subset Poppins to `400/700/800` + italic `800` (drop 500/600 + unused italic 700); map CSS 500→400, 600→700. No OG/LCP hero changes.
 Post-fix live check (same LH mobile simulate on `/`): fonts/googleapis+gstatic transfer **34175 B** (was **50155 B**); still perf **99**, LCP **1.6s**, CLS **0.001**. Live HTML confirmed `Poppins:ital,wght@0,400;0,700;0,800;1,800`. SHAs: `067488c6` (CSS/build/SEO/Action) → Action `9dfd2f99` (HTML sitewide).
+
+## 2026-11-06 (night) – self-host Poppins
+Removed Google Fonts (preconnect + stylesheet). Self-host latin `400/700/800/800i` under `/assets/fonts/` (~32KB total), `@font-face` in `style.css`, preload 400+800+800i. Eliminates fonts.googleapis.com/gstatic round-trips.
